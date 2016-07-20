@@ -1,0 +1,9 @@
+Package: cc.tweak.libobjcipc
+Name: libobjcipc
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5101)
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description:
+Maintainer: Alan Yip
+Author: Alan Yip
+Section:

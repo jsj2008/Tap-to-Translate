@@ -1,0 +1,774 @@
+/* Accessibility value spoken after the name of a language in the language menu when there is a downloadable package available for that language to enable offline translation.  [CHAR LIMIT=25] */
+"ACCESSIBILITY_OFFLINE_DOWNLOAD_AVAILABLE" = "有可下载的语言包。";
+
+/* Inform the user the download has completed */
+"ACCESSIBILITY_OFFLINE_DOWNLOAD_COMPLETE" = "下载完成";
+
+/* Accessibility value spoken after the name of a language in the language menu when the offline translation package for that language is downloaded and installed. [CHAR LIMIT=25] */
+"ACCESSIBILITY_OFFLINE_DOWNLOAD_INSTALLED" = "已下载。";
+
+/* The section title for showing the list of languages supported by Google Translate. (40 chars) */
+"ALL_SUPPORTED_LANGUAGES" = "所有语言";
+
+/* Section title for list of languages that are available for downloading. [CHAR LIMIT=25] */
+"AVAILABLE_LANGUAGES" = "可下载的语言";
+
+/* Accessibility label for back button */
+"BACK_ARROW_ACCESSIBILITY_LABEL" = "返回";
+
+/* An accessibility label for a downloadable languagepackage that supports translations in both directions between English and another language. %%@ is a placeholder for a language name. */
+"BIDIRECTION_WITH_ENGLISH_LANGUAGE_PACK_A11Y_LABEL" = "%@，支持与英语互译。";
+
+/* Subtitle for an information dialog box when a user taps a link that would leave the Translate app, but fails due to parental controls. */
+"BROWSER_RESTRICTED_DIALOG_SUBTITLE" = "您对网络浏览器的使用权限受到限制，因此无法打开所选链接。";
+
+/* Title for an information dialog box when a user taps a link that would leave the Translate app, but fails due to parental controls.[CHAR LIMIT=50] */
+"BROWSER_RESTRICTED_DIALOG_TITLE" = "无法打开链接";
+
+/* Label for a button that shows additional details about the application. (20 chars) */
+"BUTTON_ABOUT" = "关于";
+
+/* Label for a button that shows camera input settings. (30 chars) */
+"BUTTON_CAMERA_INPUT_SETTINGS" = "相机输入";
+
+/* Button label to cancel an action. (10 chars) */
+"BUTTON_CANCEL" = "取消";
+
+/* Button label to cancel an action. (10 chars) */
+"BUTTON_CANCEL_UPPERCASE" = "取消";
+
+/* Label for button to clear translation history. (30 chars) */
+"BUTTON_CLEAR_HISTORY" = "清除翻译历史记录";
+
+/* Label for a button that shows the feedback page of the application. (20 chars) */
+"BUTTON_FEEDBACK" = "反馈";
+
+/* Label for a button that shows handwriting recognition settings. (30 chars) */
+"BUTTON_HANDWRITING_SETTINGS" = "手写";
+
+/* Label for a button that shows help page of the application. (20 chars) */
+"BUTTON_HELP" = "帮助";
+
+/* Label for a settings menu item that shows the offline translation languages management screen. (30 chars) */
+"BUTTON_OFFLINE_TRANSLATION_SETTINGS" = "离线翻译";
+
+/* Select all word boxes [CHAR LIMIT=20] */
+"BUTTON_SELECT_ALL" = "全选";
+
+/* Select all word boxes [CHAR LIMIT=20] */
+"BUTTON_SELECT_ALL_UPPERCASE" = "全选";
+
+/* Label for a button that sends feedback. (20 chars) */
+"BUTTON_SEND_FEEDBACK" = "反馈意见";
+
+/* Label for a button that shows voice settings. (20 chars) */
+"BUTTON_SPEECH_SETTINGS" = "语音输入";
+
+/* Button label to retry an action. [CHAR LIMIT=20] */
+"BUTTON_TRY_AGAIN" = "重试";
+
+/* A small toast label displayed in front of the camera image, indicating to the user that the orientation of this label is the same orientation as what the camera will try to read using OCR. (40 chars) */
+"CAMERA_ALIGN_TEXT" = "对正文字方向";
+
+/* A small toast label displayed in front of the camera image, indicating to the user that the orientation of this label is the same orientation as what the camera will try to read using OCR. (40 chars) */
+"CAMERA_ALIGN_TEXT_LEFT_TO_RIGHT" = "对正文字方向（水平）";
+
+/* Shown when the camera is used in Split View or Slide Over modes on newer iPads. Split View and Slide Over are features added in iOS9. [CHAR LIMIT=150] */
+"CAMERA_AVAILABLE_IN_FULL_SCREEN_ONLY" = "无法使用相机。\n要启用相机，请使用全屏模式。";
+
+/* Accessibility label for the button which will download support for instant translation when tapped.[CHAR LIMIT=20] */
+"CAMERA_DOWNLOAD" = "下载";
+
+/* Accessibility value for the button which is indicating that a download is in progress.[CHAR LIMIT=20] */
+"CAMERA_DOWNLOADING_A11Y_VALUE" = "正在下载";
+
+/* Summary for camera privacy settings. (80 chars.) */
+"CAMERA_INPUT_LOGGING_DETAILS" = "允许 Google 保留您要翻译的文字图片。";
+
+/* Accessibility label for translate camera input mode button */
+"CAMERA_INPUT_MODE_BUTTON_ACCESSIBILITY_LABEL" = "翻译相机拍摄的内容";
+
+/* Label below a 'instant' button.  Verb; will toggle instant translation mode.[CHAR LIMIT=12] */
+"CAMERA_INSTANT" = "即时";
+
+/* Accessiblity hint for the instant translation download button.  When user activates the button, a download dialog prompt is displayed.[CHAR LIMIT=80] */
+"CAMERA_INSTANT_DOWNLOAD_A11Y_HINT" = "点按两次即可查看即时相机翻译。";
+
+/* Dialog message to indicate that the user may incur data charges if they decide to download the file. [CHAR LIMIT=40] */
+"CAMERA_INSTANT_DOWNLOAD_BOTTOM_MESSAGE" = "注意：可能需要支付流量费。";
+
+/* Button label.  Tapping on it will begin download. (20 chars) */
+"CAMERA_INSTANT_DOWNLOAD_BUTTON" = "下载";
+
+/* Accessiblity hint for the instant translation download cancel button.  When user activates the button, a download cancel dialog prompt is displayed.[CHAR LIMIT=50] */
+"CAMERA_INSTANT_DOWNLOAD_CANCEL_A11Y_HINT" = "点按两次即可取消下载。";
+
+/* Dialog message to explain to the user that this download will allow them to translate instantly between the two languages using their camera.[CHAR LIMIT=120] */
+"CAMERA_INSTANT_DOWNLOAD_CAPTION_MESSAGE" = "要使用相机即时翻译此语言，请下载即时相机翻译语言包。";
+
+/* Tooltip above instant download icon.  When user taps icon, a download dialog prompt is displayed.[CHAR LIMIT=80] */
+"CAMERA_INSTANT_DOWNLOAD_TIP" = "触摸即可查看即时相机翻译";
+
+/* Title of a dialog box that prompts user to download data that enables instant camera translation. (60 chars) */
+"CAMERA_INSTANT_DOWNLOAD_TOP_MESSAGE" = "即时翻译印刷文字";
+
+/* Title of a dialog box that prompts user to download a package that enables instant camera translation. (60 chars) */
+"CAMERA_INSTANT_DOWNLOAD_TOP_MESSAGE_FINAL" = "下载语言包";
+
+/* Label that shows above button, indicating that instant mode is now turned off. (30 chars) */
+"CAMERA_INSTANT_OFF_HINT" = "即时翻译模式已关闭";
+
+/* Label that shows above button, indicating that instant mode is now turned on. (30 chars) */
+"CAMERA_INSTANT_ON_HINT" = "即时翻译模式已开启";
+
+/* Message on a dialog box shown when a camera image is going to be sent to server for OCR for the first time. (100 chars) */
+"CAMERA_LOGGING_DIALOG_BOTTOM_MESSAGE" = "您以后还可以在“设置”中更改相关设置。";
+
+/* Message on a dialog box shown when a camera image is going to be sent to server for OCR for the first time. (120 chars) */
+"CAMERA_LOGGING_DIALOG_CHECKBOX_MESSAGE" = "允许 Google 保留您要翻译的文字图片，帮助我们改进服务";
+
+/* Message on a dialog box shown when a camera image is going to be sent to server for OCR for the first time. (100 chars) */
+"CAMERA_LOGGING_DIALOG_TOP_MESSAGE" = "您的照片将发送到Google，以便进行文字识别。";
+
+/* A toast label displayed in front of the camera image indicating to the user whether the app is in instant translation (Word Lens) mode or camera translation mode (30 chars) */
+"CAMERA_MODE_INSTANT_SUPPORTED" = "即时翻译模式";
+
+/* A toast label displayed in front of the camera image indicating to the user whether the app is in live translation (Word Lens) mode or camera translation mode (30 chars) */
+"CAMERA_MODE_LIVE_SUPPORTED" = "即时翻译模式";
+
+/* A toast label to suggest a user action when live mode is supported (50 chars) */
+"CAMERA_MODE_LIVE_SUPPORTED_SUBLABEL" = "将相机对准文字即可翻译";
+
+/* A toast label displayed in front of the camera image indicating to the user whether the app is in live translation (Word Lens) mode or camera translation mode (30 chars) */
+"CAMERA_MODE_LIVE_UNSUPPORTED" = "相机翻译模式";
+
+/* A toast label to suggest a user action when live mode is not supported [CHAR LIMIT=50] */
+"CAMERA_MODE_LIVE_UNSUPPORTED_SUBLABEL" = "拍照以进行翻译";
+
+/* Shown if the user disables Camera permissions for the Translate app. The words 'Settings', 'Privacy', and 'Camera' refer to the iOS7 or iOS8 Settings app, and should match the system strings.  The wildcard represents our app name. */
+"CAMERA_NOT_AVAILABLE_WITH_HINT" = "相机无法使用。\n请打开“设置”>“隐私”>“相机”，\n然后启用%@。";
+
+/* Label below a 'pause' icon.  Verb; will freeze camera video.  [12 chars] */
+"CAMERA_PAUSE" = "暂停";
+
+/* Label of the button to import photo. [CHAR LIMIT=12] */
+"CAMERA_PHOTO" = "照片";
+
+/* Label below a photo gallery icon.  Verb preferred, but could also refer to the user's system photo gallery. [12 chars] */
+"CAMERA_PHOTO_IMPORT" = "导入";
+
+/* Label below a 'play' icon.  Verb; will start camera video. [12 chars] */
+"CAMERA_PLAY" = "恢复";
+
+/* Label of the button that does redo of a camera input related action. [CHAR LIMIT=12] */
+"CAMERA_REDO" = "重做";
+
+/* Accessibility label for the camera rotation lock setting. */
+"CAMERA_ROTATION_LOCK_A11Y_LABEL" = "锁定相机方向";
+
+/* Label below a 'scan' button.  Verb; will switch app into image scanning mode. [CHAR LIMIT=12] */
+"CAMERA_SCAN" = "扫描";
+
+/* Title for the list of supported languages that will follow. [CHAR LIMIT=50] */
+"CAMERA_SUPPORTED_LANGUAGES_HINT" = "支持的语言";
+
+/* Accessibility label for the camera flashlight.  This label is used on an icon button that resembles a flashlight.  It is used to toggle the camera flash on or off as continuous lighting for the scene. */
+"CAMERA_TORCH_A11Y_LABEL" = "闪光灯";
+
+/* Caption of the tour image pointing at the button that triggers higher-quality scanning of the image for text. [CHAR LIMIT=80] */
+"CAMERA_TOUCH_TO_ENHANCE_HINT" = "触摸即可提高文字识别准确度";
+
+/* Tooltip displayed on top of the pause button on instant camera input view. This is used when the source is a left-to-right (LTR) language, and the target is right-to-left (RTL), or vice-versa. Let the user know that when they touch the pause button to pause video, the lines of text will be reversed so that each line is properly right-to-left (or vice versa). [CHAR LIMIT=NONE] */
+"CAMERA_TOUCH_TO_REVERSE" = "触摸即可调换文字书写顺序";
+
+/* Call to action, referencing adjacent icon, which matches the SCAN button icon. SCAN is capitalized as the label of the referenced button is also capitalized. [CHAR LIMIT=50] */
+"CAMERA_TOUCH_TO_SEARCH_HINT" = "点按“扫描”按钮以翻译文字";
+
+/* Shown when the camera is used in Split View or Slide Over modes on newer iPads. Split View and Slide Over are features added in iOS9. [CHAR LIMIT=150] */
+"CAMERA_UNAVAILABLE_IN_SPLIT_VIEW" = "无法使用相机。\n要启用相机，请退出拆分视图模式。";
+
+/* Label of the button that does redo of a camera input related action. [CHAR LIMIT=12] */
+"CAMERA_UNDO" = "撤消";
+
+/* Caption of the tour screen describing to the user that live translation mode works best on big text. [CHAR LIMIT=60] */
+"CAMERA_WORKS_BEST_HINT" = "最适合标牌和较大的文字";
+
+/* Accessibility label for the camera zoom setting. */
+"CAMERA_ZOOM_A11Y_LABEL" = "缩放";
+
+/* Title to stop current download. [CHAR LIMIT=20] */
+"CANCEL_DOWNLOAD_TITLE" = "取消下载";
+
+/* Label for button to clear translation history. (30 chars) */
+"CLEAR_HISTORY_OK" = "确定";
+
+/* Sub-title for clear history alert. */
+"CLEAR_HISTORY_SUBTITLE" = "系统将从此应用中清除所有翻译历史记录。";
+
+/* Title for clear history alert. */
+"CLEAR_HISTORY_TITLE" = "清除翻译历史记录";
+
+/* Accessibility label for the clear input button */
+"CLEAR_INPUT_BUTTON_ACCESSIBILITY_LABEL" = "清除文字";
+
+/* Accessibility label for the conversation mode button. When tapped, it turns on the microphone to listen for both languages simultaneously. [CHAR LIMIT=80] */
+"CONVERSATION_BUTTON_A11Y_HINT" = "同时听取两种语言。";
+
+/* Accessibility label for the conversation mode button. When tapped, it turns on the microphone to listen for both languages simultaneously. [CHAR LIMIT=80] */
+"CONVERSATION_BUTTON_A11Y_LABEL" = "听取";
+
+/* Accessibility label for a button that copies translated text to the clipboard. */
+"COPY_TRANSLATED_TEXT_A11Y_LABEL" = "复制译文";
+
+/* Title for alert popup that tells users a crash occurred recently (the last time they used the app). (50 chars) */
+"CRASH_ALERT_TITLE" = "糟糕，此应用最近崩溃过。";
+
+/* Settings option description for toggling the shake to send feedback (140 chars.) */
+"CRASH_REPORTS_DETAILS" = "向 Google 发送匿名的崩溃报告，帮助我们改善您的使用体验。";
+
+/* Title for the dictionary card. (20 chars) */
+"DICTIONARY_TITLE" = "字典";
+
+/* Title for a spelling correction suggestion [CHAR LIMIT=50] */
+"DID_YOU_MEAN_TEXT_TITLE" = "您是不是要输入";
+
+/* Label on a message that appears briefly at the bottom of the screen when an offline translation package download was cancelled by the user. [CHAR LIMIT=40] */
+"DOWNLOAD_CANCELLED_HUD_MESSAGE" = "已取消下载";
+
+/* Label on a message that appears briefly at the bottom of the screen when a offline translation package download completes. [CHAR LIMIT=40] */
+"DOWNLOAD_COMPLETED_HUD_MESSAGE" = "下载已完成";
+
+/* Text to describe the amount of storage space available on the device.PH_1: a placeholder for the amount of space available in human readable units (eg: 200MB). You may modify its position. [CHAR LIMIT=35] */
+"DOWNLOAD_DIALOG_PACKAGE_SUBTITLE" = "可用存储空间：%@";
+
+/* Text to describe a file to be downloaded for offline translation support which is displayed in a download dialog.PH_1: a placeholder for the size of the file in human readable units (eg: 20MB). [CHAR LIMIT=25] */
+"DOWNLOAD_DIALOG_PACKAGE_TITLE" = "翻译文件 (%@)";
+
+/* Additional text that is displayed in the header of a download dialog when the user is updating an existing offline translation package to a newer version. [CHAR LIMIT=60] */
+"DOWNLOAD_DIALOG_UPDATE_BANNER_TEXT" = "您当前的翻译文件已过期";
+
+/* Additional text that is displayed in the header of a download dialog when the user is upgrading an existing offline translation package. [CHAR LIMIT=60] */
+"DOWNLOAD_DIALOG_UPGRADE_BANNER_TEXT" = "升级可提高离线翻译质量";
+
+/* Error message shown when download of offline packages failed. [CHAR LIMIT=20] */
+"DOWNLOAD_FAILED_ERROR_MESSAGE" = "下载失败";
+
+/* The body of an error dialog shown when a user-initiated download failed because there was a network failure or the network was unavailable. [CHAR LIMIT=100] */
+"DOWNLOAD_FAILED_OFFLINE_BODY" = "请检查您的网络连接，然后重试。";
+
+/* The title of an error dialog shown when a user-initiated download failed because there was a network failure or the network was unavailable. [CHAR LIMIT=45] */
+"DOWNLOAD_FAILED_OFFLINE_TITLE" = "无法下载语言";
+
+/* Title to show failed language package download. [CHAR LIMIT=20] */
+"DOWNLOAD_FAILED_TITLE" = "下载失败";
+
+/* Accessibility hint to download the files necessary to offline translation. */
+"DOWNLOAD_LANGUAGE_HINT" = "点按两次即可下载。";
+
+/* Label for downloading languages [CHAR LIMIT=20] */
+"DOWNLOAD_LANGUAGE_TITLE" = "下载语言";
+
+/* Accessibility action name for the action to start the download of an offline translation file for currently selected langauge. This action name is spoken by the screen reader  as part of a list of actions that the user make take on language in the language menu. [CHAR LIMIT=25] */
+"DOWNLOAD_OFFLINE_FILE_A11Y_ACTION" = "下载";
+
+/* Title for a settings screen where users can configure whether or not to allow downloads over cellular networks. [CHAR LIMIT=40] */
+"DOWNLOAD_SETTINGS_ALLOW_CELLULAR_LABEL" = "无线局域网或移动网络";
+
+/* Title for a settings screen where users can configure whether or not to allow downloads over cellular networks. [CHAR LIMIT=25] */
+"DOWNLOAD_SETTINGS_ALWAYS_ASK_LABEL" = "一律询问";
+
+/* Option in a dialog shown to users after they start a download, asking them to choose whether or not to allow downloads over cellular networks. [CHAR LIMIT=40] */
+"DOWNLOAD_SETTINGS_DIALOG_ALLOW_CELLULAR_LABEL" = "使用无线局域网或移动网络";
+
+/* Title for a switch in a dialog shown to users after they start a download, asking them to choose whether or not to allow downloads over cellular networks. [CHAR LIMIT=25] */
+"DOWNLOAD_SETTINGS_DIALOG_REMEMBER_SETTINGS_LABEL" = "记住此设置";
+
+/* Title for a dialog shown to users after they start a download, asking them to choose whether or not to allow downloads over cellular networks. [CHAR LIMIT=25] */
+"DOWNLOAD_SETTINGS_DIALOG_TITLE" = "下载设置";
+
+/* Option in a dialog shown to users after they start a download, asking them to choose whether or not to allow downloads over cellular networks. [CHAR LIMIT=40] */
+"DOWNLOAD_SETTINGS_DIALOG_WIFI_ONLY_LABEL" = "仅使用无线局域网";
+
+/* Title for a settings screen where users can configure whether or not to allow downloads over cellular networks. [CHAR LIMIT=25] */
+"DOWNLOAD_SETTINGS_TITLE" = "下载偏好设置";
+
+/* Title for a settings screen where users can configure whether or not to allow downloads over cellular networks. [CHAR LIMIT=40] */
+"DOWNLOAD_SETTINGS_WIFI_ONLY_LABEL" = "仅通过无线局域网下载";
+
+/* Label on a message that appears briefly at the bottom of the screen when a user starts a download of an offline translation package. [CHAR LIMIT=40] */
+"DOWNLOAD_STARTED_HUD_MESSAGE" = "正在尝试下载";
+
+/* Description to inform the user that no language packages are available for download currently. [CHAR LIMIT=150] */
+"DOWNLOAD_UNAVAILABLE_DESCRIPTION" = "目前没有可供下载的语言包，请稍后再查看。";
+
+/* Title to show download packages are unavailable.[CHAR LIMIT=20] */
+"DOWNLOAD_UNAVAILABLE_TITLE" = "下载语言包";
+
+/* Section header for downloaded languages.[CHAR LIMIT=20] */
+"DOWNLOADED_LANGUAGES_HEADER" = "已下载的语言";
+
+/* Section header for downloading languages.[CHAR LIMIT=20] */
+"DOWNLOADING_LANGUAGES_HEADER" = "正在下载";
+
+/* Error dialog body for generic failure.  '%ld' is a placeholder for a numeric error code. (no limit) */
+"ERROR_MESSAGEBOX_BODY_GENERAL_FAILURE" = "出了点问题，请重试。错误代码：%ld";
+
+/* Error message for a network error when sending a photo OCR request to server (80 chars) */
+"ERROR_MESSAGEBOX_CAMERA_INPUT_REQUEST_ERROR_MESSAGE" = "发送照片时出错。请稍后重试。";
+
+/* Error message for translation error. (no limit) */
+"ERROR_MESSAGEBOX_MESSAGE" = "“Google 翻译”无法建立网络连接，因而无法执行您的请求。请检查您的网络连接状况，然后重试。";
+
+/* Error dialog title for generic failure (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_GENERAL_FAILURE" = "错误";
+
+/* Error dialog title for a network error (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_NETWORK_ERROR" = "网络错误";
+
+/* Error dialog title for an error when sending a photo image to server (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_S3REQUEST_ERROR" = "无法发送照片";
+
+/* Error dialog title when failing to save a translation (20 chars) */
+"ERROR_MESSAGEBOX_TITLE_STAR_TABLE_FULL_FAILURE" = "错误";
+
+/* Error dialog title for a timeout error (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_TIMEOUT_ERROR" = "超时";
+
+/* Error dialog title for translation failure (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_TRANSLATION_FAILURE" = "网络错误";
+
+/* Message shown when no text is found in a given photo. (50 chars) */
+"ERROR_NO_TEXT_FOUND" = "未找到任何文字";
+
+/* Message shown when no text is found in a given photo. PH_1: a placeholder for language name (eg: French). You may modify its position in the final text, but it should be present in the final text. (50 chars) */
+"ERROR_NO_TEXT_FOUND_WITH_LANGNAME" = "未找到任何%@文字";
+
+/* Accessibility hint for a button that exits the full screen view. */
+"EXIT_FULL_SCREEN_A11Y_LABEL" = "退出全屏模式";
+
+/* Label shown below the German to Arabic instant translation package in settings [CHAR LIMIT=40]. */
+"GERMAN_ARABIC_SETTINGS_SUBTITLE" = "改善即时相机翻译质量";
+
+/* Settings option description for toggling the automatic recognition result insertion feature for handwriting recognition (140 chars.) */
+"HANDWRITING_AUTOMATIC_INSERTION_DETAILS" = "自动确认手写文字并将文字插入文本框中。如果此功能停用，请按空格键来确认手写文字。";
+
+/* Accessibility label for translate handwriting mode button */
+"HANDWRITING_INPUT_MODE_BUTTON_ACCESSIBILITY_LABEL" = "翻译手写内容";
+
+/* The text prompt to instruct the user to write inside the textbox. (20 chars) */
+"HANDWRITING_INPUT_PLACEHOLDER" = "在此处手写";
+
+/* Hint message shown on starred view when there is no starred translation yet (50 chars) */
+"HINT_STAR" = "给译文加上星标后，它们就会显示在这里。";
+
+/* The text prompt to instruct the user that they can swipe a history translation to remove it. (40 chars) */
+"HINT_SWIPE_TO_REMOVE" = "滑动可移除翻译";
+
+/* Title of a table section that displays previous translations. (60 chars) */
+"HISTORY_SUGGESTION_SECTION_HEADER" = "根据翻译历史记录提供的建议";
+
+/* Accessibility label for backspace button. */
+"HWR_BACKSPACE_A11Y_LABEL" = "退格";
+
+/* Title of a dialog box that asks if the user allows Google to retain image data to improve quality (30 chars) */
+"IMPROVE_CAMERA_TITLE" = "改进相机输入";
+
+/* Hint text shown on the input card when there is no current input. This hint helps those users who cannot find a way to bring up virtual keyboard to type input text. (40 chars) */
+"INPUT_PLACEHOLDER" = "点按即可输入文本";
+
+/* The input view on the home page is colored grey and disabled and this message is shown when there is no network available and the currently selected langauges do not support offline translation. [CHAR LIMIT=50] */
+"INPUT_VIEW_OFFLINE_ERROR_MESSAGE" = "您处于离线状态";
+
+/* Label shown on the input view when there is no network connectivity and the user does not have offline translation support files installed for the currently selected languages. [CHAR LIMIT=25] */
+"INPUT_VIEW_OFFLINE_LABEL" = "您处于离线状态";
+
+/* Accessibility label for instant translate camera input mode button */
+"INSTANT_CAMERA_INPUT_MODE_BUTTON_A11Y_LABEL" = "即时相机翻译";
+
+/* The text of a card shown to user attempting text translation when the network is not available and the current selected languages do not support offline text translation. [CHAR LIMIT=100] */
+"INSTANT_TEXT_OFFLINE_ERROR_MESSAGE" = "无法翻译。请检查您的网络连接，然后重试。";
+
+/* Dialog body on an error dialog shown to users when they attempt to download offline translation support files and there is not enough storage available on their device. [CHAR LIMIT=200] */
+"INSUFFICIENT_STORAGE_DIALOG_BODY" = "下载离线翻译文件时出错。请释放存储空间并重试。";
+
+/* Title on an error dialog shown to users when they attempt to download offline translation support files and there is not enough storage available on their device. [CHAR LIMIT=30] */
+"INSUFFICIENT_STORAGE_DIALOG_TITLE" = "存储空间不足";
+
+/* Accessibility label for translate keyboard input mode button */
+"KEYBOARD_INPUT_MODE_BUTTON_ACCESSIBILITY_LABEL" = "翻译文字";
+
+/* Label for a sheet title that sends feedback. (20 chars) */
+"LABEL_SEND_FEEDBACK" = "发送反馈？";
+
+/* Settings option for toggling the shake to send feedback. (20 chars) */
+"LABEL_SHAKE_FEEDBACK_SETTINGS" = "摇晃手势";
+
+/* Settings option label for the sub-page for toggling the shake to send feedback (40 chars.) */
+"LABEL_SHAKE_FEEDBACK_SETTINGS_VIEW" = "摇晃设备发送反馈意见";
+
+/* Settings option description for toggling the shake to send feedback (140 chars.) */
+"LABEL_SHAKE_GESTURE_DETAILS" = "摇晃您的设备，以发送关于Google翻译的反馈意见并提交给我们的小组";
+
+/* Accessibility hint for a language button */
+"LANGUAGE_A11Y_HINT" = "更改语言。";
+
+/* Accessibilty hint for a button labelled with a language name that when pressed, listens for just that single language. [CHAR LIMIT=80] */
+"LANGUAGE_VOICE_BUTTON_A11Y_HINT" = "听取一种语言。";
+
+/* Subtitle for a confirmation dialog when a user taps a link that leaves the Translate app.[CHAR LIMIT=160] */
+"LEAVE_APP_DIALOG_SUBTITLE" = "此操作会打开外部应用。要返回，请双击“首页”按钮。";
+
+/* Title for a confirmation dialog when a user taps a link that leaves the Translate app.[CHAR LIMIT=50] */
+"LEAVE_APP_DIALOG_TITLE" = "要退出翻译应用吗？";
+
+/* Message shown when voice input is active and the app can recognize speech in either one of the two languages selected. (50 chars) */
+"LISTENING_BOTH_LANGS_MESSAGE" = "正在听取两种语言";
+
+/* Accessibility hint for double-tap and hold gesture to copy the current item to the clipboard. */
+"LONG_PRESS_TO_COPY_A11Y_HINT" = "点按两次并按住即可复制。";
+
+/* Message shown while waiting for the text in the photo to be recognized by the server; PH_1: a placeholder for language name (eg: French). You may modify its position in the final text, but it should be present in the final text. [CHAR LIMIT=50] */
+"LOOKING_FOR_TEXT_MESSAGE" = "正在寻找%@文字…";
+
+/* Error message when failing to save a translation. (120 chars) */
+"MESSAGEBOX_STAR_TABLE_FULL_FAILED" = "抱歉，我们无法保存您的翻译。您加星标的翻译数量已达上限。";
+
+/* Dialog title for Text To Speech network error (30 chars) */
+"MESSAGEBOX_TITLE_TTS_NETWORK_FAILED" = "网络错误";
+
+/* Message box message to notify that Text To Speech failed to download audio data because of network error. (no Limit) */
+"MESSAGEBOX_TTS_NETWORK_FAILED" = "该功能需要联网才能使用。请检查您的网络连接状况，然后重试。";
+
+/* Message box message to notify that Text To Speech will not work because the input text is too long. (no Limit) The parameter is the max number of characters accepted. */
+"MESSAGEBOX_TTS_TEXT_TOO_LONG" = "“文字转语音”最多支持 %d 个字符。请减少字数，然后重试。";
+
+/* Message box message to notify that Text To Speech will not work because the volume on the device is off. (No limit) */
+"MESSAGEBOX_TTS_VOLUME_OFF" = "设备的音量已关闭。请调高音量，然后重试。";
+
+/* Accessibility label for translate microphone input mode button */
+"MIC_INPUT_MODE_BUTTON_ACCESSIBILITY_LABEL" = "翻译语音输入内容";
+
+/* The body of a model dialog shwown when the user tries to start voice input but we lack permission to use the mic.  The primary action button of this dialog will send the user to the Settings app to fix the permission problem.  '%@' is the name of the Translate application. [CHAR LIMIT=200] */
+"MIC_PERMISSIONS_HELP_SUBTITLE" = "%@需要获取对麦克风的使用权限。";
+
+/* Title of modal dialog shown when the user tries to start voice input but we lack permission to use the mic. The body of this dialog instructs the user how to change the permissions setting. [CHAR LIMIT=40] */
+"MIC_PERMISSIONS_HELP_TITLE" = "无法使用麦克风";
+
+/* Label on a message that appears briefly at the bottom of the screen when a user attempts an action that requires a network connection when the network is not available. [CHAR LIMIT=50] */
+"NETWORK_UNAVAILABLE_HUD_MESSAGE" = "此功能无法离线使用";
+
+/* Text that appears in the main body of a dialog for downlading files necessary for offline translation.  [CHAR LIMIT=200] */
+"OFFLINE_DOWNLOAD_DIALOG_BODY" = "下载离线翻译文件后，即使您处于离线状态也可以翻译此语言。";
+
+/* Subtitle of a dialog box for downloading files necessary for offline translation.  [CHAR LIMIT=40] */
+"OFFLINE_DOWNLOAD_DIALOG_SUBTITLE" = "离线翻译";
+
+/* The text of a card shown to users when the network is unavailable to promote the use of the offline translation feature. */
+"OFFLINE_PROMO_CARD_BODY_OFFLINE" = "只要在下次联网后下载离线翻译文件，即使您处于离线状态也可以进行翻译。";
+
+/* The text of a card shown to users when the network is available to promote the use of the offline translation feature. */
+"OFFLINE_PROMO_CARD_BODY_ONLINE" = "下载离线翻译文件后，即使您处于离线状态也可以进行翻译。";
+
+/* Text that appears underneth translated text when when the translation was made with offline dictionaries. [CHAR LIMIT=25] */
+"OFFLINE_RESULT_LABEL" = "离线";
+
+/* Label for a button to allow the app to perform an particular action. (30 chars) */
+"OK_BUTTON_LABEL" = "确定";
+
+/* Header text for an open source license. */
+"OPEN_SOURCE_LICENSE_HEADER_TEXT" = "本软件部分采用了%@的技术：";
+
+/* Header text for an open source license. 'Translate' in this message is the name of product Google Translate (80 chars) */
+"OPEN_SOURCE_LICENSE_HEADER_TEXT_TRANSLATE" = "Google 翻译还采纳了来自%@的资料：";
+
+/* The text that appears when a user performs a long-press copy on the original text of a translation result. */
+"ORIGINAL_TEXT_COPIED" = "已复制原文";
+
+/* There was an unexpected error when processing the image, so photo import was cancelled. */
+"PHOTO_IMPORT_ERR_PREPARING" = "准备要导入的图片时出错。";
+
+/* Message shown when the app is processing and the user needs to wait before taking a next action. For example this message is shown when the app is setting up a connection with the speech server and is not ready to recognize speech input from the user. (50 chars) */
+"PLEASE_WAIT_MESSAGE" = "请稍候…";
+
+/* Message shown when the app is preparing text-to-speech for translation text of a speech recognition result. (50 chars) */
+"PREPARING_TTS_MESSAGE" = "正在准备说出译文…";
+
+/* The section title for showing a list of languages that are used recently. (40 chars) */
+"RECENT_USED_LANGUAGES" = "近期使用过的语言";
+
+/* Accessibility action name for action to remove a translated item.  This name is spoken by the screen reader as part of a list of actions the user may take on a translated item. */
+"REMOVE_A11Y_ACTION" = "移除";
+
+/* Title to remove language package. [CHAR LIMIT=20] */
+"REMOVE_PACKAGE_TITLE" = "移除语言包";
+
+/* Alert popup button to opt in to (yes, approve, agree) sending crash reports. (10 chars) */
+"REPORT_CRASHES_OPT_IN" = "确定";
+
+/* Alert popup button to opt out of (no, disapprove, deny) sending crash reports. (10 chars) */
+"REPORT_CRASHES_OPT_OUT" = "不，谢谢";
+
+/* Text to ask users to choose whether to send anonymous crash reports. (120 chars) */
+"REPORT_CRASHES_PROMPT" = "您愿意发送匿名崩溃报告，帮助我们改进此应用吗？";
+
+/* Label for search input text bar by which the user can enter text to search for a language. (15 chars) */
+"SEARCH_BAR_HINT" = "搜索";
+
+/* Label for a yes/no switch that enables automatic crash reporting. (25 chars) */
+"SEND_CRASH_REPORTS" = "发送崩溃报告";
+
+/* Label for a feature in the settings page that has been disabled (8 chars.) */
+"SETTINGS_FEATURE_DISABLED" = "关闭";
+
+/* Label for a feature in the settings page that has been enabled (8 chars.) */
+"SETTINGS_FEATURE_ENABLED" = "开启";
+
+/* Accessibility label for a button that opens a menu of options for sharing translated text, such as via Mail, SMS, or Facebook. */
+"SHARE_A11Y_LABEL" = "分享";
+
+/* Message shown after the user takes the picture [CHAR LIMIT=50] */
+"SMUDGE_TO_READ_HINT" = "使用手指点按，选出相应文字";
+
+/* Accessibility label for the source language button. PH_1: a placeholder for language name (eg: French). You may modify its position in the final text, but it should be present in the final text. [CHAR LIMIT=50] */
+"SOURCE_LANGUAGE_A11Y_LABEL" = "源语言：%@";
+
+/* Text that labels the spacebar in a keyboard. (12 chars) */
+"SPACE" = "空格";
+
+/* Message shown when voice input is active (50 chars) */
+"SPEAK_NOW_MESSAGE" = "请开始说话";
+
+/* Accessibility hint for a button that speaks the original text using Google's text-to-speech engine. */
+"SPEAK_ORIGINAL_TEXT_A11Y_LABEL" = "朗读原文";
+
+/* Prompt message for when TTs is not available for a language. (100 chars) */
+"SPEAK_OUTPUT_NOT_AVAILABLE" = "此语言不支持语音输出";
+
+/* Accessibility hint for a button that speaks text using Google's text-to-speech engine. */
+"SPEAK_TEXT_A11Y_HINT" = "使用 Google 的文字转语音系统朗读。";
+
+/* Accessibility hint for a button that speaks the translated text using Google's text-to-speech engine. */
+"SPEAK_TRANSLATED_TEXT_A11Y_LABEL" = "朗读译文";
+
+/* Accessibility label for history item star button.  In This context 'star' is used as a verb.(40 chars) */
+"STAR_BUTTON_ACCESSIBILITY_LABEL" = "为翻译加注星标";
+
+/* Accessibility value for a translated item that has been starred by the user.  Read by the screen reader as part of the item description. */
+"STARRED_ITEM_A11Y_VALUE" = "已加星标";
+
+/* An error message for a downloadable file shown when the file could not be saved. [CHAR LIMIT=50] */
+"STORAGE_FAILURE_ERROR_MESSAGE" = "无法保存文件。";
+
+/* Summary for speech input settings for blocking offensive words. (80 chars.) */
+"SUMMARY_SPEECH_PROFANITY_FILTER_SETTINGS" = "隐藏确定为不文明的语音结果";
+
+/* Accessibility hint for a button that displays the current translation in a full screen view. */
+"SUPERSIZE_A11Y_HINT" = "点按两次可以全屏模式显示翻译。";
+
+/* Accessibility label for a button that displays the current translation in a full screen view. */
+"SUPERSIZE_A11Y_LABEL" = "全屏";
+
+/* Short label for swap language button. [CHAR LIMIT=25] */
+"SWAP_LANG_HINT" = "交换语言";
+
+/* The enumerated position of a tab in the tab bar for VoiceOver. */
+"TAB_1_OF_3" = "第 1 个标签，共 3 个";
+
+/* The enumerated position of a tab in the tab bar for VoiceOver. */
+"TAB_2_OF_3" = "第 2 个标签，共 3 个";
+
+/* The enumerated position of a tab in the tab bar for VoiceOver. */
+"TAB_3_OF_3" = "第 3 个标签，共 3 个";
+
+/* The tab title for the main application page where users input to translate texts. (noun). (10 chars) */
+"TAB_HOME" = "首页";
+
+/* Button label for the Settings section). (10 chars) */
+"TAB_SETTINGS" = "设置";
+
+/* Button label for the starred results section. (noun) (10 chars) */
+"TAB_STARRED" = "加星标";
+
+/* Accessibility label for the target language button. PH_1: a placeholder for language name (eg: French). You may modify its position in the final text, but it should be present in the final text. [CHAR LIMIT=50] */
+"TARGET_LANGUAGE_A11Y_LABEL" = "译文语言：%@";
+
+/* The text that appears when a user performs a long-press copy on text.  (50 chars) */
+"TEXT_COPIED" = "文字已复制";
+
+/* Page title for about page of the application. (noun) (20 chars) */
+"TITLE_ABOUT" = "关于";
+
+/* Cell title for the automatic insertion setting. (noun) (25 chars) */
+"TITLE_AUTOMATIC_INSERTION_CELL" = "自动确认";
+
+/* Page title for camera input settings page of the application. (noun) (30 chars) */
+"TITLE_CAMERA_INPUT_SETTINGS" = "相机输入";
+
+/* Title for the button to open a page showing legal notices for dictionaries and other translation materials used by Google Translate. (noun)(30 chars) */
+"TITLE_CONTENT_LICENSES" = "内容许可";
+
+/* Page title for crash reports settings. (noun) (20 chars) */
+"TITLE_CRASH_REPORTS" = "发送崩溃报告";
+
+/* Cell title for the crash reports setting. (noun) (20 chars) */
+"TITLE_CRASH_REPORTS_CELL" = "崩溃报告";
+
+/* Page title for feedback settings. (noun) (20 chars) */
+"TITLE_FEEDBACK" = "反馈";
+
+/* Page title for handwriting recognition settings page of the application. (noun) (30 chars) */
+"TITLE_HANDWRITING_SETTINGS" = "手写";
+
+/* Title for the button to show the open source licenses page. (noun)(25 chars) */
+"TITLE_LICENSES" = "开放源代码许可";
+
+/* Title for a screen showing offline translationlanguage management.[CHAR LIMIT=35] */
+"TITLE_OFFLINE_TRANSLATION_SETTINGS" = "离线翻译";
+
+/* Title of the button to open the privacy policy page. (noun)(25 chars) */
+"TITLE_PRIVACY_POLICY" = "隐私权政策";
+
+/* Settings menu label for submitting an App Store Review.  (40 chars) */
+"TITLE_REVIEW_APP_CELL" = "App Store 上的评价";
+
+/* Page title for the settings page of the application. (noun) (20 chars) */
+"TITLE_SETTINGS" = "设置";
+
+/* Label for source language selection navigation title (25 chars) */
+"TITLE_SOURCE_LANGUAGE" = "源语言";
+
+/* Label for the speech input 'dialects' section. (30 chars.) */
+"TITLE_SPEECH_DIALECTS_SETTINGS" = "方言";
+
+/* Label for speech input settings for blocking offensive words. (30 chars) */
+"TITLE_SPEECH_PROFANITY_FILTER_SETTINGS" = "屏蔽不文明的字词";
+
+/* Title for page containing items user has starred or favorited. (10 chars) */
+"TITLE_STAR" = "加星标";
+
+/* Label for target langugage selection navigation title (25 chars) */
+"TITLE_TARGET_LANGUAGE" = "目标语言";
+
+/* Title for the button that shows the terms of service page. (noun)(25 chars) */
+"TITLE_TERMS_OF_SERVICE" = "服务条款";
+
+/* Accessibility hint for a setting that can be toggled on or off */
+"TOGGLE_SETTING_A11Y_HINT" = "点按两次即可切换设置。";
+
+/* Accessibility value for a toggle setting when the setting is turned off. */
+"TOGGLE_SETTING_A11Y_VALUE_OFF" = "关闭";
+
+/* Accessibility value for a toggle setting when the setting is turned on. */
+"TOGGLE_SETTING_A11Y_VALUE_ON" = "开启";
+
+/* Accessibility action name for action to toggle the star on a translated item.  This name is spoken by the screen reader as part of a list of actions the user may take on a translated item. */
+"TOGGLE_STAR_A11Y_ACTION" = "加注/移除星标";
+
+/* Tooltip that hovers above the button to tap to send image to the server for improved translation (20 chars) */
+"TOOLTIP_ENHANCE" = "改进";
+
+/* Caption of the tour screen describing to the user that tapping on the text box with blue text will read that text aloud. [CHAR LIMIT=80] */
+"TOUCH_BLUE_TEXT_FOR_TTS_HINT" = "触摸蓝色的译文即可再次收听";
+
+/* Message shown when voice input is not active (50 chars) */
+"TOUCH_MIC_TO_START_MESSAGE" = "触摸麦克风图标即可开始说话";
+
+/* Caption of the tour screen describing to the user the button to tap to listen for a response. [CHAR LIMIT=80] */
+"TOUCH_OTHER_LANG_FOR_RESPONSE_HINT" = "触摸另一种语言即可听取回应";
+
+/* Caption of the tour screen describing to the user that tapping on the text box with red text will allow user to edit that text. [CHAR LIMIT=80] */
+"TOUCH_RED_TEXT_TO_EDIT_HINT" = "触摸红色的原文即可进行修改";
+
+/* Title for a detected source language selection [CHAR LIMIT=50] */
+"TRANSLATE_FROM_TEXT_TITLE" = "源语言";
+
+/* The localized full name the Google translate product including the 'Google' part. */
+"TRANSLATE_FULL_PRODUCT_NAME" = "Google 翻译";
+
+/* The localized short name the Google Translate product, without the 'Google' part. */
+"TRANSLATE_PRODUCT_NAME" = "翻译";
+
+/* The text that appears when a user performs a long-press copy on the full-screen translation. */
+"TRANSLATION_COPIED" = "翻译已复制";
+
+/* Accessibility hint for showing translation details. */
+"TRANSLATION_DETAILS_A11Y_HINT" = "点按两次即可查看翻译详细信息。";
+
+/* Accessibility label for translation details icon */
+"TRANSLATION_DETAILS_A11Y_LABEL" = "显示详细信息";
+
+/* The text that appears when a user performs a tap on a dictionary result entry. */
+"TRANSLATION_EDITED" = "翻译已修改";
+
+/* Accessibility description for the Latin transcription of non-Latin text. */
+"TRANSLITERATED_TEXT_LABEL_A11Y_HINT" = "转录";
+
+/* The title of a button that will send the user to the Settings app to turn on microphone permissions. [CHAR LIMT=35] */
+"TURN_ON_MICROPHONE_BUTTON_LABEL" = "开启麦克风";
+
+/* An accessibility label for a downloadable languagepackage that supports translations in one directionfrom English to another language.  %%@ is a placeholder for a language name. */
+"UNIDIRECTIONAL_FROM_ENGLISH_LANGUAGE_PACK_A11Y_LABEL" = "%@，以英语为源语言。";
+
+/* Accessibility value for a translated item that has not been starred by the user.  Read by the screen reader as part of the item description. */
+"UNSTARRED_ITEM_A11Y_VALUE" = "未加星标";
+
+/* This value will be spoken by VoiceOver after the name of an offline translation package when there is an upgrade available for the package. [CHAR LIMIT=40] */
+"UPDATE_AVAILABLE_A11Y_VALUE" = "有更新";
+
+/* Label on a button that will update an offline translation package from currently installed version, to the most recent version. [CHAR LIMIT=20] */
+"UPDATE_BUTTON_LABEL" = "更新";
+
+/* Additional descriptive text on a button that will update an offline translation packagefrom currently installed version, to the most recent version. [CHAR LIMIT=45] */
+"UPDATE_BUTTON_SUBTITLE" = "已推出新版本";
+
+/* The text of a card shown on the home screen when newer offline translation files are available. (no limit) */
+"UPDATE_PROMO_CARD_BODY" = "现已推出新的离线翻译文件。请查看并更新您之前下载的语言。";
+
+/* The label of a call to action button on a card sown on the home screen when newer offline translation files are avilable.  When tapped, the button will launch a download confirmation dialog.  [CHAR LIMIT=40] */
+"UPDATE_PROMO_CARD_BUTTON_LABEL" = "查看并更新";
+
+/* Error message shown when a downloaded offline data package is obosolete and needs to be re-downloaded. [CHAR LIMIT=20] */
+"UPDATE_REQUIRED_ERROR_MESSAGE" = "需要更新";
+
+/* This value will be spoken by VoiceOver after the name of an offline translation package when there is an upgrade available for the package. [CHAR LIMIT=40] */
+"UPGRADE_AVAILABLE_A11Y_VALUE" = "已推出升级版本";
+
+/* Label on a button that will upgrade an offline translation package from the smaller, less accurate version, to the larger, more accurate version. [CHAR LIMIT=20] */
+"UPGRADE_BUTTON_LABEL" = "升级";
+
+/* Additional descriptive text on a button that will upgrade an offline translation package from the smaller, less accurate version, to the larger, more accurate version. [CHAR LIMIT=45] */
+"UPGRADE_BUTTON_SUBTITLE" = "已推出更优质的版本";
+
+/* The text of a card shown next to offline translations performed with low quality offline translation packages, to encourage users to download the high quality offline translation packages. */
+"UPGRADE_PROMO_CARD_BODY_OFFLINE" = "在下次联网后升级离线翻译文件，即可提高离线翻译质量。";
+
+/* The text of a card shown next to offline translations performed with low quality offline translation packages, to encourage users to download the high quality offline translation packages.  This is show whoen the user is online and looking at a translated item from translation history. */
+"UPGRADE_PROMO_CARD_BODY_ONLINE" = "升级离线翻译文件即可提高离线翻译质量。";
+
+/* Title of a dialog box shown when the user is uploading a photo for OCR. */
+"UPLOAD_PHOTO_TITLE" = "选择照片";
+
+/* The version string format. The parameter is the version number. (30 chars) */
+"VERSION_FORMAT" = "版本 %@";
+
+/* Text to describe the larger of two options for a file to be downloaded for instant translation support which is displayed in a download dialog. [CHAR LIMIT=40] */
+"WORDLENS_DIALOG_LARGE_PACKAGE_SUBTITLE" = "内含较多短语，文件较大";
+
+/* Text to describe the larger and recommended of two options for a file to be downloaded for instant translation support which is displayed in a download dialog. PH_1: a placeholder for the size of the file in human readable units (eg: 20MB). [CHAR LIMIT=20] */
+"WORDLENS_DIALOG_LARGE_PACKAGE_TITLE" = "推荐 (%@)";
+
+/* Text to describe the smaller of two options for a file to be downloaded for instant translation support which is displayed in a download dialog. [CHAR LIMIT=40] */
+"WORDLENS_DIALOG_SMALL_PACKAGE_SUBTITLE" = "包含常用字词，文件较小";
+
+/* Text to describe the smaller of two options for a file to be downloaded for instant translation support which is displayed in a download dialog. PH_1: a placeholder for the size of the file in human readable units (eg: 2MB). [CHAR LIMIT=20] */
+"WORDLENS_DIALOG_SMALL_PACKAGE_TITLE" = "小 (%@)";
+
+/* Text that appears in the main body of a dialog for downlading files necessary for instant camera translation.  [CHAR LIMIT=200] */
+"WORDLENS_DOWNLOAD_DIALOG_BODY" = "下载离线翻译文件即可通过相机即时翻译文字。";
+
+/* Subtitle of a dialog box for downloading files necessary for instant camera translation.  [CHAR LIMIT=40] */
+"WORDLENS_DOWNLOAD_DIALOG_SUBTITLE" = "即时翻译";
+
+/* The text of a card shown to users to encourage them to download language packages necessary to use the instant camera translation feature */
+"WORDLENS_PROMO_CARD_BODY" = "下载离线翻译文件即可通过相机即时翻译文字。";
+

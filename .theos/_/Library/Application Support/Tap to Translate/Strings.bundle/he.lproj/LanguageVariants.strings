@@ -1,0 +1,181 @@
+/*
+   LanguageVariants.strings
+   Translate
+
+   Created by Wenzhang Zhu on 3/15/11.
+   Copyright 2011 Google Inc. All rights reserved.
+ */
+
+/* Title format for language input setting in navigation bar. The parameter is language name. (noun). (20 chars) */
+"TITLE_FORMAT_FOR_LANGUAGE_VOICE_INPUT" = "קלט דיבור ב%@";
+
+/* Button title format for voice input settings page. The parameter is the language name (noun). (20 chars) */
+"BUTTON_TITLE_FORMAT_FOR_SPEECH_INPUT" = "קלט ב%@:";
+
+/* Button title for voice settings. (noun) (20 chars) */
+"TITLE_SPEECH_SETTINGS" = "קלט דיבור";
+
+/* Title for default Arabic dialect. (noun) (35 chars) */
+"Arabic" = "ערבית";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (United Arab Emirates)" = "ערבית (איחוד האמירויות הערביות)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Bahrain)" = "ערבית (בחריין)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Algeria)" = "ערבית (אלג'יריה)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Egypt)" = "ערבית (מצרים)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Israel)" = "ערבית (ישראל)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Iraq)" = "ערבית (עיראק)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Jordan)" = "ערבית (ירדן)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Kuwait)" = "ערבית (כווית)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Lebanon)" = "ערבית (לבנון)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Maghrebi)" = "ערבית (מגרב)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Oman)" = "ערבית (עומאן)";
+
+/* Title for an Arabic dialect. (noun) (45 chars) */
+"Arabic (Palestine)" = "ערבית (הרשות הפלסטינית)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Qatar)" = "ערבית (קטאר)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Saudi Arabia)" = "ערבית (ערב הסעודית)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Tunisia)" = "ערבית (טוניסיה)";
+
+/* Title for default English dialect. (noun) (35 chars) */
+"English" = "אנגלית";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (Australia)" = "אנגלית (אוסטרליה)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (Canada)" = "אנגלית (קנדה)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (UK)" = "אנגלית (בריטניה)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (India)" = "אנגלית (הודו)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (New Zealand)" = "אנגלית (ניו זילנד)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (US)" = "אנגלית (ארה\"ב)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (South Africa)" = "אנגלית (דרום אפריקה)";
+
+/* Title for default Mandarin dialect. (noun) (35 chars) */
+"Mandarin" = "מנדרינית";
+
+/* Title for a Mandarin dialect. (noun) (35 chars) */
+"Mandarin (China)" = "מנדרינית (סין)";
+
+/* Title for a Mandarin dialect. (noun) (35 chars) */
+"Mandarin (Hong Kong)" = "מנדרינית (הונג קונג)";
+
+/* Title for a Mandarin dialect. (noun) (35 chars) */
+"Mandarin (Taiwan)" = "מנדרינית (טייוואן)";
+
+/* Title for a Cantonese dialect. (noun) (35 chars) */
+"Cantonese (Hong Kong)" = "קנטונזית (הונג קונג)";
+
+/* Title for default Spanish dialect. (noun) (35 chars) */
+"Spanish" = "ספרדית";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Latin America)" = "ספרדית (אמריקה הלטינית)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Argentina)" = "ספרדית (ארגנטינה)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Bolivia)" = "ספרדית (בוליביה)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Chile)" = "ספרדית (צ'ילה)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Colombia)" = "ספרדית (קולומביה)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Costa Rica)" = "ספרדית (קוסטה ריקה)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Dominican Republic)" = "ספרדית (הרפובליקה הדומיניקנית)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Ecuador)" = "ספרדית (אקוודור)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (El Salvador)" = "ספרדית (אל סלוודור)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Guatemala)" = "ספרדית (גוואטמלה)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Honduras)" = "ספרדית (הונדורס)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Nicaragua)" = "ספרדית (ניקרגואה)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Panama)" = "ספרדית (פנמה)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Paraguay)" = "ספרדית (פרגוואי)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Peru)" = "ספרדית (פרו)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Uruguay)" = "ספרדית (אורוגוואי)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Venezuela)" = "ספרדית (ונצואלה)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Puerto Rico)" = "ספרדית (פורטו ריקו)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (US)" = "ספרדית (ארה\"ב)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Spain)" = "ספרדית (ספרד)";
+
+/* Title for a Spanish dialect. (noun) (15 chars) */
+"Spanish (Mexico)" = "ספרדית (מקסיקו)";
+
+/* Title for a Portuguese dialect. (noun) (35 chars) */
+"Portuguese" = "פורטוגזית";
+
+/* Title for a Portuguese dialect. (noun) (35 chars) */
+"Portuguese (Brazil)" = "פורטוגזית (ברזיל)";
+
+/* Title for a Portuguese dialect. (noun) (35 chars) */
+"Portuguese (Portugal)" = "פורטוגזית (פורטוגל)";
+
+/* Chinese language name. (noun) (15 chars) */
+"CHINESE_NAME" = "סינית";

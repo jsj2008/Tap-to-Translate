@@ -1,0 +1,321 @@
+/* The following list refers to the language names instead of the people, e.g.,
+  "Chinese" means Chinese language instead of Chinese people. */
+
+/* The full name for auto language detection. (verb) (50 chars) */
+"Detect language" = "Selectați limba";
+
+/* The full name of Afrikaans language. (noun) (50 chars) */
+"Afrikaans" = "Afrikaans";
+
+/* The full name of Albanian language. (noun) (50 chars) */
+"Albanian" = "Albaneză";
+
+/* The full name of Amharic language. (noun) (50 chars) */
+"Amharic" = "Amharică";
+
+/* The full name of Arabic language. (noun) (50 chars) */
+"Arabic" = "Arabă";
+
+/* The full name of Armenian language. (noun) (50 chars) */
+"Armenian" = "Armeană";
+
+/* The full name of Azerbaijani language. (noun) (50 chars) */
+"Azerbaijani" = "Azerbaidjană";
+
+/* The full name of Basque language. (noun) (50 chars) */
+"Basque" = "Bască";
+
+/* The full name of Belarusian language. (noun) (50 chars) */
+"Belarusian" = "Bielorusă";
+
+/* The full name of Bengali language. (noun) (50 chars) */
+"Bengali" = "Bengali";
+
+/* The full name of Bosnian language. (noun) (50 chars) */
+"Bosnian" = "Bosniacă";
+
+/* The full name of Bulgarian language. (noun) (50 chars) */
+"Bulgarian" = "Bulgară";
+
+/* The full name of Catalan language. (noun) (50 chars) */
+"Catalan" = "Catalană";
+
+/* The full name of Cebuano language. (noun) (50 chars) */
+"Cebuano" = "Cebuană";
+
+/* The full name of Chichewa language. (noun) (50 chars) */
+"Chichewa" = "Chichewa";
+
+/* The full name of Chinese language. (noun) (50 chars) */
+"Chinese" = "Chineză";
+
+/* The full name of Chinese (Simplified) language. (noun) (50 chars) */
+"Chinese (Simplified)" = "Chineză (Simplificată)";
+
+/* The full name of Chinese (Traditional) language. (noun) (50 chars) */
+"Chinese (Traditional)" = "Chineză (Tradițională)";
+
+/* The full name of Corsican language. (noun) (50 chars) */
+"Corsican" = "Corsicană";
+
+/* The full name of Croatian language. (noun) (50 chars) */
+"Croatian" = "Croată";
+
+/* The full name of Czech language. (noun) (50 chars) */
+"Czech" = "Cehă";
+
+/* The full name of Danish language. (noun) (50 chars) */
+"Danish" = "Daneză";
+
+/* The full name of Dutch language. (noun) (50 chars) */
+"Dutch" = "Neerlandeză";
+
+/* The full name of English language. (noun) (50 chars) */
+"English" = "Engleză";
+
+/* The full name of Esperanto language. (noun) (50 chars) */
+"Esperanto" = "Esperanto";
+
+/* The full name of Estonian language. (noun) (50 chars) */
+"Estonian" = "Estonă";
+
+/* The full name of Filipino language. (noun) (50 chars) */
+"Filipino" = "Filipineză";
+
+/* The full name of Finnish language. (noun) (50 chars) */
+"Finnish" = "Finlandeză";
+
+/* The full name of French language. (noun) (50 chars) */
+"French" = "Franceză";
+
+/* The full name of Frisian language. (noun) (50 chars) */
+"Frisian" = "Frizonă";
+
+/* The full name of Galician language. (noun) (50 chars) */
+"Galician" = "Galiciană";
+
+/* The full name of Georgian language. (noun) (50 chars) */
+"Georgian" = "Gruzină";
+
+/* The full name of German language. (noun) (50 chars) */
+"German" = "Germană";
+
+/* The full name of Greek language. (noun) (50 chars) */
+"Greek" = "Greacă";
+
+/* The full name of Gujarati language. (noun) (50 chars) */
+"Gujarati" = "Gujarati";
+
+/* The full name of Haitian Creole language. (noun) (50 chars) */
+"Haitian Creole" = "Creolă haitiană";
+
+/* The full name of Hausa language. (noun) (50 chars) */
+"Hausa" = "Hausa";
+
+/* The full name of Hawaiian language. (noun) (50 chars) */
+"Hawaiian" = "Hawaiiană";
+
+/* The full name of Hebrew language. (noun) (50 chars) */
+"Hebrew" = "Ebraică";
+
+/* The full name of Hindi language. (noun) (50 chars) */
+"Hindi" = "Hindi";
+
+/* The full name of Hmong language. (noun) (50 chars) */
+"Hmong" = "Hmong";
+
+/* The full name of Hungarian language. (noun) (50 chars) */
+"Hungarian" = "Maghiară";
+
+/* The full name of Icelandic language. (noun) (50 chars) */
+"Icelandic" = "Islandeză";
+
+/* The full name of Igbo language. (noun) (50 chars) */
+"Igbo" = "Igbo";
+
+/* The full name of Indonesian language. (noun) (50 chars) */
+"Indonesian" = "Indoneziană";
+
+/* The full name of Irish language. (noun) (50 chars) */
+"Irish" = "Irlandeză";
+
+/* The full name of Italian language. (noun) (50 chars) */
+"Italian" = "Italiană";
+
+/* The full name of Japanese language. (noun) (50 chars) */
+"Japanese" = "Japoneză";
+
+/* The full name of Javanese language. (noun) (50 chars) */
+"Javanese" = "Javaneză";
+
+/* The full name of Kannada language. (noun) (50 chars) */
+"Kannada" = "Kannada";
+
+/* The full name of Kazakh language. (noun) (50 chars) */
+"Kazakh" = "Kazahă";
+
+/* The full name of Khmer language. (noun) (50 chars) */
+"Khmer" = "Khmeră";
+
+/* The full name of Korean language. (noun) (50 chars) */
+"Korean" = "Coreeană";
+
+/* The full name of Kurdish (Kurmanji) language. (noun) (50 chars) */
+"Kurdish (Kurmanji)" = "Kurdă";
+
+/* The full name of Kyrgyz language. (noun) (50 chars) */
+"Kyrgyz" = "Kirghiză";
+
+/* The full name of Lao language. (noun) (50 chars) */
+"Lao" = "Laoțiană";
+
+/* The full name of Latin language. (noun) (50 chars) */
+"Latin" = "Latină";
+
+/* The full name of Latvian language. (noun) (50 chars) */
+"Latvian" = "Letonă";
+
+/* The full name of Lithuanian language. (noun) (50 chars) */
+"Lithuanian" = "Lituaniană";
+
+/* The full name of Luxembourgish language. (noun) (50 chars) */
+"Luxembourgish" = "Luxemburgheză";
+
+/* The full name of Macedonian language. (noun) (50 chars) */
+"Macedonian" = "Macedoneană";
+
+/* The full name of Malagasy language. (noun) (50 chars) */
+"Malagasy" = "Malgașă";
+
+/* The full name of Malay language. (noun) (50 chars) */
+"Malay" = "Malaeză";
+
+/* The full name of Malayalam language. (noun) (50 chars) */
+"Malayalam" = "Malayalam";
+
+/* The full name of Maltese language. (noun) (50 chars) */
+"Maltese" = "Malteză";
+
+/* The full name of Maori language. (noun) (50 chars) */
+"Maori" = "Maori";
+
+/* The full name of Marathi language. (noun) (50 chars) */
+"Marathi" = "Marathi";
+
+/* The full name of Mongolian language. (noun) (50 chars) */
+"Mongolian" = "Mongolă";
+
+/* The full name of Myanmar (Burmese) language. (noun) (50 chars) */
+"Myanmar (Burmese)" = "Birmană";
+
+/* The full name of Nepali language. (noun) (50 chars) */
+"Nepali" = "Nepaleză";
+
+/* The full name of Norwegian language. (noun) (50 chars) */
+"Norwegian" = "Norvegiană";
+
+/* The full name of Pashto language. (noun) (50 chars) */
+"Pashto" = "Pashto";
+
+/* The full name of Persian language. (noun) (50 chars) */
+"Persian" = "Persană";
+
+/* The full name of Polish language. (noun) (50 chars) */
+"Polish" = "Poloneză";
+
+/* The full name of Portuguese language. (noun) (50 chars) */
+"Portuguese" = "Portugheză";
+
+/* The full name of Punjabi language. (noun) (50 chars) */
+"Punjabi" = "Punjabi";
+
+/* The full name of Romanian language. (noun) (50 chars) */
+"Romanian" = "Română";
+
+/* The full name of Russian language. (noun) (50 chars) */
+"Russian" = "Rusă";
+
+/* The full name of Samoan language. (noun) (50 chars) */
+"Samoan" = "Samoană";
+
+/* The full name of Scots Gaelic language. (noun) (50 chars) */
+"Scots Gaelic" = "Galica scoțiană";
+
+/* The full name of Serbian language. (noun) (50 chars) */
+"Serbian" = "Sârbă";
+
+/* The full name of Sesotho language. (noun) (50 chars) */
+"Sesotho" = "Sesotho";
+
+/* The full name of Shona language. (noun) (50 chars) */
+"Shona" = "Shonă";
+
+/* The full name of Sindhi language. (noun) (50 chars) */
+"Sindhi" = "Sindhi";
+
+/* The full name of Sinhala language. (noun) (50 chars) */
+"Sinhala" = "Singhaleză";
+
+/* The full name of Slovak language. (noun) (50 chars) */
+"Slovak" = "Slovacă";
+
+/* The full name of Slovenian language. (noun) (50 chars) */
+"Slovenian" = "Slovenă";
+
+/* The full name of Somali language. (noun) (50 chars) */
+"Somali" = "Somali";
+
+/* The full name of Spanish language. (noun) (50 chars) */
+"Spanish" = "Spaniolă";
+
+/* The full name of Sundanese language. (noun) (50 chars) */
+"Sundanese" = "Sundaneză";
+
+/* The full name of Swahili language. (noun) (50 chars) */
+"Swahili" = "Swahili";
+
+/* The full name of Swedish language. (noun) (50 chars) */
+"Swedish" = "Suedeză";
+
+/* The full name of Tajik language. (noun) (50 chars) */
+"Tajik" = "Tadjică";
+
+/* The full name of Tamil language. (noun) (50 chars) */
+"Tamil" = "Tamilă";
+
+/* The full name of Telugu language. (noun) (50 chars) */
+"Telugu" = "Telugu";
+
+/* The full name of Thai language. (noun) (50 chars) */
+"Thai" = "Thailandeză";
+
+/* The full name of Turkish language. (noun) (50 chars) */
+"Turkish" = "Turcă";
+
+/* The full name of Ukrainian language. (noun) (50 chars) */
+"Ukrainian" = "Ucraineană";
+
+/* The full name of Urdu language. (noun) (50 chars) */
+"Urdu" = "Urdu";
+
+/* The full name of Uzbek language. (noun) (50 chars) */
+"Uzbek" = "Uzbecă";
+
+/* The full name of Vietnamese language. (noun) (50 chars) */
+"Vietnamese" = "Vietnameză";
+
+/* The full name of Welsh language. (noun) (50 chars) */
+"Welsh" = "Galeză";
+
+/* The full name of Xhosa language. (noun) (50 chars) */
+"Xhosa" = "Xhosa";
+
+/* The full name of Yiddish language. (noun) (50 chars) */
+"Yiddish" = "Idiș";
+
+/* The full name of Yoruba language. (noun) (50 chars) */
+"Yoruba" = "Yoruba";
+
+/* The full name of Zulu language. (noun) (50 chars) */
+"Zulu" = "Zulu";
+

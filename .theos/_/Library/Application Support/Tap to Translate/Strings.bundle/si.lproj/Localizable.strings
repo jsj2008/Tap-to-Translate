@@ -1,0 +1,774 @@
+/* Accessibility value spoken after the name of a language in the language menu when there is a downloadable package available for that language to enable offline translation.  [CHAR LIMIT=25] */
+"ACCESSIBILITY_OFFLINE_DOWNLOAD_AVAILABLE" = "ලබා ගත හැකි දේවල් බාගන්න.";
+
+/* Inform the user the download has completed */
+"ACCESSIBILITY_OFFLINE_DOWNLOAD_COMPLETE" = "බාගැනීම සම්පූර්ණයි";
+
+/* Accessibility value spoken after the name of a language in the language menu when the offline translation package for that language is downloaded and installed. [CHAR LIMIT=25] */
+"ACCESSIBILITY_OFFLINE_DOWNLOAD_INSTALLED" = "බාගන්නා ලදී.";
+
+/* The section title for showing the list of languages supported by Google Translate. (40 chars) */
+"ALL_SUPPORTED_LANGUAGES" = "සියලු භාෂා";
+
+/* Section title for list of languages that are available for downloading. [CHAR LIMIT=25] */
+"AVAILABLE_LANGUAGES" = "තිබෙන භාෂා";
+
+/* Accessibility label for back button */
+"BACK_ARROW_ACCESSIBILITY_LABEL" = "ආපසු";
+
+/* An accessibility label for a downloadable languagepackage that supports translations in both directions between English and another language. %%@ is a placeholder for a language name. */
+"BIDIRECTION_WITH_ENGLISH_LANGUAGE_PACK_A11Y_LABEL" = "%@, ඉංග්‍රීසි වලට සහ වලින්.";
+
+/* Subtitle for an information dialog box when a user taps a link that would leave the Translate app, but fails due to parental controls. */
+"BROWSER_RESTRICTED_DIALOG_SUBTITLE" = "වෙබ් බ්‍රව්සරයට තිබෙන ප්‍රවේශය සිමා කර ඇති බැවින් තෝරාගත් සබැඳියක් විවෘත කළ නොහැක.";
+
+/* Title for an information dialog box when a user taps a link that would leave the Translate app, but fails due to parental controls.[CHAR LIMIT=50] */
+"BROWSER_RESTRICTED_DIALOG_TITLE" = "සබැඳිය විවෘත කිරීමට නොහැක";
+
+/* Label for a button that shows additional details about the application. (20 chars) */
+"BUTTON_ABOUT" = "පිළිබඳ";
+
+/* Label for a button that shows camera input settings. (30 chars) */
+"BUTTON_CAMERA_INPUT_SETTINGS" = "කැමරා ආදානය";
+
+/* Button label to cancel an action. (10 chars) */
+"BUTTON_CANCEL" = "අවලංගු කරන්න";
+
+/* Button label to cancel an action. (10 chars) */
+"BUTTON_CANCEL_UPPERCASE" = "අවලංගු කරන්න";
+
+/* Label for button to clear translation history. (30 chars) */
+"BUTTON_CLEAR_HISTORY" = "පරිවර්තන ඉතිහාසය හිස් කරන්න";
+
+/* Label for a button that shows the feedback page of the application. (20 chars) */
+"BUTTON_FEEDBACK" = "ප්‍රතිපෝෂණ";
+
+/* Label for a button that shows handwriting recognition settings. (30 chars) */
+"BUTTON_HANDWRITING_SETTINGS" = "අත්අකුරු";
+
+/* Label for a button that shows help page of the application. (20 chars) */
+"BUTTON_HELP" = "උදවු";
+
+/* Label for a settings menu item that shows the offline translation languages management screen. (30 chars) */
+"BUTTON_OFFLINE_TRANSLATION_SETTINGS" = "නොබැඳි පරිවර්තනය";
+
+/* Select all word boxes [CHAR LIMIT=20] */
+"BUTTON_SELECT_ALL" = "සියල්ල තෝරන්න";
+
+/* Select all word boxes [CHAR LIMIT=20] */
+"BUTTON_SELECT_ALL_UPPERCASE" = "සියල්ල තෝරන්න";
+
+/* Label for a button that sends feedback. (20 chars) */
+"BUTTON_SEND_FEEDBACK" = "ප්‍රතිපෝෂණ යවන්න";
+
+/* Label for a button that shows voice settings. (20 chars) */
+"BUTTON_SPEECH_SETTINGS" = "කථන ආදානය";
+
+/* Button label to retry an action. [CHAR LIMIT=20] */
+"BUTTON_TRY_AGAIN" = "නැවත උත්සාහ කරන්න";
+
+/* A small toast label displayed in front of the camera image, indicating to the user that the orientation of this label is the same orientation as what the camera will try to read using OCR. (40 chars) */
+"CAMERA_ALIGN_TEXT" = "අකුරු පෙළ ගස්වන්න";
+
+/* A small toast label displayed in front of the camera image, indicating to the user that the orientation of this label is the same orientation as what the camera will try to read using OCR. (40 chars) */
+"CAMERA_ALIGN_TEXT_LEFT_TO_RIGHT" = "පෙළ වමේ සිට දකුණට පෙළ ගස්වන්න";
+
+/* Shown when the camera is used in Split View or Slide Over modes on newer iPads. Split View and Slide Over are features added in iOS9. [CHAR LIMIT=150] */
+"CAMERA_AVAILABLE_IN_FULL_SCREEN_ONLY" = "කැමරාව නොතිබේ.\nකැමරාව සබල කිරීමට සම්පුර්ණ තිරය භාවිතා කරන්න.";
+
+/* Accessibility label for the button which will download support for instant translation when tapped.[CHAR LIMIT=20] */
+"CAMERA_DOWNLOAD" = "බාගන්න";
+
+/* Accessibility value for the button which is indicating that a download is in progress.[CHAR LIMIT=20] */
+"CAMERA_DOWNLOADING_A11Y_VALUE" = "බාගනිමින්";
+
+/* Summary for camera privacy settings. (80 chars.) */
+"CAMERA_INPUT_LOGGING_DETAILS" = "ඔබගේ පරිවර්තනයට අදාල පින්තූර Google වෙත තබා ගැනීමට ඉඩ දෙන්න.";
+
+/* Accessibility label for translate camera input mode button */
+"CAMERA_INPUT_MODE_BUTTON_ACCESSIBILITY_LABEL" = "කැමරාව පරිවර්තනය කරන්න";
+
+/* Label below a 'instant' button.  Verb; will toggle instant translation mode.[CHAR LIMIT=12] */
+"CAMERA_INSTANT" = "ක්ෂණික";
+
+/* Accessiblity hint for the instant translation download button.  When user activates the button, a download dialog prompt is displayed.[CHAR LIMIT=80] */
+"CAMERA_INSTANT_DOWNLOAD_A11Y_HINT" = "ක්ෂණික කැමරා පරිවර්තනය කිරීම් බැලීමට දෙවරක් තට්ටු කරන්න.";
+
+/* Dialog message to indicate that the user may incur data charges if they decide to download the file. [CHAR LIMIT=40] */
+"CAMERA_INSTANT_DOWNLOAD_BOTTOM_MESSAGE" = "සටහන: දත්ත අනුපාත අදාළ විය හැක.";
+
+/* Button label.  Tapping on it will begin download. (20 chars) */
+"CAMERA_INSTANT_DOWNLOAD_BUTTON" = "බාගන්න";
+
+/* Accessiblity hint for the instant translation download cancel button.  When user activates the button, a download cancel dialog prompt is displayed.[CHAR LIMIT=50] */
+"CAMERA_INSTANT_DOWNLOAD_CANCEL_A11Y_HINT" = "බාගැනීම අවලංගු කිරීමට දෙවරක් තට්ටු කරන්න.";
+
+/* Dialog message to explain to the user that this download will allow them to translate instantly between the two languages using their camera.[CHAR LIMIT=120] */
+"CAMERA_INSTANT_DOWNLOAD_CAPTION_MESSAGE" = "ඔබේ කැමරාව භාවිතයෙන් මෙම භාෂාව ක්ෂණිකව පරිවර්තනය කිරීමට, ක්ෂණික කැමරා පරිවර්තන යෙදුමක් බාගන්න.";
+
+/* Tooltip above instant download icon.  When user taps icon, a download dialog prompt is displayed.[CHAR LIMIT=80] */
+"CAMERA_INSTANT_DOWNLOAD_TIP" = "ක්ෂණික කැමරා පරිවර්තනය බලන්න ස්පර්ශ  කරන්න";
+
+/* Title of a dialog box that prompts user to download data that enables instant camera translation. (60 chars) */
+"CAMERA_INSTANT_DOWNLOAD_TOP_MESSAGE" = "මුද්‍රිත පෙළ ක්ෂණික පරිවර්තනය";
+
+/* Title of a dialog box that prompts user to download a package that enables instant camera translation. (60 chars) */
+"CAMERA_INSTANT_DOWNLOAD_TOP_MESSAGE_FINAL" = "පැකේජය බාගන්න";
+
+/* Label that shows above button, indicating that instant mode is now turned off. (30 chars) */
+"CAMERA_INSTANT_OFF_HINT" = "ක්ෂණික ක්‍රියාවිරහිතයි";
+
+/* Label that shows above button, indicating that instant mode is now turned on. (30 chars) */
+"CAMERA_INSTANT_ON_HINT" = "ක්ෂණික ක්‍රියාත්මකයි";
+
+/* Message on a dialog box shown when a camera image is going to be sent to server for OCR for the first time. (100 chars) */
+"CAMERA_LOGGING_DIALOG_BOTTOM_MESSAGE" = "ඔබට සැකසීම් දර්ශනය වෙතින් පසුව ඔබගේ මනාපයන් වෙනස් කිරීමටද හැක.";
+
+/* Message on a dialog box shown when a camera image is going to be sent to server for OCR for the first time. (120 chars) */
+"CAMERA_LOGGING_DIALOG_CHECKBOX_MESSAGE" = "පරිවර්තනයට අදාළ ඔබගේ පින්තුරය රඳවා ගැනීමට Google හට ඉඩ දීම මගින් අපගේ සේවාව වැඩිදියුණු කිරීමට උපකාර කරන්න";
+
+/* Message on a dialog box shown when a camera image is going to be sent to server for OCR for the first time. (100 chars) */
+"CAMERA_LOGGING_DIALOG_TOP_MESSAGE" = "ඔබ පෙළ හඳුනා ගැනීමට Google වෙත කැමරා පින්තුර යවනු ඇත.";
+
+/* A toast label displayed in front of the camera image indicating to the user whether the app is in instant translation (Word Lens) mode or camera translation mode (30 chars) */
+"CAMERA_MODE_INSTANT_SUPPORTED" = "ක්ෂණික පරිවර්තන ප්‍රකාරය";
+
+/* A toast label displayed in front of the camera image indicating to the user whether the app is in live translation (Word Lens) mode or camera translation mode (30 chars) */
+"CAMERA_MODE_LIVE_SUPPORTED" = "සජීවී පරිවර්තන ප්‍රකාරය";
+
+/* A toast label to suggest a user action when live mode is supported (50 chars) */
+"CAMERA_MODE_LIVE_SUPPORTED_SUBLABEL" = "පරිවර්තනය කළ යුතු පෙළට කැමරාව එල්ල කරන්න";
+
+/* A toast label displayed in front of the camera image indicating to the user whether the app is in live translation (Word Lens) mode or camera translation mode (30 chars) */
+"CAMERA_MODE_LIVE_UNSUPPORTED" = "කැමරා පරිවර්තන ප්‍රකාරය";
+
+/* A toast label to suggest a user action when live mode is not supported [CHAR LIMIT=50] */
+"CAMERA_MODE_LIVE_UNSUPPORTED_SUBLABEL" = "පරිවර්තනය කිරීමට ඡායාරූපයක් ගන්න";
+
+/* Shown if the user disables Camera permissions for the Translate app. The words 'Settings', 'Privacy', and 'Camera' refer to the iOS7 or iOS8 Settings app, and should match the system strings.  The wildcard represents our app name. */
+"CAMERA_NOT_AVAILABLE_WITH_HINT" = "කැමරාව ලබාගත නොහැකිය.\nසැකසුම් > රහස්‍යතාවය > කැමරාව විවෘත කර,\nඅනතුරුව %@ සබල කරන්න.";
+
+/* Label below a 'pause' icon.  Verb; will freeze camera video.  [12 chars] */
+"CAMERA_PAUSE" = "විරාමය කරන්න";
+
+/* Label of the button to import photo. [CHAR LIMIT=12] */
+"CAMERA_PHOTO" = "ඡායාරූපය";
+
+/* Label below a photo gallery icon.  Verb preferred, but could also refer to the user's system photo gallery. [12 chars] */
+"CAMERA_PHOTO_IMPORT" = "ආයාත කරන්න";
+
+/* Label below a 'play' icon.  Verb; will start camera video. [12 chars] */
+"CAMERA_PLAY" = "ධාවනය කරන්න";
+
+/* Label of the button that does redo of a camera input related action. [CHAR LIMIT=12] */
+"CAMERA_REDO" = "නැවතත් කරන්න";
+
+/* Accessibility label for the camera rotation lock setting. */
+"CAMERA_ROTATION_LOCK_A11Y_LABEL" = "කැමරාවේ දිශානතිය අගුළු දමන්න";
+
+/* Label below a 'scan' button.  Verb; will switch app into image scanning mode. [CHAR LIMIT=12] */
+"CAMERA_SCAN" = "පරිලෝකනය කරන්න";
+
+/* Title for the list of supported languages that will follow. [CHAR LIMIT=50] */
+"CAMERA_SUPPORTED_LANGUAGES_HINT" = "සහාය දක්වන භාෂා";
+
+/* Accessibility label for the camera flashlight.  This label is used on an icon button that resembles a flashlight.  It is used to toggle the camera flash on or off as continuous lighting for the scene. */
+"CAMERA_TORCH_A11Y_LABEL" = "සැණෙළි ආලෝකය";
+
+/* Caption of the tour image pointing at the button that triggers higher-quality scanning of the image for text. [CHAR LIMIT=80] */
+"CAMERA_TOUCH_TO_ENHANCE_HINT" = "දියුණු කළ පෙළ හඳුනාගැනීමට ස්පර්ශ කරන්න";
+
+/* Tooltip displayed on top of the pause button on instant camera input view. This is used when the source is a left-to-right (LTR) language, and the target is right-to-left (RTL), or vice-versa. Let the user know that when they touch the pause button to pause video, the lines of text will be reversed so that each line is properly right-to-left (or vice versa). [CHAR LIMIT=NONE] */
+"CAMERA_TOUCH_TO_REVERSE" = "වචන ආපසු හැරවීමට තට්ටු කරන්න";
+
+/* Call to action, referencing adjacent icon, which matches the SCAN button icon. SCAN is capitalized as the label of the referenced button is also capitalized. [CHAR LIMIT=50] */
+"CAMERA_TOUCH_TO_SEARCH_HINT" = "පෙළ පරිවර්තනය කිරීමට පරිලෝකන බොත්තම ඔබන්න.";
+
+/* Shown when the camera is used in Split View or Slide Over modes on newer iPads. Split View and Slide Over are features added in iOS9. [CHAR LIMIT=150] */
+"CAMERA_UNAVAILABLE_IN_SPLIT_VIEW" = "කැමරාව නොතිබේ.\nකැමරාව සබල කිරීමට පියලි දැක්ම ඉවත් වෙන්න.";
+
+/* Label of the button that does redo of a camera input related action. [CHAR LIMIT=12] */
+"CAMERA_UNDO" = "අස් කරන්න";
+
+/* Caption of the tour screen describing to the user that live translation mode works best on big text. [CHAR LIMIT=60] */
+"CAMERA_WORKS_BEST_HINT" = "සංඥා සහ විශාල පෙළ මත වඩා හොඳින් ක්‍රියා කරයි";
+
+/* Accessibility label for the camera zoom setting. */
+"CAMERA_ZOOM_A11Y_LABEL" = "විශාලනය";
+
+/* Title to stop current download. [CHAR LIMIT=20] */
+"CANCEL_DOWNLOAD_TITLE" = "බාගැනීම අවලංගු කරන්න";
+
+/* Label for button to clear translation history. (30 chars) */
+"CLEAR_HISTORY_OK" = "හරි";
+
+/* Sub-title for clear history alert. */
+"CLEAR_HISTORY_SUBTITLE" = "සියලු පරිවර්තන ඉතිහාසය මෙම යෙදුම වෙතින් හිස් කෙරෙනු ඇත.";
+
+/* Title for clear history alert. */
+"CLEAR_HISTORY_TITLE" = "පරිවර්තන ඉතිහාසය හිස් කරන්න";
+
+/* Accessibility label for the clear input button */
+"CLEAR_INPUT_BUTTON_ACCESSIBILITY_LABEL" = "පෙළ හිස් කරන්න";
+
+/* Accessibility label for the conversation mode button. When tapped, it turns on the microphone to listen for both languages simultaneously. [CHAR LIMIT=80] */
+"CONVERSATION_BUTTON_A11Y_HINT" = "භාෂා දෙකටම සවන් දෙන්න.";
+
+/* Accessibility label for the conversation mode button. When tapped, it turns on the microphone to listen for both languages simultaneously. [CHAR LIMIT=80] */
+"CONVERSATION_BUTTON_A11Y_LABEL" = "සවන් දෙන්න";
+
+/* Accessibility label for a button that copies translated text to the clipboard. */
+"COPY_TRANSLATED_TEXT_A11Y_LABEL" = "පරිවර්ථනය කළ පෙළ පිටපත් කරන්න";
+
+/* Title for alert popup that tells users a crash occurred recently (the last time they used the app). (50 chars) */
+"CRASH_ALERT_TITLE" = "අයියෝ. මෙම යෙදුම මෑත දී බිඳ වැටිණි.";
+
+/* Settings option description for toggling the shake to send feedback (140 chars.) */
+"CRASH_REPORTS_DETAILS" = "අපට ඔබගේ අත්දැකීම වැඩිදියුණු කළ හැකි හෙයින් නිර්නාමික බිඳවැටීම් වාර්තා Google වෙත එවන්න.";
+
+/* Title for the dictionary card. (20 chars) */
+"DICTIONARY_TITLE" = "ශබ්ද කෝෂය";
+
+/* Title for a spelling correction suggestion [CHAR LIMIT=50] */
+"DID_YOU_MEAN_TEXT_TITLE" = "ඔබ අදහස් කළේ";
+
+/* Label on a message that appears briefly at the bottom of the screen when an offline translation package download was cancelled by the user. [CHAR LIMIT=40] */
+"DOWNLOAD_CANCELLED_HUD_MESSAGE" = "බාගැනීම අවලංගු කරන ලදී";
+
+/* Label on a message that appears briefly at the bottom of the screen when a offline translation package download completes. [CHAR LIMIT=40] */
+"DOWNLOAD_COMPLETED_HUD_MESSAGE" = "බාගැනීම අවසන් කරන ලදී";
+
+/* Text to describe the amount of storage space available on the device.PH_1: a placeholder for the amount of space available in human readable units (eg: 200MB). You may modify its position. [CHAR LIMIT=35] */
+"DOWNLOAD_DIALOG_PACKAGE_SUBTITLE" = "ගබඩාව %@ ලබා ගත හැකිය";
+
+/* Text to describe a file to be downloaded for offline translation support which is displayed in a download dialog.PH_1: a placeholder for the size of the file in human readable units (eg: 20MB). [CHAR LIMIT=25] */
+"DOWNLOAD_DIALOG_PACKAGE_TITLE" = "ගොනුව (%@) පරිවර්තනය කරන්න";
+
+/* Additional text that is displayed in the header of a download dialog when the user is updating an existing offline translation package to a newer version. [CHAR LIMIT=60] */
+"DOWNLOAD_DIALOG_UPDATE_BANNER_TEXT" = "ඔබගේ වත්මන් පරිවර්තන ගොනුව යල් පැන ඇත";
+
+/* Additional text that is displayed in the header of a download dialog when the user is upgrading an existing offline translation package. [CHAR LIMIT=60] */
+"DOWNLOAD_DIALOG_UPGRADE_BANNER_TEXT" = "වඩා හොඳ නොබැඳි පරිවර්තන ලබා ගැනීමට උත්ශ්‍රේණි කරන්න";
+
+/* Error message shown when download of offline packages failed. [CHAR LIMIT=20] */
+"DOWNLOAD_FAILED_ERROR_MESSAGE" = "බාගැනීම අසාර්ථක විය";
+
+/* The body of an error dialog shown when a user-initiated download failed because there was a network failure or the network was unavailable. [CHAR LIMIT=100] */
+"DOWNLOAD_FAILED_OFFLINE_BODY" = "කරුණාකර ඔබගේ ජාල සබැඳුම පරීක්ෂා කර නැවත උත්සාහ කරන්න.";
+
+/* The title of an error dialog shown when a user-initiated download failed because there was a network failure or the network was unavailable. [CHAR LIMIT=45] */
+"DOWNLOAD_FAILED_OFFLINE_TITLE" = "භාෂාව බාගැනීමට නොහැකිය";
+
+/* Title to show failed language package download. [CHAR LIMIT=20] */
+"DOWNLOAD_FAILED_TITLE" = "බාගැනීම අසාර්ථක විය";
+
+/* Accessibility hint to download the files necessary to offline translation. */
+"DOWNLOAD_LANGUAGE_HINT" = "බාගැනීමට දෙවරක් තට්ටු කරන්න.";
+
+/* Label for downloading languages [CHAR LIMIT=20] */
+"DOWNLOAD_LANGUAGE_TITLE" = "භාෂාව බාගන්න";
+
+/* Accessibility action name for the action to start the download of an offline translation file for currently selected langauge. This action name is spoken by the screen reader  as part of a list of actions that the user make take on language in the language menu. [CHAR LIMIT=25] */
+"DOWNLOAD_OFFLINE_FILE_A11Y_ACTION" = "බාගන්න";
+
+/* Title for a settings screen where users can configure whether or not to allow downloads over cellular networks. [CHAR LIMIT=40] */
+"DOWNLOAD_SETTINGS_ALLOW_CELLULAR_LABEL" = "Wi-Fi හෝ ජංගම ජාලය";
+
+/* Title for a settings screen where users can configure whether or not to allow downloads over cellular networks. [CHAR LIMIT=25] */
+"DOWNLOAD_SETTINGS_ALWAYS_ASK_LABEL" = "සෑම විටම අසන්න";
+
+/* Option in a dialog shown to users after they start a download, asking them to choose whether or not to allow downloads over cellular networks. [CHAR LIMIT=40] */
+"DOWNLOAD_SETTINGS_DIALOG_ALLOW_CELLULAR_LABEL" = "Wi-Fi හෝ ජංගම ජාලය භාවිතා කරන්න";
+
+/* Title for a switch in a dialog shown to users after they start a download, asking them to choose whether or not to allow downloads over cellular networks. [CHAR LIMIT=25] */
+"DOWNLOAD_SETTINGS_DIALOG_REMEMBER_SETTINGS_LABEL" = "මෙම සැකසීම මතක තබා ගන්න";
+
+/* Title for a dialog shown to users after they start a download, asking them to choose whether or not to allow downloads over cellular networks. [CHAR LIMIT=25] */
+"DOWNLOAD_SETTINGS_DIALOG_TITLE" = "බාගැනීම් සැකසීම්";
+
+/* Option in a dialog shown to users after they start a download, asking them to choose whether or not to allow downloads over cellular networks. [CHAR LIMIT=40] */
+"DOWNLOAD_SETTINGS_DIALOG_WIFI_ONLY_LABEL" = "Wi-Fi පමණක් භාවිතා කරන්න";
+
+/* Title for a settings screen where users can configure whether or not to allow downloads over cellular networks. [CHAR LIMIT=25] */
+"DOWNLOAD_SETTINGS_TITLE" = "මනාපයන් බාගන්න";
+
+/* Title for a settings screen where users can configure whether or not to allow downloads over cellular networks. [CHAR LIMIT=40] */
+"DOWNLOAD_SETTINGS_WIFI_ONLY_LABEL" = "Wi-Fi පමණි";
+
+/* Label on a message that appears briefly at the bottom of the screen when a user starts a download of an offline translation package. [CHAR LIMIT=40] */
+"DOWNLOAD_STARTED_HUD_MESSAGE" = "බාගැනීමට උත්සාහ කරමින්";
+
+/* Description to inform the user that no language packages are available for download currently. [CHAR LIMIT=150] */
+"DOWNLOAD_UNAVAILABLE_DESCRIPTION" = "මෙම අවස්ථාවේ භාෂා පැකේජ බාගැනීමට නොතිබේ. පසුව නැවත උත්සාහ කරන්න.";
+
+/* Title to show download packages are unavailable.[CHAR LIMIT=20] */
+"DOWNLOAD_UNAVAILABLE_TITLE" = "පැකේජය බාගන්න";
+
+/* Section header for downloaded languages.[CHAR LIMIT=20] */
+"DOWNLOADED_LANGUAGES_HEADER" = "බාගත් භාෂා";
+
+/* Section header for downloading languages.[CHAR LIMIT=20] */
+"DOWNLOADING_LANGUAGES_HEADER" = "බාගනිමින්";
+
+/* Error dialog body for generic failure.  '%ld' is a placeholder for a numeric error code. (no limit) */
+"ERROR_MESSAGEBOX_BODY_GENERAL_FAILURE" = "කුමක් හෝ වැරැද්දක් ඇත. මඳකින් යළි උත්සාහ කරන්න. දෝෂ කේතය: %ld";
+
+/* Error message for a network error when sending a photo OCR request to server (80 chars) */
+"ERROR_MESSAGEBOX_CAMERA_INPUT_REQUEST_ERROR_MESSAGE" = "ඡායාරූපය යැවීමේ ගැටළුවක් ඇති වුනි. කරුණාකර පසුව නැවත උත්සාහ කරන්න.";
+
+/* Error message for translation error. (no limit) */
+"ERROR_MESSAGEBOX_MESSAGE" = "Google පරිවර්තනය හට ඔබගේ ඉල්ලීම ඉටු කිරීමට ජාල සම්බන්ධතාවයක් පිහිටුවීමට නොහැකි විය. කරුණාකර ඔබගේ ජාල සම්බන්ධතාවය පරික්ෂා කර නැවත උත්සාහ කරන්න.";
+
+/* Error dialog title for generic failure (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_GENERAL_FAILURE" = "දෝෂයකි";
+
+/* Error dialog title for a network error (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_NETWORK_ERROR" = "ජාල දෝෂය";
+
+/* Error dialog title for an error when sending a photo image to server (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_S3REQUEST_ERROR" = "ඡායාරූපය යැවීමට නොහැකි විය";
+
+/* Error dialog title when failing to save a translation (20 chars) */
+"ERROR_MESSAGEBOX_TITLE_STAR_TABLE_FULL_FAILURE" = "දෝෂය";
+
+/* Error dialog title for a timeout error (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_TIMEOUT_ERROR" = "කල් ඉකුත්වීම";
+
+/* Error dialog title for translation failure (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_TRANSLATION_FAILURE" = "ජාල දෝෂය";
+
+/* Message shown when no text is found in a given photo. (50 chars) */
+"ERROR_NO_TEXT_FOUND" = "පෙළ හමු වුයේ නැත";
+
+/* Message shown when no text is found in a given photo. PH_1: a placeholder for language name (eg: French). You may modify its position in the final text, but it should be present in the final text. (50 chars) */
+"ERROR_NO_TEXT_FOUND_WITH_LANGNAME" = "%@ පෙළ හමුවුයේ නැත";
+
+/* Accessibility hint for a button that exits the full screen view. */
+"EXIT_FULL_SCREEN_A11Y_LABEL" = "පූර්ණ තිරයෙන් ඉවත් වන්න";
+
+/* Label shown below the German to Arabic instant translation package in settings [CHAR LIMIT=40]. */
+"GERMAN_ARABIC_SETTINGS_SUBTITLE" = "ක්ෂණික කැමරා පරිවර්තනය වැඩි දියුණු කරයි";
+
+/* Settings option description for toggling the automatic recognition result insertion feature for handwriting recognition (140 chars.) */
+"HANDWRITING_AUTOMATIC_INSERTION_DETAILS" = "එය පෙළ කොටුව තුළට ඇතුළු කිරීමෙන් ස්වයංක්‍රියව අත්අකුරු පෙළ තහවුරු කරන්න. අබල කර ඇති විට, අත්අකුරු පෙළ තහවුරු කිරීමට ඉඩ යතුර භාවිතා කරන්න.";
+
+/* Accessibility label for translate handwriting mode button */
+"HANDWRITING_INPUT_MODE_BUTTON_ACCESSIBILITY_LABEL" = "අතින් ලිවිම පරිවර්තනය කරන්න";
+
+/* The text prompt to instruct the user to write inside the textbox. (20 chars) */
+"HANDWRITING_INPUT_PLACEHOLDER" = "මෙහි ලියන්න";
+
+/* Hint message shown on starred view when there is no starred translation yet (50 chars) */
+"HINT_STAR" = "එය මෙහි බැලීමට පරිවර්තනයක් තරු ලකුණු කරන්න.";
+
+/* The text prompt to instruct the user that they can swipe a history translation to remove it. (40 chars) */
+"HINT_SWIPE_TO_REMOVE" = "පරිවර්තනයක් ඉවත් කිරීමට ස්වයිප් කරන්න";
+
+/* Title of a table section that displays previous translations. (60 chars) */
+"HISTORY_SUGGESTION_SECTION_HEADER" = "ඔබගේ ඉතිහාසය වෙතින් යෝජනා";
+
+/* Accessibility label for backspace button. */
+"HWR_BACKSPACE_A11Y_LABEL" = "Backspace";
+
+/* Title of a dialog box that asks if the user allows Google to retain image data to improve quality (30 chars) */
+"IMPROVE_CAMERA_TITLE" = "කැමරා ආදානය වැඩිදියුණු කරන්න";
+
+/* Hint text shown on the input card when there is no current input. This hint helps those users who cannot find a way to bring up virtual keyboard to type input text. (40 chars) */
+"INPUT_PLACEHOLDER" = "පෙළ ඇතුළු කිරීමට තට්ටු කරන්න";
+
+/* The input view on the home page is colored grey and disabled and this message is shown when there is no network available and the currently selected langauges do not support offline translation. [CHAR LIMIT=50] */
+"INPUT_VIEW_OFFLINE_ERROR_MESSAGE" = "ඔබ නොබැඳිය";
+
+/* Label shown on the input view when there is no network connectivity and the user does not have offline translation support files installed for the currently selected languages. [CHAR LIMIT=25] */
+"INPUT_VIEW_OFFLINE_LABEL" = "ඔබ නොබැඳිය";
+
+/* Accessibility label for instant translate camera input mode button */
+"INSTANT_CAMERA_INPUT_MODE_BUTTON_A11Y_LABEL" = "ක්ෂණික කැමරා පරිවර්තනය";
+
+/* The text of a card shown to user attempting text translation when the network is not available and the current selected languages do not support offline text translation. [CHAR LIMIT=100] */
+"INSTANT_TEXT_OFFLINE_ERROR_MESSAGE" = "පරිවර්තනය කළ නොහැකිය. කරුණාකර ඔබගේ ජාල සබැඳුම පරීක්ෂා කර නැවත උත්සාහ කරන්න.";
+
+/* Dialog body on an error dialog shown to users when they attempt to download offline translation support files and there is not enough storage available on their device. [CHAR LIMIT=200] */
+"INSUFFICIENT_STORAGE_DIALOG_BODY" = "නොබැඳි පරිවර්තන ගොනුව බාගැනීමේ දෝෂයකි. ගබඩා ඉඩ නිදහස් කර ගෙන නැවත උත්සාහ කරන්න.";
+
+/* Title on an error dialog shown to users when they attempt to download offline translation support files and there is not enough storage available on their device. [CHAR LIMIT=30] */
+"INSUFFICIENT_STORAGE_DIALOG_TITLE" = "ප්රමාණවත් ගබඩාවක් නැත";
+
+/* Accessibility label for translate keyboard input mode button */
+"KEYBOARD_INPUT_MODE_BUTTON_ACCESSIBILITY_LABEL" = "පෙළ පරිවර්තනය";
+
+/* Label for a sheet title that sends feedback. (20 chars) */
+"LABEL_SEND_FEEDBACK" = "ප්‍රතිපෝෂණ යවන්න ද?";
+
+/* Settings option for toggling the shake to send feedback. (20 chars) */
+"LABEL_SHAKE_FEEDBACK_SETTINGS" = "සෙලවීමේ ඉඟිය";
+
+/* Settings option label for the sub-page for toggling the shake to send feedback (40 chars.) */
+"LABEL_SHAKE_FEEDBACK_SETTINGS_VIEW" = "ප්‍රතිචාර යැවීමට සොලවන්න";
+
+/* Settings option description for toggling the shake to send feedback (140 chars.) */
+"LABEL_SHAKE_GESTURE_DETAILS" = "Google පරිවර්තනය පිළිබඳව අපගේ කණ්ඩායම වෙත ප්‍රතිපෝෂණ රචනා කිරීමට ඔබගේ උපාංගය සොලවන්න";
+
+/* Accessibility hint for a language button */
+"LANGUAGE_A11Y_HINT" = "භාෂාව වෙනස් කෙරේ.";
+
+/* Accessibilty hint for a button labelled with a language name that when pressed, listens for just that single language. [CHAR LIMIT=80] */
+"LANGUAGE_VOICE_BUTTON_A11Y_HINT" = "එක භාෂාවක් සඳහා සවන් දෙනවා.";
+
+/* Subtitle for a confirmation dialog when a user taps a link that leaves the Translate app.[CHAR LIMIT=160] */
+"LEAVE_APP_DIALOG_SUBTITLE" = "මෙම ක්‍රියාව බාහිර යෙදුමක් විවෘත කරයි. ආපසු ගැනීම සඳහා, මුල් පිටු බොත්තම දෙවරක් තට්ටු කරන්න.";
+
+/* Title for a confirmation dialog when a user taps a link that leaves the Translate app.[CHAR LIMIT=50] */
+"LEAVE_APP_DIALOG_TITLE" = "පරිවර්තන යෙදුමෙන් ඉවත් වන්නද?";
+
+/* Message shown when voice input is active and the app can recognize speech in either one of the two languages selected. (50 chars) */
+"LISTENING_BOTH_LANGS_MESSAGE" = "භාෂා දෙකම සඳහා සවන් දෙමින්";
+
+/* Accessibility hint for double-tap and hold gesture to copy the current item to the clipboard. */
+"LONG_PRESS_TO_COPY_A11Y_HINT" = "පිටපත් කිරීමට දෙවරක් තට්ටු කර අල්ලාගෙන සිටින්න.";
+
+/* Message shown while waiting for the text in the photo to be recognized by the server; PH_1: a placeholder for language name (eg: French). You may modify its position in the final text, but it should be present in the final text. [CHAR LIMIT=50] */
+"LOOKING_FOR_TEXT_MESSAGE" = "%@ පෙළ සඳහා බලමින්…";
+
+/* Error message when failing to save a translation. (120 chars) */
+"MESSAGEBOX_STAR_TABLE_FULL_FAILED" = "කනගාටුයි, අපට ඔබගේ පරිවර්තනය සුරැකිය නොහැක. ඔබ තරු ලකුණු කළ පරිවර්තන සඳහා සීමාව වෙත ළඟා වී ඇත.";
+
+/* Dialog title for Text To Speech network error (30 chars) */
+"MESSAGEBOX_TITLE_TTS_NETWORK_FAILED" = "ජාල දෝෂය";
+
+/* Message box message to notify that Text To Speech failed to download audio data because of network error. (no Limit) */
+"MESSAGEBOX_TTS_NETWORK_FAILED" = "මෙම විශේෂාංගයට ජාල සම්බන්ධතාවයක් අවශ්‍යයි. කරුණාකර ඔබගේ ජාල සම්බන්ධතාවය පරීක්ෂා කර නැවත උත්සාහ කරන්න.";
+
+/* Message box message to notify that Text To Speech will not work because the input text is too long. (no Limit) The parameter is the max number of characters accepted. */
+"MESSAGEBOX_TTS_TEXT_TOO_LONG" = "පේළින්-කථනයට අනුලකුණු %d ක් දක්වා සීමා කර ඇත. කරුණාකර ඔබගේ පෙළ කෙටි කර නැවත උත්සාහ කරන්න";
+
+/* Message box message to notify that Text To Speech will not work because the volume on the device is off. (No limit) */
+"MESSAGEBOX_TTS_VOLUME_OFF" = "ඔබගේ උපාංගයෙහි හඬ තීව්‍රතාවය අක්‍රියයි. කරුණාකර හඬ තීව්‍රතාවය ඉහළ නංවා නැවත උත්සාහ කරන්න.";
+
+/* Accessibility label for translate microphone input mode button */
+"MIC_INPUT_MODE_BUTTON_ACCESSIBILITY_LABEL" = "කථනය පරිවර්තනය කරන්න";
+
+/* The body of a model dialog shwown when the user tries to start voice input but we lack permission to use the mic.  The primary action button of this dialog will send the user to the Settings app to fix the permission problem.  '%@' is the name of the Translate application. [CHAR LIMIT=200] */
+"MIC_PERMISSIONS_HELP_SUBTITLE" = "%@ හට මයික්‍රෆෝනය භාවිත කිරීමට අවසරය අවශ්‍යයි.";
+
+/* Title of modal dialog shown when the user tries to start voice input but we lack permission to use the mic. The body of this dialog instructs the user how to change the permissions setting. [CHAR LIMIT=40] */
+"MIC_PERMISSIONS_HELP_TITLE" = "මයික්‍රෆෝනය භාවිත කළ නොහැකිය";
+
+/* Label on a message that appears briefly at the bottom of the screen when a user attempts an action that requires a network connection when the network is not available. [CHAR LIMIT=50] */
+"NETWORK_UNAVAILABLE_HUD_MESSAGE" = "මෙම විශේෂාංගය නොබැඳිව ලබා ගත නොහැකිය";
+
+/* Text that appears in the main body of a dialog for downlading files necessary for offline translation.  [CHAR LIMIT=200] */
+"OFFLINE_DOWNLOAD_DIALOG_BODY" = "නොබැඳි පරිවර්තන ගොනුවක් බාගැනීමෙන් ඔබ නොබැඳි විට පවා මෙම භාෂාව පරිවර්තනය කරන්න.";
+
+/* Subtitle of a dialog box for downloading files necessary for offline translation.  [CHAR LIMIT=40] */
+"OFFLINE_DOWNLOAD_DIALOG_SUBTITLE" = "නොබැඳි පරිවර්තනය";
+
+/* The text of a card shown to users when the network is unavailable to promote the use of the offline translation feature. */
+"OFFLINE_PROMO_CARD_BODY_OFFLINE" = "ඔබ ඊළඟ වතාවේ සම්බන්ධ වන විට නොබැඳි පරිවර්තන ගොනුවක් බාගැනීමෙන් ඔබ නොබැඳි විට පවා පරිවර්තනය කරන්න.";
+
+/* The text of a card shown to users when the network is available to promote the use of the offline translation feature. */
+"OFFLINE_PROMO_CARD_BODY_ONLINE" = "නොබැඳි පරිවර්තන ගොනුවක් බාගැනීමෙන් ඔබ නොබැඳි විට පවා පරිවර්තනය කරන්න.";
+
+/* Text that appears underneth translated text when when the translation was made with offline dictionaries. [CHAR LIMIT=25] */
+"OFFLINE_RESULT_LABEL" = "නොබැඳි";
+
+/* Label for a button to allow the app to perform an particular action. (30 chars) */
+"OK_BUTTON_LABEL" = "හරි";
+
+/* Header text for an open source license. */
+"OPEN_SOURCE_LICENSE_HEADER_TEXT" = "මෙම මෘදුකාංගය %@ කොටස මත පදනම්ව ඇත:";
+
+/* Header text for an open source license. 'Translate' in this message is the name of product Google Translate (80 chars) */
+"OPEN_SOURCE_LICENSE_HEADER_TEXT_TRANSLATE" = "Translate කරුණුද %@ සිට අන්තර්ගත කරයි:";
+
+/* The text that appears when a user performs a long-press copy on the original text of a translation result. */
+"ORIGINAL_TEXT_COPIED" = "මුල් පෙළ පිටපත් කෙරිණි";
+
+/* There was an unexpected error when processing the image, so photo import was cancelled. */
+"PHOTO_IMPORT_ERR_PREPARING" = "ආයාත කිරීමට පින්තූරය පිළියෙළ කිරීමේ දෝෂය.";
+
+/* Message shown when the app is processing and the user needs to wait before taking a next action. For example this message is shown when the app is setting up a connection with the speech server and is not ready to recognize speech input from the user. (50 chars) */
+"PLEASE_WAIT_MESSAGE" = "කරුණාකර රැදී සිටි…";
+
+/* Message shown when the app is preparing text-to-speech for translation text of a speech recognition result. (50 chars) */
+"PREPARING_TTS_MESSAGE" = "කථාවට සුදානම් වෙමින්…";
+
+/* The section title for showing a list of languages that are used recently. (40 chars) */
+"RECENT_USED_LANGUAGES" = "මෑත භාෂා";
+
+/* Accessibility action name for action to remove a translated item.  This name is spoken by the screen reader as part of a list of actions the user may take on a translated item. */
+"REMOVE_A11Y_ACTION" = "ඉවත් කරන්න";
+
+/* Title to remove language package. [CHAR LIMIT=20] */
+"REMOVE_PACKAGE_TITLE" = "පැකේජය ඉවත් කරන්න";
+
+/* Alert popup button to opt in to (yes, approve, agree) sending crash reports. (10 chars) */
+"REPORT_CRASHES_OPT_IN" = "හරි";
+
+/* Alert popup button to opt out of (no, disapprove, deny) sending crash reports. (10 chars) */
+"REPORT_CRASHES_OPT_OUT" = "එපා ස්තුතියි";
+
+/* Text to ask users to choose whether to send anonymous crash reports. (120 chars) */
+"REPORT_CRASHES_PROMPT" = "මෙම යෙදුම වැඩිදියුණු කිරීමට උපකාර කිරීමට ඔබ නිර්නාමික බිඳ වැටීම් වාර්තා යැවීමට කැමතිද?";
+
+/* Label for search input text bar by which the user can enter text to search for a language. (15 chars) */
+"SEARCH_BAR_HINT" = "සොයන්න";
+
+/* Label for a yes/no switch that enables automatic crash reporting. (25 chars) */
+"SEND_CRASH_REPORTS" = "බිඳ වැටීම් වාර්තා යවන්න";
+
+/* Label for a feature in the settings page that has been disabled (8 chars.) */
+"SETTINGS_FEATURE_DISABLED" = "අක්‍රීයයි";
+
+/* Label for a feature in the settings page that has been enabled (8 chars.) */
+"SETTINGS_FEATURE_ENABLED" = "සක්‍රීයයි";
+
+/* Accessibility label for a button that opens a menu of options for sharing translated text, such as via Mail, SMS, or Facebook. */
+"SHARE_A11Y_LABEL" = "බෙදා ගන්න";
+
+/* Message shown after the user takes the picture [CHAR LIMIT=50] */
+"SMUDGE_TO_READ_HINT" = "පෙළ උද්දීපනය කිරීමට ඔබගේ ඇඟිල්ල භාවිතා කරන්න";
+
+/* Accessibility label for the source language button. PH_1: a placeholder for language name (eg: French). You may modify its position in the final text, but it should be present in the final text. [CHAR LIMIT=50] */
+"SOURCE_LANGUAGE_A11Y_LABEL" = "මුල් භාෂාව: %@";
+
+/* Text that labels the spacebar in a keyboard. (12 chars) */
+"SPACE" = "ඉඩ";
+
+/* Message shown when voice input is active (50 chars) */
+"SPEAK_NOW_MESSAGE" = "දැන් කතා කරන්න";
+
+/* Accessibility hint for a button that speaks the original text using Google's text-to-speech engine. */
+"SPEAK_ORIGINAL_TEXT_A11Y_LABEL" = "මුල් පෙළ කථා කරන්න";
+
+/* Prompt message for when TTs is not available for a language. (100 chars) */
+"SPEAK_OUTPUT_NOT_AVAILABLE" = "මෙම භාෂාව සඳහා කථන ප්‍රතිදානය ලද නොහැකිය";
+
+/* Accessibility hint for a button that speaks text using Google's text-to-speech engine. */
+"SPEAK_TEXT_A11Y_HINT" = "Google පේළින්-කථනයට පද්ධතිය භාවිතා කතා කරයි.";
+
+/* Accessibility hint for a button that speaks the translated text using Google's text-to-speech engine. */
+"SPEAK_TRANSLATED_TEXT_A11Y_LABEL" = "පරිවර්ථනය කළ පෙළ කථා කරන්න";
+
+/* Accessibility label for history item star button.  In This context 'star' is used as a verb.(40 chars) */
+"STAR_BUTTON_ACCESSIBILITY_LABEL" = "තරුව පරිවර්තනය කරන්න";
+
+/* Accessibility value for a translated item that has been starred by the user.  Read by the screen reader as part of the item description. */
+"STARRED_ITEM_A11Y_VALUE" = "තරු ලකුණු කළ";
+
+/* An error message for a downloadable file shown when the file could not be saved. [CHAR LIMIT=50] */
+"STORAGE_FAILURE_ERROR_MESSAGE" = "ගොනුව සුරැකීමට නොහැක.";
+
+/* Summary for speech input settings for blocking offensive words. (80 chars.) */
+"SUMMARY_SPEECH_PROFANITY_FILTER_SETTINGS" = "හඳුනාගත් අහිතකර කථන ප්‍රතිඵල සඟවන්න";
+
+/* Accessibility hint for a button that displays the current translation in a full screen view. */
+"SUPERSIZE_A11Y_HINT" = "පරිවර්තනය පුළුල් තීරය වෙත දිගහැරීම දෙවරක් තට්ටු කරන්න.";
+
+/* Accessibility label for a button that displays the current translation in a full screen view. */
+"SUPERSIZE_A11Y_LABEL" = "පූර්ණ තිරය";
+
+/* Short label for swap language button. [CHAR LIMIT=25] */
+"SWAP_LANG_HINT" = "භාෂා මාරු කරන්න";
+
+/* The enumerated position of a tab in the tab bar for VoiceOver. */
+"TAB_1_OF_3" = "තුනෙන් එකක් තට්ටු කරන්න";
+
+/* The enumerated position of a tab in the tab bar for VoiceOver. */
+"TAB_2_OF_3" = "තුනෙන් දෙකක් තට්ටු කරන්න";
+
+/* The enumerated position of a tab in the tab bar for VoiceOver. */
+"TAB_3_OF_3" = "තුනෙන් තුනක් තට්ටු කරන්න";
+
+/* The tab title for the main application page where users input to translate texts. (noun). (10 chars) */
+"TAB_HOME" = "මුල් පිටුව";
+
+/* Button label for the Settings section). (10 chars) */
+"TAB_SETTINGS" = "සැකසීම්";
+
+/* Button label for the starred results section. (noun) (10 chars) */
+"TAB_STARRED" = "තරුව සලකුණු කළ";
+
+/* Accessibility label for the target language button. PH_1: a placeholder for language name (eg: French). You may modify its position in the final text, but it should be present in the final text. [CHAR LIMIT=50] */
+"TARGET_LANGUAGE_A11Y_LABEL" = "පරිවර්තනය කළ භාෂා: %@";
+
+/* The text that appears when a user performs a long-press copy on text.  (50 chars) */
+"TEXT_COPIED" = "පෙළ පිටපත් කරන ලදි";
+
+/* Page title for about page of the application. (noun) (20 chars) */
+"TITLE_ABOUT" = "පිළිබඳ";
+
+/* Cell title for the automatic insertion setting. (noun) (25 chars) */
+"TITLE_AUTOMATIC_INSERTION_CELL" = "ස්වයංක්‍රිය තහවුරුව";
+
+/* Page title for camera input settings page of the application. (noun) (30 chars) */
+"TITLE_CAMERA_INPUT_SETTINGS" = "කැමරා ආදානය";
+
+/* Title for the button to open a page showing legal notices for dictionaries and other translation materials used by Google Translate. (noun)(30 chars) */
+"TITLE_CONTENT_LICENSES" = "අන්තර්ගත බලපත්‍රය";
+
+/* Page title for crash reports settings. (noun) (20 chars) */
+"TITLE_CRASH_REPORTS" = "බිඳ වැටීම් වාර්තා යවන්න";
+
+/* Cell title for the crash reports setting. (noun) (20 chars) */
+"TITLE_CRASH_REPORTS_CELL" = "බිඳ වැටීම් වාර්තා";
+
+/* Page title for feedback settings. (noun) (20 chars) */
+"TITLE_FEEDBACK" = "ප්‍රතිපෝෂණය";
+
+/* Page title for handwriting recognition settings page of the application. (noun) (30 chars) */
+"TITLE_HANDWRITING_SETTINGS" = "අත්අකුරු";
+
+/* Title for the button to show the open source licenses page. (noun)(25 chars) */
+"TITLE_LICENSES" = "විවෘත මූලාශ්‍ර බලපත්‍ර";
+
+/* Title for a screen showing offline translationlanguage management.[CHAR LIMIT=35] */
+"TITLE_OFFLINE_TRANSLATION_SETTINGS" = "නොබැඳි පරිවර්තනය";
+
+/* Title of the button to open the privacy policy page. (noun)(25 chars) */
+"TITLE_PRIVACY_POLICY" = "පෞද්ගලිකත්වය ප්‍රතිපත්තිය";
+
+/* Settings menu label for submitting an App Store Review.  (40 chars) */
+"TITLE_REVIEW_APP_CELL" = "App Store මත සමාලෝචනය";
+
+/* Page title for the settings page of the application. (noun) (20 chars) */
+"TITLE_SETTINGS" = "සැකසීම්";
+
+/* Label for source language selection navigation title (25 chars) */
+"TITLE_SOURCE_LANGUAGE" = "වෙතින් පරිවර්තනය";
+
+/* Label for the speech input 'dialects' section. (30 chars.) */
+"TITLE_SPEECH_DIALECTS_SETTINGS" = "උපභාෂා";
+
+/* Label for speech input settings for blocking offensive words. (30 chars) */
+"TITLE_SPEECH_PROFANITY_FILTER_SETTINGS" = "අහිතකර වදන් අවහිර කරන්න";
+
+/* Title for page containing items user has starred or favorited. (10 chars) */
+"TITLE_STAR" = "තරුව සලකුණු කළ";
+
+/* Label for target langugage selection navigation title (25 chars) */
+"TITLE_TARGET_LANGUAGE" = "වෙත පරිවර්තනය";
+
+/* Title for the button that shows the terms of service page. (noun)(25 chars) */
+"TITLE_TERMS_OF_SERVICE" = "සේවා කොන්දේසි";
+
+/* Accessibility hint for a setting that can be toggled on or off */
+"TOGGLE_SETTING_A11Y_HINT" = "සැකසීම ටොගල කිරීමට දෙවරක් තට්ටු කරන්න.";
+
+/* Accessibility value for a toggle setting when the setting is turned off. */
+"TOGGLE_SETTING_A11Y_VALUE_OFF" = "ක්‍රියාවිරහිතයි";
+
+/* Accessibility value for a toggle setting when the setting is turned on. */
+"TOGGLE_SETTING_A11Y_VALUE_ON" = "ක්‍රියාත්මකයි";
+
+/* Accessibility action name for action to toggle the star on a translated item.  This name is spoken by the screen reader as part of a list of actions the user may take on a translated item. */
+"TOGGLE_STAR_A11Y_ACTION" = "තරුව ටොගල කිරීම";
+
+/* Tooltip that hovers above the button to tap to send image to the server for improved translation (20 chars) */
+"TOOLTIP_ENHANCE" = "වැඩිදියුණුව";
+
+/* Caption of the tour screen describing to the user that tapping on the text box with blue text will read that text aloud. [CHAR LIMIT=80] */
+"TOUCH_BLUE_TEXT_FOR_TTS_HINT" = "එය නැවත ඇසීමට නිල් පරිවර්තනය ස්පර්ශ කරන්න";
+
+/* Message shown when voice input is not active (50 chars) */
+"TOUCH_MIC_TO_START_MESSAGE" = "කතා කිරීම ආරම්භ කිරීමට මයික්‍රෝෆෝනය තට්ටු කරන්න";
+
+/* Caption of the tour screen describing to the user the button to tap to listen for a response. [CHAR LIMIT=80] */
+"TOUCH_OTHER_LANG_FOR_RESPONSE_HINT" = "ප්‍රතිචාරයක් සඳහා සවන්දීමට අනෙක් භාෂාව ස්පර්ශ කරන්න";
+
+/* Caption of the tour screen describing to the user that tapping on the text box with red text will allow user to edit that text. [CHAR LIMIT=80] */
+"TOUCH_RED_TEXT_TO_EDIT_HINT" = "සංස්කරණය කිරීමට රතු පෙළ මූලය ස්පර්ශ කරන්න";
+
+/* Title for a detected source language selection [CHAR LIMIT=50] */
+"TRANSLATE_FROM_TEXT_TITLE" = "වෙතින් පරිවර්තනය";
+
+/* The localized full name the Google translate product including the 'Google' part. */
+"TRANSLATE_FULL_PRODUCT_NAME" = "Google පරිවර්තනය";
+
+/* The localized short name the Google Translate product, without the 'Google' part. */
+"TRANSLATE_PRODUCT_NAME" = "පරිවර්තනය";
+
+/* The text that appears when a user performs a long-press copy on the full-screen translation. */
+"TRANSLATION_COPIED" = "පරිවර්තනය පිටපත් කෙරිණි";
+
+/* Accessibility hint for showing translation details. */
+"TRANSLATION_DETAILS_A11Y_HINT" = "පරිවර්තන විස්තර සඳහා දෙවරක් තට්ටු කරන්න.";
+
+/* Accessibility label for translation details icon */
+"TRANSLATION_DETAILS_A11Y_LABEL" = "විස්තර පෙන්වන්න";
+
+/* The text that appears when a user performs a tap on a dictionary result entry. */
+"TRANSLATION_EDITED" = "පරිවර්තනය සංස්කරණය කෙරිණි";
+
+/* Accessibility description for the Latin transcription of non-Latin text. */
+"TRANSLITERATED_TEXT_LABEL_A11Y_HINT" = "ප්‍රතිලේඛනය";
+
+/* The title of a button that will send the user to the Settings app to turn on microphone permissions. [CHAR LIMT=35] */
+"TURN_ON_MICROPHONE_BUTTON_LABEL" = "මයික්‍රෆෝනය ක්‍රියාත්මක කරන්න";
+
+/* An accessibility label for a downloadable languagepackage that supports translations in one directionfrom English to another language.  %%@ is a placeholder for a language name. */
+"UNIDIRECTIONAL_FROM_ENGLISH_LANGUAGE_PACK_A11Y_LABEL" = "%@ , ඉංග්‍රීසි වලින්.";
+
+/* Accessibility value for a translated item that has not been starred by the user.  Read by the screen reader as part of the item description. */
+"UNSTARRED_ITEM_A11Y_VALUE" = "තරු කළේ නැත";
+
+/* This value will be spoken by VoiceOver after the name of an offline translation package when there is an upgrade available for the package. [CHAR LIMIT=40] */
+"UPDATE_AVAILABLE_A11Y_VALUE" = "යාවත්කාලීනයක් ලබා ගත හැකිය";
+
+/* Label on a button that will update an offline translation package from currently installed version, to the most recent version. [CHAR LIMIT=20] */
+"UPDATE_BUTTON_LABEL" = "යාවත්කාලීන කරන්න";
+
+/* Additional descriptive text on a button that will update an offline translation packagefrom currently installed version, to the most recent version. [CHAR LIMIT=45] */
+"UPDATE_BUTTON_SUBTITLE" = "වඩා අලුත් අනුවාදයක් ලබා ගත හැකිය";
+
+/* The text of a card shown on the home screen when newer offline translation files are available. (no limit) */
+"UPDATE_PROMO_CARD_BODY" = "වඩා අලුත් නොබැඳි ගොනු පරිවර්තන සේවාව ලබා ගත හැකිය. ඔබගේ පෙර බාගන්නා ලද භාෂා සමාලෝචනය කර යාවත්කාලීන කරන්න.";
+
+/* The label of a call to action button on a card sown on the home screen when newer offline translation files are avilable.  When tapped, the button will launch a download confirmation dialog.  [CHAR LIMIT=40] */
+"UPDATE_PROMO_CARD_BUTTON_LABEL" = "සමාලෝචනය කර යාවත්කාලීන කරන්න";
+
+/* Error message shown when a downloaded offline data package is obosolete and needs to be re-downloaded. [CHAR LIMIT=20] */
+"UPDATE_REQUIRED_ERROR_MESSAGE" = "යාවත්කාලීන කිරීම අවශ්‍යයි";
+
+/* This value will be spoken by VoiceOver after the name of an offline translation package when there is an upgrade available for the package. [CHAR LIMIT=40] */
+"UPGRADE_AVAILABLE_A11Y_VALUE" = "උත්ශ්‍රේණි කිරීමක් ලබා ගත හැකිය";
+
+/* Label on a button that will upgrade an offline translation package from the smaller, less accurate version, to the larger, more accurate version. [CHAR LIMIT=20] */
+"UPGRADE_BUTTON_LABEL" = "උත්ශ්‍රේණි කරන්න";
+
+/* Additional descriptive text on a button that will upgrade an offline translation package from the smaller, less accurate version, to the larger, more accurate version. [CHAR LIMIT=45] */
+"UPGRADE_BUTTON_SUBTITLE" = "වඩා උසස් තත්ත්වයේ අනුවාදයක් ලබා ගත හැකිය";
+
+/* The text of a card shown next to offline translations performed with low quality offline translation packages, to encourage users to download the high quality offline translation packages. */
+"UPGRADE_PROMO_CARD_BODY_OFFLINE" = "ඔබ ඊළඟ වතාවේ සම්බන්ධ වන විට ඔබගේ නොබැදි පරිවර්තන ගොනුව උත්ශ්‍රේණි කිරීමෙන් වඩා හොඳ නොබැඳි පරිවර්තන ලබා ගන්න.";
+
+/* The text of a card shown next to offline translations performed with low quality offline translation packages, to encourage users to download the high quality offline translation packages.  This is show whoen the user is online and looking at a translated item from translation history. */
+"UPGRADE_PROMO_CARD_BODY_ONLINE" = "ඔබගේ නොබැදි පරිවර්තන ගොනුව උත්ශ්‍රේණි කිරීමෙන් වඩා හොඳ නොබැඳි පරිවර්තන ලබා ගන්න.";
+
+/* Title of a dialog box shown when the user is uploading a photo for OCR. */
+"UPLOAD_PHOTO_TITLE" = "ඡායාරූපය තෝරන්න";
+
+/* The version string format. The parameter is the version number. (30 chars) */
+"VERSION_FORMAT" = "අනුවාදය %@";
+
+/* Text to describe the larger of two options for a file to be downloaded for instant translation support which is displayed in a download dialog. [CHAR LIMIT=40] */
+"WORDLENS_DIALOG_LARGE_PACKAGE_SUBTITLE" = "තවත් වැකිකඩවල්, වඩා විශාල ගොනුවක්";
+
+/* Text to describe the larger and recommended of two options for a file to be downloaded for instant translation support which is displayed in a download dialog. PH_1: a placeholder for the size of the file in human readable units (eg: 20MB). [CHAR LIMIT=20] */
+"WORDLENS_DIALOG_LARGE_PACKAGE_TITLE" = "(%@) නිර්දේශිතයි";
+
+/* Text to describe the smaller of two options for a file to be downloaded for instant translation support which is displayed in a download dialog. [CHAR LIMIT=40] */
+"WORDLENS_DIALOG_SMALL_PACKAGE_SUBTITLE" = "කුඩා ගොනුවක් තුළ ජනප්‍රිය වචන";
+
+/* Text to describe the smaller of two options for a file to be downloaded for instant translation support which is displayed in a download dialog. PH_1: a placeholder for the size of the file in human readable units (eg: 2MB). [CHAR LIMIT=20] */
+"WORDLENS_DIALOG_SMALL_PACKAGE_TITLE" = "කුඩා (%@)";
+
+/* Text that appears in the main body of a dialog for downlading files necessary for instant camera translation.  [CHAR LIMIT=200] */
+"WORDLENS_DOWNLOAD_DIALOG_BODY" = "නොබැඳි පරිවර්තන ගොනුවක් බාගැනීමෙන් ඔබගේ කැමරාව සමඟ ක්ෂණික පරිවර්තන ලබා ගන්න.";
+
+/* Subtitle of a dialog box for downloading files necessary for instant camera translation.  [CHAR LIMIT=40] */
+"WORDLENS_DOWNLOAD_DIALOG_SUBTITLE" = "ක්ෂණික පරිවර්තනය";
+
+/* The text of a card shown to users to encourage them to download language packages necessary to use the instant camera translation feature */
+"WORDLENS_PROMO_CARD_BODY" = "නොබැඳි පරිවර්තන ගොනුවක් බාගැනීමෙන් ඔබගේ කැමරාව සමඟ ක්ෂණික පරිවර්තන ලබා ගන්න.";
+

@@ -1,0 +1,181 @@
+/*
+   LanguageVariants.strings
+   Translate
+
+   Created by Wenzhang Zhu on 3/15/11.
+   Copyright 2011 Google Inc. All rights reserved.
+ */
+
+/* Title format for language input setting in navigation bar. The parameter is language name. (noun). (20 chars) */
+"TITLE_FORMAT_FOR_LANGUAGE_VOICE_INPUT" = "إدخال الحديث باللغة %@";
+
+/* Button title format for voice input settings page. The parameter is the language name (noun). (20 chars) */
+"BUTTON_TITLE_FORMAT_FOR_SPEECH_INPUT" = "الإدخال باللغة %@:";
+
+/* Button title for voice settings. (noun) (20 chars) */
+"TITLE_SPEECH_SETTINGS" = "إدخال الحديث";
+
+/* Title for default Arabic dialect. (noun) (35 chars) */
+"Arabic" = "العربية";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (United Arab Emirates)" = "العربية (الإمارات العربية المتحدة)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Bahrain)" = "العربية (البحرين)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Algeria)" = "العربية (الجزائر)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Egypt)" = "العربية (مصر)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Israel)" = "العربية (إسرائيل)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Iraq)" = "العربية (العراق)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Jordan)" = "العربية (الأردن)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Kuwait)" = "العربية (الكويت)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Lebanon)" = "العربية (لبنان)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Maghrebi)" = "العربية (المغربية)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Oman)" = "العربية (عُمان)";
+
+/* Title for an Arabic dialect. (noun) (45 chars) */
+"Arabic (Palestine)" = "العربية (فلسطين)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Qatar)" = "العربية (قطر)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Saudi Arabia)" = "العربية (المملكة العربية السعودية)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Tunisia)" = "العربية (تونس)";
+
+/* Title for default English dialect. (noun) (35 chars) */
+"English" = "الإنجليزية";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (Australia)" = "الإنجليزية (أستراليا)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (Canada)" = "الإنجليزية (كندا)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (UK)" = "الإنجليزية (المملكة المتحدة)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (India)" = "الإنجليزية (الهند)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (New Zealand)" = "الإنجليزية (نيوزيلندا)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (US)" = "الإنجليزية (الولايات المتحدة)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (South Africa)" = "الإنجليزية (جنوب إفريقيا)";
+
+/* Title for default Mandarin dialect. (noun) (35 chars) */
+"Mandarin" = "الماندارين";
+
+/* Title for a Mandarin dialect. (noun) (35 chars) */
+"Mandarin (China)" = "الماندارين (الصينية)";
+
+/* Title for a Mandarin dialect. (noun) (35 chars) */
+"Mandarin (Hong Kong)" = "الماندارين (هونج كونج)";
+
+/* Title for a Mandarin dialect. (noun) (35 chars) */
+"Mandarin (Taiwan)" = "الماندارين (تايوان)";
+
+/* Title for a Cantonese dialect. (noun) (35 chars) */
+"Cantonese (Hong Kong)" = "الكانتونية (هونج كونج)";
+
+/* Title for default Spanish dialect. (noun) (35 chars) */
+"Spanish" = "الإسبانية";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Latin America)" = "الإسبانية (أمريكا اللاتينية)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Argentina)" = "الإسبانية (الأرجنتين)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Bolivia)" = "الإسبانية (بوليفيا)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Chile)" = "الإسبانية (تشيلي)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Colombia)" = "الإسبانية (كولومبيا)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Costa Rica)" = "الإسبانية (كوستاريكا)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Dominican Republic)" = "الإسبانية (جمهورية الدومينكان)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Ecuador)" = "الإسبانية (الإكوادور)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (El Salvador)" = "الإسبانية (السلفادور)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Guatemala)" = "الإسبانية (غواتيمالا)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Honduras)" = "الإسبانية (هندوراس)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Nicaragua)" = "الإسبانية (نيكاراغوا)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Panama)" = "الإسبانية (بنما)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Paraguay)" = "الإسبانية (باراجواي)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Peru)" = "الإسبانية (بيرو)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Uruguay)" = "الإسبانية (أوروجواي)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Venezuela)" = "الإسبانية (فنزويلا)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Puerto Rico)" = "الإسبانية (بورتوريكو)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (US)" = "الإسبانية (الولايات المتحدة)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Spain)" = "الإسبانية (إسبانيا)";
+
+/* Title for a Spanish dialect. (noun) (15 chars) */
+"Spanish (Mexico)" = "الإسبانية (المكسيك)";
+
+/* Title for a Portuguese dialect. (noun) (35 chars) */
+"Portuguese" = "البرتغالية";
+
+/* Title for a Portuguese dialect. (noun) (35 chars) */
+"Portuguese (Brazil)" = "البرتغالية (البرازيل)";
+
+/* Title for a Portuguese dialect. (noun) (35 chars) */
+"Portuguese (Portugal)" = "البرتغالية (البرتغال)";
+
+/* Chinese language name. (noun) (15 chars) */
+"CHINESE_NAME" = "الصينية";

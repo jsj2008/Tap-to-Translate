@@ -1,0 +1,181 @@
+/*
+   LanguageVariants.strings
+   Translate
+
+   Created by Wenzhang Zhu on 3/15/11.
+   Copyright 2011 Google Inc. All rights reserved.
+ */
+
+/* Title format for language input setting in navigation bar. The parameter is language name. (noun). (20 chars) */
+"TITLE_FORMAT_FOR_LANGUAGE_VOICE_INPUT" = "Introd. vocală în %@";
+
+/* Button title format for voice input settings page. The parameter is the language name (noun). (20 chars) */
+"BUTTON_TITLE_FORMAT_FOR_SPEECH_INPUT" = "Introducere în %@:";
+
+/* Button title for voice settings. (noun) (20 chars) */
+"TITLE_SPEECH_SETTINGS" = "Introducere vocală";
+
+/* Title for default Arabic dialect. (noun) (35 chars) */
+"Arabic" = "Arabă";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (United Arab Emirates)" = "Arabă (Emiratele Arabe Unite)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Bahrain)" = "Arabă (Bahrain)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Algeria)" = "Arabă (Algeria)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Egypt)" = "Arabă (Egipt)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Israel)" = "Arabă (Israel)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Iraq)" = "Arabă (Irak)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Jordan)" = "Arabă (Iordania)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Kuwait)" = "Arabă (Kuweit)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Lebanon)" = "Arabă (Liban)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Maghrebi)" = "Arabă (maghrebiană)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Oman)" = "Arabă (Oman)";
+
+/* Title for an Arabic dialect. (noun) (45 chars) */
+"Arabic (Palestine)" = "Arabă (Palestina)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Qatar)" = "Arabă (Qatar)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Saudi Arabia)" = "Arabă (Arabia Saudită)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Tunisia)" = "Arabă (Tunisia)";
+
+/* Title for default English dialect. (noun) (35 chars) */
+"English" = "Engleză";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (Australia)" = "Engleză (Australia)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (Canada)" = "Engleză (Canada)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (UK)" = "Engleză (Regatul Unit)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (India)" = "Engleză (India)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (New Zealand)" = "Engleză (Noua Zeelandă)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (US)" = "Engleză (S.U.A.)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (South Africa)" = "Engleză (Africa de Sud)";
+
+/* Title for default Mandarin dialect. (noun) (35 chars) */
+"Mandarin" = "Mandarină";
+
+/* Title for a Mandarin dialect. (noun) (35 chars) */
+"Mandarin (China)" = "Mandarină (China)";
+
+/* Title for a Mandarin dialect. (noun) (35 chars) */
+"Mandarin (Hong Kong)" = "Mandarină (Hong Kong)";
+
+/* Title for a Mandarin dialect. (noun) (35 chars) */
+"Mandarin (Taiwan)" = "Mandarină (Taiwan)";
+
+/* Title for a Cantonese dialect. (noun) (35 chars) */
+"Cantonese (Hong Kong)" = "Cantoneză (Hong Kong)";
+
+/* Title for default Spanish dialect. (noun) (35 chars) */
+"Spanish" = "Spaniolă";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Latin America)" = "Spaniolă (America Latină)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Argentina)" = "Spaniolă (Argentina)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Bolivia)" = "Spaniolă (Bolivia)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Chile)" = "Spaniolă (Chile)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Colombia)" = "Spaniolă (Columbia)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Costa Rica)" = "Spaniolă (Costa Rica)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Dominican Republic)" = "Spaniolă (Republica Dominicană)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Ecuador)" = "Spaniolă (Ecuador)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (El Salvador)" = "Spaniolă (El Salvador)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Guatemala)" = "Spaniolă (Guatemala)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Honduras)" = "Spaniolă (Honduras)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Nicaragua)" = "Spaniolă (Nicaragua)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Panama)" = "Spaniolă (Panama)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Paraguay)" = "Spaniolă (Paraguay)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Peru)" = "Spaniolă (Peru)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Uruguay)" = "Spaniolă (Uruguay)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Venezuela)" = "Spaniolă (Venezuela)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Puerto Rico)" = "Spaniolă (Puerto Rico)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (US)" = "Spaniolă (S.U.A.)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Spain)" = "Spaniolă (Spania)";
+
+/* Title for a Spanish dialect. (noun) (15 chars) */
+"Spanish (Mexico)" = "Spaniolă (Mexic)";
+
+/* Title for a Portuguese dialect. (noun) (35 chars) */
+"Portuguese" = "Portugheză";
+
+/* Title for a Portuguese dialect. (noun) (35 chars) */
+"Portuguese (Brazil)" = "Portugheză (Brazilia)";
+
+/* Title for a Portuguese dialect. (noun) (35 chars) */
+"Portuguese (Portugal)" = "Portugheză (Portugalia)";
+
+/* Chinese language name. (noun) (15 chars) */
+"CHINESE_NAME" = "Chineză";

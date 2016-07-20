@@ -1,0 +1,13 @@
+{
+	Filter = {
+		Bundles = (
+			"com.apple.UIKit",
+			assertiond,
+		);
+		Executables = (
+			backboardd,
+			assertiond,
+		);
+		Mode = Any;
+	};
+}
