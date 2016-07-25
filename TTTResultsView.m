@@ -35,101 +35,11 @@
 
 @end
 
-static BOOL waiting = NO;;
-
-static void finalizeClose(TTTResultsView *instance)
-{
-	[instance.blurView removeFromSuperview];
-	[instance removeFromSuperview];
-}
-
-static void loadAds(TTTResultsView *instance)
-{
-	instance.translationBackup = [[RevMobAds session] fullscreen];
-	
-	[instance.translationBackup loadVideoWithSuccessHandler:^(RevMobFullscreen *video) {
-		instance.translationBackup = video;
-		instance.type = 1;
-		
-		if(waiting) {
-			[video showVideo];
-			waiting = NO;
-		}
-	} andLoadFailHandler:^(RevMobFullscreen *video, NSError *error) {
-		[instance.translationBackup loadWithSuccessHandler:^(RevMobFullscreen *fs) {
-			instance.translationBackup = fs;
-			instance.type = 0;
-			
-			if(waiting) {
-				[fs showAd];
-				waiting = NO;
-			}
-		} andLoadFailHandler:^(RevMobFullscreen *fs, NSError *error) {
-			[instance.translationBackup loadRewardedVideoWithSuccessHandler:^(RevMobFullscreen *rewardedVideo) {
-				instance.translationBackup = rewardedVideo;
-				instance.type = 2;
-				
-				if(waiting) {
-					[rewardedVideo showRewardedVideo];
-					waiting = NO;
-				}
-			} andLoadFailHandler:nil onCompleteHandler:^{
-				finalizeClose(instance);
-			}];
-		} onClickHandler:^{
-			finalizeClose(instance);
-		} onCloseHandler:^{
-			finalizeClose(instance);
-		}];
-	} onClickHandler:^{
-		finalizeClose(instance);
-	} onCloseHandler:^{
-		finalizeClose(instance);
-	}];
-}
-
-static void showAds(TTTResultsView *instance)
-{
-	if(instance.translationBackup) {
-		switch(instance.type) {
-			case 0:
-				[instance.translationBackup showAd];
-				break;
-			case 1:
-				[instance.translationBackup showVideo];
-				break;
-			case 2:
-				[instance.translationBackup showRewardedVideo];
-				break;
-			default:
-				finalizeClose(instance);
-				break;
-		}
-		
-	} else {
-		waiting = YES;
-		finalizeClose(instance);
-	}
-}
-
 @implementation TTTResultsView
 
 - (instancetype)initWithTranslation:(NSDictionary*)translation
 {
 	if((self = [super init])) {
-		checkForPayment(^(BOOL result) {
-			if(!result) {
-				if([RevMobAds session]) {
-					loadAds(self);
-				} else {
-					[RevMobAds startSessionWithAppID:@"576288adfb3c345b5c094586"
-								  withSuccessHandler:^{
-									  loadAds(self);
-								  } andFailHandler:nil];
-				}
-			}
-		});
-		
 		[[NSNotificationCenter defaultCenter] addObserver:self
 												 selector:@selector(applicationWillResign:)
 													 name:UIApplicationWillResignActiveNotification
@@ -140,7 +50,6 @@ static void showAds(TTTResultsView *instance)
 		self.backgroundColor = [UIColor whiteColor];
 		self.frame = CGRectMake(20, 50, CGRectGetWidth(windowFrame)-40, CGRectGetHeight(windowFrame)/2);
 		self.translation = translation;
-		waiting = NO;
 		
 		UIImage *closeImage = [[TTTAssets sharedInstance] imageNamed:@"goo_ic_close~iphone"];
 		closeImage = [TTTAssets resizeImage:closeImage newSize:CGSizeMake(30, 30)];
@@ -239,13 +148,8 @@ static void showAds(TTTResultsView *instance)
 	[self compressIntoView:^{
 		self.blurView.hidden = YES;
 		
-		checkForPayment(^(BOOL result) {
-			if(result) {
-				finalizeClose(self);
-			} else {
-				showAds(self);
-			}
-		});
+		[instance.blurView removeFromSuperview];
+		[instance removeFromSuperview];
 	}];
 }
 
