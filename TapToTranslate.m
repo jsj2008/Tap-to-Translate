@@ -37,7 +37,7 @@ static BOOL hook = YES;
 
 + (void)showWindowIfPrepared
 {
-	if(visualEffectView && resultsView) {
+	if(visualEffectView && resultsView) {		
 		[[UIApplication sharedApplication].keyWindow addSubview:visualEffectView];
 		[resultsView expandIntoView:[UIApplication sharedApplication].keyWindow finished:^{
 			[UIView animateWithDuration:.3 animations:^{

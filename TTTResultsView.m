@@ -242,7 +242,7 @@
 	
 	[UIPasteboard generalPasteboard].string = self.translation[@"targetText"];
 	
-	[TapToTranslate changeHookingStatus:NO];
+	[TapToTranslate changeHookingStatus:YES];
 	
 	[self tappedCloseButton];
 }
