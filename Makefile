@@ -1,7 +1,7 @@
 TWEAK_NAME = TapToTranslate
 
 TapToTranslate_FILES = $(wildcard ./*.*m) $(wildcard ./XMLDictionary/*.*m) $(wildcard ./PulsingHalo/*.*m)
-TapToTranslate_FRAMEWORKS = UIKit CoreGraphics CoreText AVFoundation QuartzCore RevMobAds MediaPlayer CoreLocation AdSupport
+TapToTranslate_FRAMEWORKS = UIKit CoreGraphics CoreTextt
 TapToTranslate_LIBRARIES = MobileGestalt
 
 export TARGET = iphone:clang
