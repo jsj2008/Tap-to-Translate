@@ -42,12 +42,9 @@ static void addErrorBubble()
 
 - (void)setItems:(NSArray*)items
 {
-    %log;
     %orig;
     
     if([TapToTranslate hooksEnabled]) {
-        NSLog(@"TTT.HooksEnabled");
-        
         if([TTTComms isInternetAvailable]) {
             NSDictionary *dic = (items.count > 0 && [items[0] isKindOfClass:NSDictionary.class]) ? items[0] : nil;
             
@@ -61,50 +58,33 @@ static void addErrorBubble()
                 }
                 
                 if(value) {
-                    
-                    NSLog(@"got value");
                     if([value isKindOfClass:NSData.class]) {
                         NSString *text = [[NSString alloc] initWithData:value encoding:NSUTF8StringEncoding];
-                        NSLog(@"adding bubble 1");
                         addTranslationBubble(text);
                     } else if([value isKindOfClass:NSString.class]) {
-                        NSLog(@"adding bubble 2");
                         addTranslationBubble(value);
                     }
-                } else {
-                    NSLog(@"no value");
                 }
             }
         } else {
-            NSLog(@"adding error bubble");
             addErrorBubble();
         }
-    } else {
-        NSLog(@"TTT.HooksDisabled");
     }
 }
 
 - (void)setData:(NSData*)data forPasteboardType:(NSString*)type
 {
-    %log;
     %orig;
     
     if([TapToTranslate hooksEnabled]) {
-        NSLog(@"TTT.HooksEnabled");
-        
         if([TTTComms isInternetAvailable]) {
-            NSLog(@"is plain text");
 			if([type isEqualToString:@"public.utf8-plain-text"]) {
 				NSString *text = [[NSString alloc] initWithData:data encoding:NSUTF8StringEncoding];
-                NSLog(@"adding bubble");
 				addTranslationBubble(text);
 			}
         } else {
-            NSLog(@"adding error bubble");
             addErrorBubble();
         }
-    } else {
-        NSLog(@"TTT.HooksDisabled");
     }
 }
 
