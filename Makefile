@@ -3,6 +3,7 @@ TWEAK_NAME = TapToTranslate
 TapToTranslate_FILES = $(wildcard ./*.*m) $(wildcard ./XMLDictionary/*.*m) $(wildcard ./PulsingHalo/*.*m)
 TapToTranslate_FRAMEWORKS = UIKit CoreGraphics CoreText
 TapToTranslate_LIBRARIES = MobileGestalt
+TapToTranslate_LDFLAGS += -Wl,-segalign,4000
 
 export TARGET = iphone:clang
 export ARCHS = armv7 armv7s arm64
