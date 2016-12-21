@@ -1,0 +1,181 @@
+/*
+   LanguageVariants.strings
+   Translate
+
+   Created by Wenzhang Zhu on 3/15/11.
+   Copyright 2011 Google Inc. All rights reserved.
+ */
+
+/* Title format for language input setting in navigation bar. The parameter is language name. (noun). (20 chars) */
+"TITLE_FORMAT_FOR_LANGUAGE_VOICE_INPUT" = "Spraakinvoer %@";
+
+/* Button title format for voice input settings page. The parameter is the language name (noun). (20 chars) */
+"BUTTON_TITLE_FORMAT_FOR_SPEECH_INPUT" = "Invoer in het %@:";
+
+/* Button title for voice settings. (noun) (20 chars) */
+"TITLE_SPEECH_SETTINGS" = "Spraakinvoer";
+
+/* Title for default Arabic dialect. (noun) (35 chars) */
+"Arabic" = "Arabisch";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (United Arab Emirates)" = "Arabisch (Verenigde Arabische Emiraten)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Bahrain)" = "Arabisch (Bahrein)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Algeria)" = "Arabisch (Algerije)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Egypt)" = "Arabisch (Egypte)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Israel)" = "Arabisch (Israël)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Iraq)" = "Arabisch (Irak)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Jordan)" = "Arabisch (Jordanië)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Kuwait)" = "Arabisch (Koeweit)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Lebanon)" = "Arabisch (Libanon)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Maghrebi)" = "Arabisch (Maghrebijns)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Oman)" = "Arabisch (Oman)";
+
+/* Title for an Arabic dialect. (noun) (45 chars) */
+"Arabic (Palestine)" = "Arabisch (Palestina)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Qatar)" = "Arabisch (Qatar)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Saudi Arabia)" = "Arabisch (Saoedi-Arabië)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Tunisia)" = "Arabisch (Tunesië)";
+
+/* Title for default English dialect. (noun) (35 chars) */
+"English" = "Engels";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (Australia)" = "Engels (Australië)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (Canada)" = "Engels (Canada)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (UK)" = "Engels (Verenigd Koninkrijk)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (India)" = "Engels (India)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (New Zealand)" = "Engels (Nieuw-Zeeland)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (US)" = "Engels (Verenigde Staten)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (South Africa)" = "Engels (Zuid-Afrika)";
+
+/* Title for default Mandarin dialect. (noun) (35 chars) */
+"Mandarin" = "Mandarijn";
+
+/* Title for a Mandarin dialect. (noun) (35 chars) */
+"Mandarin (China)" = "Mandarijn (China)";
+
+/* Title for a Mandarin dialect. (noun) (35 chars) */
+"Mandarin (Hong Kong)" = "Mandarijn (Hongkong)";
+
+/* Title for a Mandarin dialect. (noun) (35 chars) */
+"Mandarin (Taiwan)" = "Mandarijn (Taiwan)";
+
+/* Title for a Cantonese dialect. (noun) (35 chars) */
+"Cantonese (Hong Kong)" = "Kantonees (Hongkong)";
+
+/* Title for default Spanish dialect. (noun) (35 chars) */
+"Spanish" = "Spaans";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Latin America)" = "Spaans (Latijns-Amerika)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Argentina)" = "Spaans (Argentinië)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Bolivia)" = "Spaans (Bolivia)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Chile)" = "Spaans (Chili)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Colombia)" = "Spaans (Colombia)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Costa Rica)" = "Spaans (Costa Rica)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Dominican Republic)" = "Spaans (Dominicaanse Republiek)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Ecuador)" = "Spaans (Ecuador)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (El Salvador)" = "Spaans (El Salvador)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Guatemala)" = "Spaans (Guatemala)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Honduras)" = "Spaans (Honduras)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Nicaragua)" = "Spaans (Nicaragua)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Panama)" = "Spaans (Panama)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Paraguay)" = "Spaans (Paraguay)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Peru)" = "Spaans (Peru)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Uruguay)" = "Spaans (Uruguay)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Venezuela)" = "Spaans (Venezuela)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Puerto Rico)" = "Spaans (Puerto Rico)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (US)" = "Spaans (Verenigde Staten)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Spain)" = "Spaans (Spanje)";
+
+/* Title for a Spanish dialect. (noun) (15 chars) */
+"Spanish (Mexico)" = "Spaans (Mexico)";
+
+/* Title for a Portuguese dialect. (noun) (35 chars) */
+"Portuguese" = "Portugees";
+
+/* Title for a Portuguese dialect. (noun) (35 chars) */
+"Portuguese (Brazil)" = "Portuguees (Brazilië)";
+
+/* Title for a Portuguese dialect. (noun) (35 chars) */
+"Portuguese (Portugal)" = "Portugees (Portugal)";
+
+/* Chinese language name. (noun) (15 chars) */
+"CHINESE_NAME" = "Chinees";

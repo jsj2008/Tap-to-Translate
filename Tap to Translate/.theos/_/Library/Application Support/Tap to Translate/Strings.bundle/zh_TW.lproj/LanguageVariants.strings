@@ -1,0 +1,181 @@
+/*
+   LanguageVariants.strings
+   Translate
+
+   Created by Wenzhang Zhu on 3/15/11.
+   Copyright 2011 Google Inc. All rights reserved.
+ */
+
+/* Title format for language input setting in navigation bar. The parameter is language name. (noun). (20 chars) */
+"TITLE_FORMAT_FOR_LANGUAGE_VOICE_INPUT" = "%@語音輸入";
+
+/* Button title format for voice input settings page. The parameter is the language name (noun). (20 chars) */
+"BUTTON_TITLE_FORMAT_FOR_SPEECH_INPUT" = "%@輸入：";
+
+/* Button title for voice settings. (noun) (20 chars) */
+"TITLE_SPEECH_SETTINGS" = "語音輸入";
+
+/* Title for default Arabic dialect. (noun) (35 chars) */
+"Arabic" = "阿拉伯文";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (United Arab Emirates)" = "阿拉伯文 (阿拉伯聯合大公國)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Bahrain)" = "阿拉伯文 (巴林)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Algeria)" = "阿拉伯文 (阿爾及利亞)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Egypt)" = "阿拉伯文 (埃及)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Israel)" = "阿拉伯文 (以色列)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Iraq)" = "阿拉伯文 (伊拉克)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Jordan)" = "阿拉伯文 (約旦)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Kuwait)" = "阿拉伯文 (科威特)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Lebanon)" = "阿拉伯文 (黎巴嫩)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Maghrebi)" = "阿拉伯文 (馬格里布)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Oman)" = "阿拉伯文 (阿曼)";
+
+/* Title for an Arabic dialect. (noun) (45 chars) */
+"Arabic (Palestine)" = "阿拉伯文 (巴勒斯坦)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Qatar)" = "阿拉伯文 (卡達)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Saudi Arabia)" = "阿拉伯文 (沙烏地阿拉伯)";
+
+/* Title for an Arabic dialect. (noun) (35 chars) */
+"Arabic (Tunisia)" = "阿拉伯文 (突尼西亞)";
+
+/* Title for default English dialect. (noun) (35 chars) */
+"English" = "英文";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (Australia)" = "英文 (澳洲)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (Canada)" = "英文 (加拿大)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (UK)" = "英文 (英國)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (India)" = "英文 (印度)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (New Zealand)" = "英文 (紐西蘭)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (US)" = "英文 (美國)";
+
+/* Title for an English dialect. (noun) (35 chars) */
+"English (South Africa)" = "英文 (南非)";
+
+/* Title for default Mandarin dialect. (noun) (35 chars) */
+"Mandarin" = "華語";
+
+/* Title for a Mandarin dialect. (noun) (35 chars) */
+"Mandarin (China)" = "華語 (中國)";
+
+/* Title for a Mandarin dialect. (noun) (35 chars) */
+"Mandarin (Hong Kong)" = "華語 (香港)";
+
+/* Title for a Mandarin dialect. (noun) (35 chars) */
+"Mandarin (Taiwan)" = "中文 (台灣)";
+
+/* Title for a Cantonese dialect. (noun) (35 chars) */
+"Cantonese (Hong Kong)" = "粵語 (香港)";
+
+/* Title for default Spanish dialect. (noun) (35 chars) */
+"Spanish" = "西班牙文";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Latin America)" = "西班牙文 (拉丁美洲)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Argentina)" = "西班牙文 (阿根廷)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Bolivia)" = "西班牙文 (玻利維亞)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Chile)" = "西班牙文 (智利)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Colombia)" = "西班牙文 (哥倫比亞)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Costa Rica)" = "西班牙文 (哥斯大黎加)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Dominican Republic)" = "西班牙文 (多明尼加共和國)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Ecuador)" = "西班牙文 (厄瓜多)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (El Salvador)" = "西班牙文 (薩爾瓦多)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Guatemala)" = "西班牙文 (瓜地馬拉)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Honduras)" = "西班牙文 (宏都拉斯)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Nicaragua)" = "西班牙文 (尼加拉瓜)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Panama)" = "西班牙文 (巴拿馬)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Paraguay)" = "西班牙文 (巴拉圭)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Peru)" = "西班牙文 (秘魯)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Uruguay)" = "西班牙文 (烏拉圭)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Venezuela)" = "西班牙文 (委內瑞拉)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Puerto Rico)" = "西班牙文 (波多黎各)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (US)" = "西班牙文 (美國)";
+
+/* Title for a Spanish dialect. (noun) (35 chars) */
+"Spanish (Spain)" = "西班牙文 (西班牙)";
+
+/* Title for a Spanish dialect. (noun) (15 chars) */
+"Spanish (Mexico)" = "西班牙文 (墨西哥)";
+
+/* Title for a Portuguese dialect. (noun) (35 chars) */
+"Portuguese" = "葡萄牙文";
+
+/* Title for a Portuguese dialect. (noun) (35 chars) */
+"Portuguese (Brazil)" = "葡萄牙文 (巴西)";
+
+/* Title for a Portuguese dialect. (noun) (35 chars) */
+"Portuguese (Portugal)" = "葡萄牙文 (葡萄牙)";
+
+/* Chinese language name. (noun) (15 chars) */
+"CHINESE_NAME" = "中文";

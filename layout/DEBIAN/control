@@ -1,9 +1,0 @@
-Package: com.mootjeuh.taptotranslate
-Name: Tap to Translate
-Depends: mobilesubstrate
-Version: 0.1
-Architecture: iphoneos-arm
-Description: Android-like Tap to Translate for iOS 
-Maintainer: Mohamed Marbouh
-Author: Mohamed Marbouh
-Section: Tweaks

@@ -1,0 +1,774 @@
+/* Accessibility value spoken after the name of a language in the language menu when there is a downloadable package available for that language to enable offline translation.  [CHAR LIMIT=25] */
+"ACCESSIBILITY_OFFLINE_DOWNLOAD_AVAILABLE" = "Available para i-download.";
+
+/* Inform the user the download has completed */
+"ACCESSIBILITY_OFFLINE_DOWNLOAD_COMPLETE" = "Nakumpleto na ang pag-download";
+
+/* Accessibility value spoken after the name of a language in the language menu when the offline translation package for that language is downloaded and installed. [CHAR LIMIT=25] */
+"ACCESSIBILITY_OFFLINE_DOWNLOAD_INSTALLED" = "Na-download.";
+
+/* The section title for showing the list of languages supported by Google Translate. (40 chars) */
+"ALL_SUPPORTED_LANGUAGES" = "Lahat ng wika";
+
+/* Section title for list of languages that are available for downloading. [CHAR LIMIT=25] */
+"AVAILABLE_LANGUAGES" = "Mga Available na Wika";
+
+/* Accessibility label for back button */
+"BACK_ARROW_ACCESSIBILITY_LABEL" = "Bumalik";
+
+/* An accessibility label for a downloadable languagepackage that supports translations in both directions between English and another language. %%@ is a placeholder for a language name. */
+"BIDIRECTION_WITH_ENGLISH_LANGUAGE_PACK_A11Y_LABEL" = "%@, papunta at mula sa English.";
+
+/* Subtitle for an information dialog box when a user taps a link that would leave the Translate app, but fails due to parental controls. */
+"BROWSER_RESTRICTED_DIALOG_SUBTITLE" = "Ang napiling link ay hindi maaaring mabuksan dahil pinaghigpitan ang pag-access sa web browser.";
+
+/* Title for an information dialog box when a user taps a link that would leave the Translate app, but fails due to parental controls.[CHAR LIMIT=50] */
+"BROWSER_RESTRICTED_DIALOG_TITLE" = "Hindi mabuksan ang link";
+
+/* Label for a button that shows additional details about the application. (20 chars) */
+"BUTTON_ABOUT" = "Tungkol sa";
+
+/* Label for a button that shows camera input settings. (30 chars) */
+"BUTTON_CAMERA_INPUT_SETTINGS" = "Camera input";
+
+/* Button label to cancel an action. (10 chars) */
+"BUTTON_CANCEL" = "Kanselahin";
+
+/* Button label to cancel an action. (10 chars) */
+"BUTTON_CANCEL_UPPERCASE" = "KANSELAHIN";
+
+/* Label for button to clear translation history. (30 chars) */
+"BUTTON_CLEAR_HISTORY" = "I-clear ang Kasaysayan ng Translation";
+
+/* Label for a button that shows the feedback page of the application. (20 chars) */
+"BUTTON_FEEDBACK" = "Feedback";
+
+/* Label for a button that shows handwriting recognition settings. (30 chars) */
+"BUTTON_HANDWRITING_SETTINGS" = "Sulat-kamay";
+
+/* Label for a button that shows help page of the application. (20 chars) */
+"BUTTON_HELP" = "Tulong";
+
+/* Label for a settings menu item that shows the offline translation languages management screen. (30 chars) */
+"BUTTON_OFFLINE_TRANSLATION_SETTINGS" = "Offline na pagsasalin";
+
+/* Select all word boxes [CHAR LIMIT=20] */
+"BUTTON_SELECT_ALL" = "Piliin Lahat";
+
+/* Select all word boxes [CHAR LIMIT=20] */
+"BUTTON_SELECT_ALL_UPPERCASE" = "PILIIN LAHAT";
+
+/* Label for a button that sends feedback. (20 chars) */
+"BUTTON_SEND_FEEDBACK" = "Ipadala ang feedback";
+
+/* Label for a button that shows voice settings. (20 chars) */
+"BUTTON_SPEECH_SETTINGS" = "Speech input";
+
+/* Button label to retry an action. [CHAR LIMIT=20] */
+"BUTTON_TRY_AGAIN" = "Subukang muli";
+
+/* A small toast label displayed in front of the camera image, indicating to the user that the orientation of this label is the same orientation as what the camera will try to read using OCR. (40 chars) */
+"CAMERA_ALIGN_TEXT" = "I-align ang Teksto";
+
+/* A small toast label displayed in front of the camera image, indicating to the user that the orientation of this label is the same orientation as what the camera will try to read using OCR. (40 chars) */
+"CAMERA_ALIGN_TEXT_LEFT_TO_RIGHT" = "Ipantay ang teksto nang kaliwa pakanan";
+
+/* Shown when the camera is used in Split View or Slide Over modes on newer iPads. Split View and Slide Over are features added in iOS9. [CHAR LIMIT=150] */
+"CAMERA_AVAILABLE_IN_FULL_SCREEN_ONLY" = "Ang camera ay hindi available.\nGamitin ang buong screen upang i-enable ang camera.";
+
+/* Accessibility label for the button which will download support for instant translation when tapped.[CHAR LIMIT=20] */
+"CAMERA_DOWNLOAD" = "I-download";
+
+/* Accessibility value for the button which is indicating that a download is in progress.[CHAR LIMIT=20] */
+"CAMERA_DOWNLOADING_A11Y_VALUE" = "Idina-download";
+
+/* Summary for camera privacy settings. (80 chars.) */
+"CAMERA_INPUT_LOGGING_DETAILS" = "Payagan ang Google na i-retain ang mga larawan mong kaugnay ng pagsasalin.";
+
+/* Accessibility label for translate camera input mode button */
+"CAMERA_INPUT_MODE_BUTTON_ACCESSIBILITY_LABEL" = "Translate camera";
+
+/* Label below a 'instant' button.  Verb; will toggle instant translation mode.[CHAR LIMIT=12] */
+"CAMERA_INSTANT" = "INSTANT";
+
+/* Accessiblity hint for the instant translation download button.  When user activates the button, a download dialog prompt is displayed.[CHAR LIMIT=80] */
+"CAMERA_INSTANT_DOWNLOAD_A11Y_HINT" = "Mag-double tap upang makita ang mga pagsasalin ng instant camera.";
+
+/* Dialog message to indicate that the user may incur data charges if they decide to download the file. [CHAR LIMIT=40] */
+"CAMERA_INSTANT_DOWNLOAD_BOTTOM_MESSAGE" = "Tandaan: Maaaring may ilapat na mga rate ng data.";
+
+/* Button label.  Tapping on it will begin download. (20 chars) */
+"CAMERA_INSTANT_DOWNLOAD_BUTTON" = "I-download";
+
+/* Accessiblity hint for the instant translation download cancel button.  When user activates the button, a download cancel dialog prompt is displayed.[CHAR LIMIT=50] */
+"CAMERA_INSTANT_DOWNLOAD_CANCEL_A11Y_HINT" = "Mag-double tap upang kanselahin ang pag-download.";
+
+/* Dialog message to explain to the user that this download will allow them to translate instantly between the two languages using their camera.[CHAR LIMIT=120] */
+"CAMERA_INSTANT_DOWNLOAD_CAPTION_MESSAGE" = "Upang instant na i-translate ang wikang ito gamit ang iyong camera, mag-download ng package ng instant na pag-translate sa camera.";
+
+/* Tooltip above instant download icon.  When user taps icon, a download dialog prompt is displayed.[CHAR LIMIT=80] */
+"CAMERA_INSTANT_DOWNLOAD_TIP" = "Pindutin upang makita ang mga agarang pagsasalin gamit ang camera";
+
+/* Title of a dialog box that prompts user to download data that enables instant camera translation. (60 chars) */
+"CAMERA_INSTANT_DOWNLOAD_TOP_MESSAGE" = "Instant na magsalin ng naka-print na text";
+
+/* Title of a dialog box that prompts user to download a package that enables instant camera translation. (60 chars) */
+"CAMERA_INSTANT_DOWNLOAD_TOP_MESSAGE_FINAL" = "I-download ang package";
+
+/* Label that shows above button, indicating that instant mode is now turned off. (30 chars) */
+"CAMERA_INSTANT_OFF_HINT" = "I-OFF ang Instant";
+
+/* Label that shows above button, indicating that instant mode is now turned on. (30 chars) */
+"CAMERA_INSTANT_ON_HINT" = "I-ON ang Instant";
+
+/* Message on a dialog box shown when a camera image is going to be sent to server for OCR for the first time. (100 chars) */
+"CAMERA_LOGGING_DIALOG_BOTTOM_MESSAGE" = "Maaari mo ring baguhin ang iyong kagustuhan mula sa view ng Mga Setting sa ibang pagkakataon.";
+
+/* Message on a dialog box shown when a camera image is going to be sent to server for OCR for the first time. (120 chars) */
+"CAMERA_LOGGING_DIALOG_CHECKBOX_MESSAGE" = "Payagan ang Google na i-retain ang mga larawan mong kaugnay ng pagsasalin upang matulungan kaming maging mas mahusay";
+
+/* Message on a dialog box shown when a camera image is going to be sent to server for OCR for the first time. (100 chars) */
+"CAMERA_LOGGING_DIALOG_TOP_MESSAGE" = "Magpapadala ka ng mga larawan ng camera sa Google para kilalanin ang teksto.";
+
+/* A toast label displayed in front of the camera image indicating to the user whether the app is in instant translation (Word Lens) mode or camera translation mode (30 chars) */
+"CAMERA_MODE_INSTANT_SUPPORTED" = "Mode na Agarang Pagsasalin";
+
+/* A toast label displayed in front of the camera image indicating to the user whether the app is in live translation (Word Lens) mode or camera translation mode (30 chars) */
+"CAMERA_MODE_LIVE_SUPPORTED" = "Live Translation Mode";
+
+/* A toast label to suggest a user action when live mode is supported (50 chars) */
+"CAMERA_MODE_LIVE_SUPPORTED_SUBLABEL" = "Itutok ang camera sa text upang i-translate";
+
+/* A toast label displayed in front of the camera image indicating to the user whether the app is in live translation (Word Lens) mode or camera translation mode (30 chars) */
+"CAMERA_MODE_LIVE_UNSUPPORTED" = "Camera Translation Mode";
+
+/* A toast label to suggest a user action when live mode is not supported [CHAR LIMIT=50] */
+"CAMERA_MODE_LIVE_UNSUPPORTED_SUBLABEL" = "Kumuha ng larawan upang i-translate";
+
+/* Shown if the user disables Camera permissions for the Translate app. The words 'Settings', 'Privacy', and 'Camera' refer to the iOS7 or iOS8 Settings app, and should match the system strings.  The wildcard represents our app name. */
+"CAMERA_NOT_AVAILABLE_WITH_HINT" = "Hindi available ang camera.\nBuksan ang Mga Setting > Privacy > Camera,\npagkatapos ay i-enable%@.";
+
+/* Label below a 'pause' icon.  Verb; will freeze camera video.  [12 chars] */
+"CAMERA_PAUSE" = "I-PAUSE";
+
+/* Label of the button to import photo. [CHAR LIMIT=12] */
+"CAMERA_PHOTO" = "LARAWAN";
+
+/* Label below a photo gallery icon.  Verb preferred, but could also refer to the user's system photo gallery. [12 chars] */
+"CAMERA_PHOTO_IMPORT" = "I-IMPORT";
+
+/* Label below a 'play' icon.  Verb; will start camera video. [12 chars] */
+"CAMERA_PLAY" = "I-PLAY";
+
+/* Label of the button that does redo of a camera input related action. [CHAR LIMIT=12] */
+"CAMERA_REDO" = "I-REDO";
+
+/* Accessibility label for the camera rotation lock setting. */
+"CAMERA_ROTATION_LOCK_A11Y_LABEL" = "I-lock ang oryentasyon ng camera";
+
+/* Label below a 'scan' button.  Verb; will switch app into image scanning mode. [CHAR LIMIT=12] */
+"CAMERA_SCAN" = "I-SCAN";
+
+/* Title for the list of supported languages that will follow. [CHAR LIMIT=50] */
+"CAMERA_SUPPORTED_LANGUAGES_HINT" = "Mga sinusuportahang wika";
+
+/* Accessibility label for the camera flashlight.  This label is used on an icon button that resembles a flashlight.  It is used to toggle the camera flash on or off as continuous lighting for the scene. */
+"CAMERA_TORCH_A11Y_LABEL" = "Flashlight";
+
+/* Caption of the tour image pointing at the button that triggers higher-quality scanning of the image for text. [CHAR LIMIT=80] */
+"CAMERA_TOUCH_TO_ENHANCE_HINT" = "Pindutin upang pahusayin ang pagkilala sa text";
+
+/* Tooltip displayed on top of the pause button on instant camera input view. This is used when the source is a left-to-right (LTR) language, and the target is right-to-left (RTL), or vice-versa. Let the user know that when they touch the pause button to pause video, the lines of text will be reversed so that each line is properly right-to-left (or vice versa). [CHAR LIMIT=NONE] */
+"CAMERA_TOUCH_TO_REVERSE" = "Pindutin upang baligtarin ang mga salita";
+
+/* Call to action, referencing adjacent icon, which matches the SCAN button icon. SCAN is capitalized as the label of the referenced button is also capitalized. [CHAR LIMIT=50] */
+"CAMERA_TOUCH_TO_SEARCH_HINT" = "I-tap button na I-SCAN upang i-translate ang text";
+
+/* Shown when the camera is used in Split View or Slide Over modes on newer iPads. Split View and Slide Over are features added in iOS9. [CHAR LIMIT=150] */
+"CAMERA_UNAVAILABLE_IN_SPLIT_VIEW" = "Ang camera ay hindi available. \nLumabas mula sa Split View upang i-enable ang camera.";
+
+/* Label of the button that does redo of a camera input related action. [CHAR LIMIT=12] */
+"CAMERA_UNDO" = "I-UNDO";
+
+/* Caption of the tour screen describing to the user that live translation mode works best on big text. [CHAR LIMIT=60] */
+"CAMERA_WORKS_BEST_HINT" = "Mas mainam sa mga sign at malaking text";
+
+/* Accessibility label for the camera zoom setting. */
+"CAMERA_ZOOM_A11Y_LABEL" = "I-zoom";
+
+/* Title to stop current download. [CHAR LIMIT=20] */
+"CANCEL_DOWNLOAD_TITLE" = "Kanselahin ang pag-download";
+
+/* Label for button to clear translation history. (30 chars) */
+"CLEAR_HISTORY_OK" = "OK";
+
+/* Sub-title for clear history alert. */
+"CLEAR_HISTORY_SUBTITLE" = "Iki-clear ang lahat ng kasaysayan ng pagsasalin mula sa application na ito.";
+
+/* Title for clear history alert. */
+"CLEAR_HISTORY_TITLE" = "I-clear ang history ng translation.";
+
+/* Accessibility label for the clear input button */
+"CLEAR_INPUT_BUTTON_ACCESSIBILITY_LABEL" = "I-clear ang text";
+
+/* Accessibility label for the conversation mode button. When tapped, it turns on the microphone to listen for both languages simultaneously. [CHAR LIMIT=80] */
+"CONVERSATION_BUTTON_A11Y_HINT" = "Nakikinig sa parehong wika.";
+
+/* Accessibility label for the conversation mode button. When tapped, it turns on the microphone to listen for both languages simultaneously. [CHAR LIMIT=80] */
+"CONVERSATION_BUTTON_A11Y_LABEL" = "Makinig";
+
+/* Accessibility label for a button that copies translated text to the clipboard. */
+"COPY_TRANSLATED_TEXT_A11Y_LABEL" = "Kopyahin ang isinaling teksto";
+
+/* Title for alert popup that tells users a crash occurred recently (the last time they used the app). (50 chars) */
+"CRASH_ALERT_TITLE" = "Uh-oh. Nag-crash kamakailan ang app na ito.";
+
+/* Settings option description for toggling the shake to send feedback (140 chars.) */
+"CRASH_REPORTS_DETAILS" = "Magpadala ng mga anonymous na crash report sa Google upang mapabuti namin ang paggamit mo nito.";
+
+/* Title for the dictionary card. (20 chars) */
+"DICTIONARY_TITLE" = "Diksyunaryo";
+
+/* Title for a spelling correction suggestion [CHAR LIMIT=50] */
+"DID_YOU_MEAN_TEXT_TITLE" = "Ang ibig mo bang sabihin ay";
+
+/* Label on a message that appears briefly at the bottom of the screen when an offline translation package download was cancelled by the user. [CHAR LIMIT=40] */
+"DOWNLOAD_CANCELLED_HUD_MESSAGE" = "Kinansela ang pag-download";
+
+/* Label on a message that appears briefly at the bottom of the screen when a offline translation package download completes. [CHAR LIMIT=40] */
+"DOWNLOAD_COMPLETED_HUD_MESSAGE" = "Nakumpleto na ang pag-download";
+
+/* Text to describe the amount of storage space available on the device.PH_1: a placeholder for the amount of space available in human readable units (eg: 200MB). You may modify its position. [CHAR LIMIT=35] */
+"DOWNLOAD_DIALOG_PACKAGE_SUBTITLE" = "%@ na storage ang available";
+
+/* Text to describe a file to be downloaded for offline translation support which is displayed in a download dialog.PH_1: a placeholder for the size of the file in human readable units (eg: 20MB). [CHAR LIMIT=25] */
+"DOWNLOAD_DIALOG_PACKAGE_TITLE" = "File na isasalin (%@)";
+
+/* Additional text that is displayed in the header of a download dialog when the user is updating an existing offline translation package to a newer version. [CHAR LIMIT=60] */
+"DOWNLOAD_DIALOG_UPDATE_BANNER_TEXT" = "Luma na ang kasalukuyang file na iyong isasalin";
+
+/* Additional text that is displayed in the header of a download dialog when the user is upgrading an existing offline translation package. [CHAR LIMIT=60] */
+"DOWNLOAD_DIALOG_UPGRADE_BANNER_TEXT" = "Mag-upgrade para sa mas mahuhusay na pagsasalin";
+
+/* Error message shown when download of offline packages failed. [CHAR LIMIT=20] */
+"DOWNLOAD_FAILED_ERROR_MESSAGE" = "Nabigo ang pag-download.";
+
+/* The body of an error dialog shown when a user-initiated download failed because there was a network failure or the network was unavailable. [CHAR LIMIT=100] */
+"DOWNLOAD_FAILED_OFFLINE_BODY" = "Pakitingnan ang iyong koneksyon at subukang muli.";
+
+/* The title of an error dialog shown when a user-initiated download failed because there was a network failure or the network was unavailable. [CHAR LIMIT=45] */
+"DOWNLOAD_FAILED_OFFLINE_TITLE" = "Hindi ma-download ang wika";
+
+/* Title to show failed language package download. [CHAR LIMIT=20] */
+"DOWNLOAD_FAILED_TITLE" = "Nabigo ang pag-download.";
+
+/* Accessibility hint to download the files necessary to offline translation. */
+"DOWNLOAD_LANGUAGE_HINT" = "Mag-double tap upang i-download.";
+
+/* Label for downloading languages [CHAR LIMIT=20] */
+"DOWNLOAD_LANGUAGE_TITLE" = "Mag-download ng wika";
+
+/* Accessibility action name for the action to start the download of an offline translation file for currently selected langauge. This action name is spoken by the screen reader  as part of a list of actions that the user make take on language in the language menu. [CHAR LIMIT=25] */
+"DOWNLOAD_OFFLINE_FILE_A11Y_ACTION" = "I-download";
+
+/* Title for a settings screen where users can configure whether or not to allow downloads over cellular networks. [CHAR LIMIT=40] */
+"DOWNLOAD_SETTINGS_ALLOW_CELLULAR_LABEL" = "Wi-Fi o mobile network";
+
+/* Title for a settings screen where users can configure whether or not to allow downloads over cellular networks. [CHAR LIMIT=25] */
+"DOWNLOAD_SETTINGS_ALWAYS_ASK_LABEL" = "Palaging magtanong";
+
+/* Option in a dialog shown to users after they start a download, asking them to choose whether or not to allow downloads over cellular networks. [CHAR LIMIT=40] */
+"DOWNLOAD_SETTINGS_DIALOG_ALLOW_CELLULAR_LABEL" = "Gamitin ang Wi-Fi o mobile network";
+
+/* Title for a switch in a dialog shown to users after they start a download, asking them to choose whether or not to allow downloads over cellular networks. [CHAR LIMIT=25] */
+"DOWNLOAD_SETTINGS_DIALOG_REMEMBER_SETTINGS_LABEL" = "Tandaan ang setting na ito";
+
+/* Title for a dialog shown to users after they start a download, asking them to choose whether or not to allow downloads over cellular networks. [CHAR LIMIT=25] */
+"DOWNLOAD_SETTINGS_DIALOG_TITLE" = "Mga setting ng pag-download";
+
+/* Option in a dialog shown to users after they start a download, asking them to choose whether or not to allow downloads over cellular networks. [CHAR LIMIT=40] */
+"DOWNLOAD_SETTINGS_DIALOG_WIFI_ONLY_LABEL" = "Gamitin lamang ang Wi-Fi";
+
+/* Title for a settings screen where users can configure whether or not to allow downloads over cellular networks. [CHAR LIMIT=25] */
+"DOWNLOAD_SETTINGS_TITLE" = "Mga kagustuhan sa pag-download";
+
+/* Title for a settings screen where users can configure whether or not to allow downloads over cellular networks. [CHAR LIMIT=40] */
+"DOWNLOAD_SETTINGS_WIFI_ONLY_LABEL" = "Wi-Fi lang";
+
+/* Label on a message that appears briefly at the bottom of the screen when a user starts a download of an offline translation package. [CHAR LIMIT=40] */
+"DOWNLOAD_STARTED_HUD_MESSAGE" = "Sinusubukang i-download";
+
+/* Description to inform the user that no language packages are available for download currently. [CHAR LIMIT=150] */
+"DOWNLOAD_UNAVAILABLE_DESCRIPTION" = "Walang mga package ng wika ang available para ma-download sa oras na ito. Mangyaring bumalik sa paglaon.";
+
+/* Title to show download packages are unavailable.[CHAR LIMIT=20] */
+"DOWNLOAD_UNAVAILABLE_TITLE" = "I-download ang package";
+
+/* Section header for downloaded languages.[CHAR LIMIT=20] */
+"DOWNLOADED_LANGUAGES_HEADER" = "Mga na-download na wika";
+
+/* Section header for downloading languages.[CHAR LIMIT=20] */
+"DOWNLOADING_LANGUAGES_HEADER" = "Idina-download";
+
+/* Error dialog body for generic failure.  '%ld' is a placeholder for a numeric error code. (no limit) */
+"ERROR_MESSAGEBOX_BODY_GENERAL_FAILURE" = "May nangyaring mali. Pakisubukang muli. Error code: %ld";
+
+/* Error message for a network error when sending a photo OCR request to server (80 chars) */
+"ERROR_MESSAGEBOX_CAMERA_INPUT_REQUEST_ERROR_MESSAGE" = "Nagka-error sa pagpapadala ng larawan. Subukang muli sa ibang pagkakataon.";
+
+/* Error message for translation error. (no limit) */
+"ERROR_MESSAGEBOX_MESSAGE" = "Hindi nagawang magtaguyod ng Google Translate ng koneksyon ng network upang isakatuparan ang iyong kahilingan. Pakisuri ang koneksyon ng iyong network at subukang muli.";
+
+/* Error dialog title for generic failure (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_GENERAL_FAILURE" = "Error";
+
+/* Error dialog title for a network error (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_NETWORK_ERROR" = "Error sa Network";
+
+/* Error dialog title for an error when sending a photo image to server (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_S3REQUEST_ERROR" = "Hindi maipadala ang larawan";
+
+/* Error dialog title when failing to save a translation (20 chars) */
+"ERROR_MESSAGEBOX_TITLE_STAR_TABLE_FULL_FAILURE" = "Error";
+
+/* Error dialog title for a timeout error (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_TIMEOUT_ERROR" = "Timeout";
+
+/* Error dialog title for translation failure (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_TRANSLATION_FAILURE" = "Error sa Network";
+
+/* Message shown when no text is found in a given photo. (50 chars) */
+"ERROR_NO_TEXT_FOUND" = "Walang nakitang text";
+
+/* Message shown when no text is found in a given photo. PH_1: a placeholder for language name (eg: French). You may modify its position in the final text, but it should be present in the final text. (50 chars) */
+"ERROR_NO_TEXT_FOUND_WITH_LANGNAME" = "Walang nakitang text ng %@";
+
+/* Accessibility hint for a button that exits the full screen view. */
+"EXIT_FULL_SCREEN_A11Y_LABEL" = "Mag-exit sa buong screen";
+
+/* Label shown below the German to Arabic instant translation package in settings [CHAR LIMIT=40]. */
+"GERMAN_ARABIC_SETTINGS_SUBTITLE" = "Pinahuhusay ang agarang pagsasalin gamit ang camera";
+
+/* Settings option description for toggling the automatic recognition result insertion feature for handwriting recognition (140 chars.) */
+"HANDWRITING_AUTOMATIC_INSERTION_DETAILS" = "Awtomatikong kumpirmahin ang sulat-kamay na text, at ipasok ito sa kahon ng text. Kapag naka-disable, gamitin ang space bar upang kumpirmahin ang nakasulat-kamay na text.";
+
+/* Accessibility label for translate handwriting mode button */
+"HANDWRITING_INPUT_MODE_BUTTON_ACCESSIBILITY_LABEL" = "I-translate ang sulat-kamay";
+
+/* The text prompt to instruct the user to write inside the textbox. (20 chars) */
+"HANDWRITING_INPUT_PLACEHOLDER" = "Magsulat dito";
+
+/* Hint message shown on starred view when there is no starred translation yet (50 chars) */
+"HINT_STAR" = "Lagyan ng star ang pagsasalin upang makita rito.";
+
+/* The text prompt to instruct the user that they can swipe a history translation to remove it. (40 chars) */
+"HINT_SWIPE_TO_REMOVE" = "Mag-swipe upang alisin ang pagsasalin";
+
+/* Title of a table section that displays previous translations. (60 chars) */
+"HISTORY_SUGGESTION_SECTION_HEADER" = "Mga mungkahi mula sa iyong history";
+
+/* Accessibility label for backspace button. */
+"HWR_BACKSPACE_A11Y_LABEL" = "Backspace";
+
+/* Title of a dialog box that asks if the user allows Google to retain image data to improve quality (30 chars) */
+"IMPROVE_CAMERA_TITLE" = "Ayusin ang camera input";
+
+/* Hint text shown on the input card when there is no current input. This hint helps those users who cannot find a way to bring up virtual keyboard to type input text. (40 chars) */
+"INPUT_PLACEHOLDER" = "Mag-tap para ilagay ang teksto";
+
+/* The input view on the home page is colored grey and disabled and this message is shown when there is no network available and the currently selected langauges do not support offline translation. [CHAR LIMIT=50] */
+"INPUT_VIEW_OFFLINE_ERROR_MESSAGE" = "Offline ka";
+
+/* Label shown on the input view when there is no network connectivity and the user does not have offline translation support files installed for the currently selected languages. [CHAR LIMIT=25] */
+"INPUT_VIEW_OFFLINE_LABEL" = "Offline ka";
+
+/* Accessibility label for instant translate camera input mode button */
+"INSTANT_CAMERA_INPUT_MODE_BUTTON_A11Y_LABEL" = "Agarang pagsasalin gamit ang camera";
+
+/* The text of a card shown to user attempting text translation when the network is not available and the current selected languages do not support offline text translation. [CHAR LIMIT=100] */
+"INSTANT_TEXT_OFFLINE_ERROR_MESSAGE" = "Hindi maisalin. Tingnan ang koneksyon mo sa network at subukang muli.";
+
+/* Dialog body on an error dialog shown to users when they attempt to download offline translation support files and there is not enough storage available on their device. [CHAR LIMIT=200] */
+"INSUFFICIENT_STORAGE_DIALOG_BODY" = "Error sa pag-download ng offline na file na isasalin.  Magbakante ng espasyo ng storage at subukang muli.";
+
+/* Title on an error dialog shown to users when they attempt to download offline translation support files and there is not enough storage available on their device. [CHAR LIMIT=30] */
+"INSUFFICIENT_STORAGE_DIALOG_TITLE" = "Hindi sapat ang storage";
+
+/* Accessibility label for translate keyboard input mode button */
+"KEYBOARD_INPUT_MODE_BUTTON_ACCESSIBILITY_LABEL" = "Mag-translate ng text";
+
+/* Label for a sheet title that sends feedback. (20 chars) */
+"LABEL_SEND_FEEDBACK" = "Magpadala ng Feedback?";
+
+/* Settings option for toggling the shake to send feedback. (20 chars) */
+"LABEL_SHAKE_FEEDBACK_SETTINGS" = "Kilos na pagkalog";
+
+/* Settings option label for the sub-page for toggling the shake to send feedback (40 chars.) */
+"LABEL_SHAKE_FEEDBACK_SETTINGS_VIEW" = "Kalugin upang magpadala ng feedback";
+
+/* Settings option description for toggling the shake to send feedback (140 chars.) */
+"LABEL_SHAKE_GESTURE_DETAILS" = "Kalugin ang iyong device upang gumawa ng feedback para sa aming team tungkol sa Google Translate";
+
+/* Accessibility hint for a language button */
+"LANGUAGE_A11Y_HINT" = "Pinapalitan ang wika.";
+
+/* Accessibilty hint for a button labelled with a language name that when pressed, listens for just that single language. [CHAR LIMIT=80] */
+"LANGUAGE_VOICE_BUTTON_A11Y_HINT" = "Nakikinig para sa isang wika.";
+
+/* Subtitle for a confirmation dialog when a user taps a link that leaves the Translate app.[CHAR LIMIT=160] */
+"LEAVE_APP_DIALOG_SUBTITLE" = "Binubuksan ng pagkilos na ito ang isang panlabas na application. Para makabalik, i-double-click ang Home button.";
+
+/* Title for a confirmation dialog when a user taps a link that leaves the Translate app.[CHAR LIMIT=50] */
+"LEAVE_APP_DIALOG_TITLE" = "Iwanan ang Translate app?";
+
+/* Message shown when voice input is active and the app can recognize speech in either one of the two languages selected. (50 chars) */
+"LISTENING_BOTH_LANGS_MESSAGE" = "Nakikinig para sa dalawang wika";
+
+/* Accessibility hint for double-tap and hold gesture to copy the current item to the clipboard. */
+"LONG_PRESS_TO_COPY_A11Y_HINT" = "Mag-double tap at i-hold upang kopyahin.";
+
+/* Message shown while waiting for the text in the photo to be recognized by the server; PH_1: a placeholder for language name (eg: French). You may modify its position in the final text, but it should be present in the final text. [CHAR LIMIT=50] */
+"LOOKING_FOR_TEXT_MESSAGE" = "Naghahanap ng text ng %@…";
+
+/* Error message when failing to save a translation. (120 chars) */
+"MESSAGEBOX_STAR_TABLE_FULL_FAILED" = "Paumanhin, hindi namin maaaring i-save ang iyong pagsasalin. Naabot mo na ang limitasyon para sa mga naka-star pagsasalin.";
+
+/* Dialog title for Text To Speech network error (30 chars) */
+"MESSAGEBOX_TITLE_TTS_NETWORK_FAILED" = "Error sa Network";
+
+/* Message box message to notify that Text To Speech failed to download audio data because of network error. (no Limit) */
+"MESSAGEBOX_TTS_NETWORK_FAILED" = "Nangangailangan ang tampok na ito ng koneksyon sa network. Pakisuri ang koneksyon ng iyong network at subukang muli.";
+
+/* Message box message to notify that Text To Speech will not work because the input text is too long. (no Limit) The parameter is the max number of characters accepted. */
+"MESSAGEBOX_TTS_TEXT_TOO_LONG" = "Limitado ang text-to-speech sa %d (na) character. Mangyaring paikliin ang iyong teksto at subukang muli";
+
+/* Message box message to notify that Text To Speech will not work because the volume on the device is off. (No limit) */
+"MESSAGEBOX_TTS_VOLUME_OFF" = "Naka-off ang volume ng iyong device. Pakitaasan ang volume at subukang muli.";
+
+/* Accessibility label for translate microphone input mode button */
+"MIC_INPUT_MODE_BUTTON_ACCESSIBILITY_LABEL" = "I-translate ang pagsasalita";
+
+/* The body of a model dialog shwown when the user tries to start voice input but we lack permission to use the mic.  The primary action button of this dialog will send the user to the Settings app to fix the permission problem.  '%@' is the name of the Translate application. [CHAR LIMIT=200] */
+"MIC_PERMISSIONS_HELP_SUBTITLE" = "Kailangan ng %@ ng pahintulot upang gamitin ang microphone.";
+
+/* Title of modal dialog shown when the user tries to start voice input but we lack permission to use the mic. The body of this dialog instructs the user how to change the permissions setting. [CHAR LIMIT=40] */
+"MIC_PERMISSIONS_HELP_TITLE" = "Hindi magamit ang microphone";
+
+/* Label on a message that appears briefly at the bottom of the screen when a user attempts an action that requires a network connection when the network is not available. [CHAR LIMIT=50] */
+"NETWORK_UNAVAILABLE_HUD_MESSAGE" = "Hindi available offline ang feature na ito";
+
+/* Text that appears in the main body of a dialog for downlading files necessary for offline translation.  [CHAR LIMIT=200] */
+"OFFLINE_DOWNLOAD_DIALOG_BODY" = "Isalin ang wikang ito kahit offline ka sa pamamagitan ng pag-download ng offline na file ng pagsasalin.";
+
+/* Subtitle of a dialog box for downloading files necessary for offline translation.  [CHAR LIMIT=40] */
+"OFFLINE_DOWNLOAD_DIALOG_SUBTITLE" = "Offline na pagsasalin";
+
+/* The text of a card shown to users when the network is unavailable to promote the use of the offline translation feature. */
+"OFFLINE_PROMO_CARD_BODY_OFFLINE" = "Magsalin kahit offline ka sa pamamagitan ng pag-download ng offline na file ng pagsasalin sa susunod na magkakaroon ka ng koneksyon.";
+
+/* The text of a card shown to users when the network is available to promote the use of the offline translation feature. */
+"OFFLINE_PROMO_CARD_BODY_ONLINE" = "Magsalin kahit offline ka sa pamamagitan ng pag-download ng offline na file ng pagsasalin.";
+
+/* Text that appears underneth translated text when when the translation was made with offline dictionaries. [CHAR LIMIT=25] */
+"OFFLINE_RESULT_LABEL" = "Offline";
+
+/* Label for a button to allow the app to perform an particular action. (30 chars) */
+"OK_BUTTON_LABEL" = "OK";
+
+/* Header text for an open source license. */
+"OPEN_SOURCE_LICENSE_HEADER_TEXT" = "Ang software na ito ay may bahaging batay sa %@:";
+
+/* Header text for an open source license. 'Translate' in this message is the name of product Google Translate (80 chars) */
+"OPEN_SOURCE_LICENSE_HEADER_TEXT_TRANSLATE" = "Nagsasama rin ang Translate ng materyal mula sa %@:";
+
+/* The text that appears when a user performs a long-press copy on the original text of a translation result. */
+"ORIGINAL_TEXT_COPIED" = "Kinopya ang Orihinal na Teksto";
+
+/* There was an unexpected error when processing the image, so photo import was cancelled. */
+"PHOTO_IMPORT_ERR_PREPARING" = "Nagkaroon ng error sa paghahanda ng larawan para sa pag-import.";
+
+/* Message shown when the app is processing and the user needs to wait before taking a next action. For example this message is shown when the app is setting up a connection with the speech server and is not ready to recognize speech input from the user. (50 chars) */
+"PLEASE_WAIT_MESSAGE" = "Mangyaring maghintay…";
+
+/* Message shown when the app is preparing text-to-speech for translation text of a speech recognition result. (50 chars) */
+"PREPARING_TTS_MESSAGE" = "Naghahanda sa pagsasalita…";
+
+/* The section title for showing a list of languages that are used recently. (40 chars) */
+"RECENT_USED_LANGUAGES" = "Mga kamakailang wika";
+
+/* Accessibility action name for action to remove a translated item.  This name is spoken by the screen reader as part of a list of actions the user may take on a translated item. */
+"REMOVE_A11Y_ACTION" = "Alisin";
+
+/* Title to remove language package. [CHAR LIMIT=20] */
+"REMOVE_PACKAGE_TITLE" = "Alisin ang package";
+
+/* Alert popup button to opt in to (yes, approve, agree) sending crash reports. (10 chars) */
+"REPORT_CRASHES_OPT_IN" = "OK";
+
+/* Alert popup button to opt out of (no, disapprove, deny) sending crash reports. (10 chars) */
+"REPORT_CRASHES_OPT_OUT" = "Hindi salamat";
+
+/* Text to ask users to choose whether to send anonymous crash reports. (120 chars) */
+"REPORT_CRASHES_PROMPT" = "Gusto mo bang magpadala ng mga anonymous na ulat ng pag-crash upang makatulong na pagbutihin ang app na ito?";
+
+/* Label for search input text bar by which the user can enter text to search for a language. (15 chars) */
+"SEARCH_BAR_HINT" = "Maghanap";
+
+/* Label for a yes/no switch that enables automatic crash reporting. (25 chars) */
+"SEND_CRASH_REPORTS" = "Ipadala ang ulat ng pag-crash";
+
+/* Label for a feature in the settings page that has been disabled (8 chars.) */
+"SETTINGS_FEATURE_DISABLED" = "I-off";
+
+/* Label for a feature in the settings page that has been enabled (8 chars.) */
+"SETTINGS_FEATURE_ENABLED" = "Naka-on";
+
+/* Accessibility label for a button that opens a menu of options for sharing translated text, such as via Mail, SMS, or Facebook. */
+"SHARE_A11Y_LABEL" = "Ibahagi";
+
+/* Message shown after the user takes the picture [CHAR LIMIT=50] */
+"SMUDGE_TO_READ_HINT" = "Gamitin ang iyong daliri upang i-highlight ang text";
+
+/* Accessibility label for the source language button. PH_1: a placeholder for language name (eg: French). You may modify its position in the final text, but it should be present in the final text. [CHAR LIMIT=50] */
+"SOURCE_LANGUAGE_A11Y_LABEL" = "Orihinal na wika: %@";
+
+/* Text that labels the spacebar in a keyboard. (12 chars) */
+"SPACE" = "space";
+
+/* Message shown when voice input is active (50 chars) */
+"SPEAK_NOW_MESSAGE" = "Magsalita ngayon";
+
+/* Accessibility hint for a button that speaks the original text using Google's text-to-speech engine. */
+"SPEAK_ORIGINAL_TEXT_A11Y_LABEL" = "Bigkasin ang orihinal na teksto";
+
+/* Prompt message for when TTs is not available for a language. (100 chars) */
+"SPEAK_OUTPUT_NOT_AVAILABLE" = "Hindi available ang speech output para sa wikang ito";
+
+/* Accessibility hint for a button that speaks text using Google's text-to-speech engine. */
+"SPEAK_TEXT_A11Y_HINT" = "Nagsasalita gamit ang sistemang text to speech ng Google.";
+
+/* Accessibility hint for a button that speaks the translated text using Google's text-to-speech engine. */
+"SPEAK_TRANSLATED_TEXT_A11Y_LABEL" = "Bigkasin ang naisaling teksto";
+
+/* Accessibility label for history item star button.  In This context 'star' is used as a verb.(40 chars) */
+"STAR_BUTTON_ACCESSIBILITY_LABEL" = "Lagyan ng star ang pagsasalin";
+
+/* Accessibility value for a translated item that has been starred by the user.  Read by the screen reader as part of the item description. */
+"STARRED_ITEM_A11Y_VALUE" = "May star";
+
+/* An error message for a downloadable file shown when the file could not be saved. [CHAR LIMIT=50] */
+"STORAGE_FAILURE_ERROR_MESSAGE" = "Hindi ma-save ang file.";
+
+/* Summary for speech input settings for blocking offensive words. (80 chars.) */
+"SUMMARY_SPEECH_PROFANITY_FILTER_SETTINGS" = "Itago ang mga kinikilalang resulta ng nakakapanakit na salita";
+
+/* Accessibility hint for a button that displays the current translation in a full screen view. */
+"SUPERSIZE_A11Y_HINT" = "I-double tap upang mapalawak ang pagsasalin sa full screen.";
+
+/* Accessibility label for a button that displays the current translation in a full screen view. */
+"SUPERSIZE_A11Y_LABEL" = "Buong screen";
+
+/* Short label for swap language button. [CHAR LIMIT=25] */
+"SWAP_LANG_HINT" = "Magpalit ng wika";
+
+/* The enumerated position of a tab in the tab bar for VoiceOver. */
+"TAB_1_OF_3" = "Tab, isa sa tatlo";
+
+/* The enumerated position of a tab in the tab bar for VoiceOver. */
+"TAB_2_OF_3" = "Tab, dalawa sa tatlo";
+
+/* The enumerated position of a tab in the tab bar for VoiceOver. */
+"TAB_3_OF_3" = "Tab, tatlo sa tatlo";
+
+/* The tab title for the main application page where users input to translate texts. (noun). (10 chars) */
+"TAB_HOME" = "Home";
+
+/* Button label for the Settings section). (10 chars) */
+"TAB_SETTINGS" = "Mga Setting";
+
+/* Button label for the starred results section. (noun) (10 chars) */
+"TAB_STARRED" = "May star";
+
+/* Accessibility label for the target language button. PH_1: a placeholder for language name (eg: French). You may modify its position in the final text, but it should be present in the final text. [CHAR LIMIT=50] */
+"TARGET_LANGUAGE_A11Y_LABEL" = "Isinaling wika: %@";
+
+/* The text that appears when a user performs a long-press copy on text.  (50 chars) */
+"TEXT_COPIED" = "Kinopyang Teksto";
+
+/* Page title for about page of the application. (noun) (20 chars) */
+"TITLE_ABOUT" = "Tungkol sa";
+
+/* Cell title for the automatic insertion setting. (noun) (25 chars) */
+"TITLE_AUTOMATIC_INSERTION_CELL" = "Awtomatikong kumpirmasyon";
+
+/* Page title for camera input settings page of the application. (noun) (30 chars) */
+"TITLE_CAMERA_INPUT_SETTINGS" = "Camera input";
+
+/* Title for the button to open a page showing legal notices for dictionaries and other translation materials used by Google Translate. (noun)(30 chars) */
+"TITLE_CONTENT_LICENSES" = "Mga lisensya ng content";
+
+/* Page title for crash reports settings. (noun) (20 chars) */
+"TITLE_CRASH_REPORTS" = "Magpadala ng mga ulat ng pag-crash";
+
+/* Cell title for the crash reports setting. (noun) (20 chars) */
+"TITLE_CRASH_REPORTS_CELL" = "Mga crash report";
+
+/* Page title for feedback settings. (noun) (20 chars) */
+"TITLE_FEEDBACK" = "Feedback";
+
+/* Page title for handwriting recognition settings page of the application. (noun) (30 chars) */
+"TITLE_HANDWRITING_SETTINGS" = "Sulat-kamay";
+
+/* Title for the button to show the open source licenses page. (noun)(25 chars) */
+"TITLE_LICENSES" = "Mga open source license";
+
+/* Title for a screen showing offline translationlanguage management.[CHAR LIMIT=35] */
+"TITLE_OFFLINE_TRANSLATION_SETTINGS" = "Offline na pagsasalin";
+
+/* Title of the button to open the privacy policy page. (noun)(25 chars) */
+"TITLE_PRIVACY_POLICY" = "Patakaran sa Privacy";
+
+/* Settings menu label for submitting an App Store Review.  (40 chars) */
+"TITLE_REVIEW_APP_CELL" = "I-review sa App Store";
+
+/* Page title for the settings page of the application. (noun) (20 chars) */
+"TITLE_SETTINGS" = "Mga Setting";
+
+/* Label for source language selection navigation title (25 chars) */
+"TITLE_SOURCE_LANGUAGE" = "Isalin mula sa";
+
+/* Label for the speech input 'dialects' section. (30 chars.) */
+"TITLE_SPEECH_DIALECTS_SETTINGS" = "Mga Dialect";
+
+/* Label for speech input settings for blocking offensive words. (30 chars) */
+"TITLE_SPEECH_PROFANITY_FILTER_SETTINGS" = "I-block nakakasakit na salita";
+
+/* Title for page containing items user has starred or favorited. (10 chars) */
+"TITLE_STAR" = "May star";
+
+/* Label for target langugage selection navigation title (25 chars) */
+"TITLE_TARGET_LANGUAGE" = "Isalin sa";
+
+/* Title for the button that shows the terms of service page. (noun)(25 chars) */
+"TITLE_TERMS_OF_SERVICE" = "Mga Tuntunin ng Serbisyo";
+
+/* Accessibility hint for a setting that can be toggled on or off */
+"TOGGLE_SETTING_A11Y_HINT" = "Mag-double tap upang i-toggle ang setting.";
+
+/* Accessibility value for a toggle setting when the setting is turned off. */
+"TOGGLE_SETTING_A11Y_VALUE_OFF" = "Naka-off";
+
+/* Accessibility value for a toggle setting when the setting is turned on. */
+"TOGGLE_SETTING_A11Y_VALUE_ON" = "Naka-on";
+
+/* Accessibility action name for action to toggle the star on a translated item.  This name is spoken by the screen reader as part of a list of actions the user may take on a translated item. */
+"TOGGLE_STAR_A11Y_ACTION" = "I-toggle ang star";
+
+/* Tooltip that hovers above the button to tap to send image to the server for improved translation (20 chars) */
+"TOOLTIP_ENHANCE" = "Paghusayin";
+
+/* Caption of the tour screen describing to the user that tapping on the text box with blue text will read that text aloud. [CHAR LIMIT=80] */
+"TOUCH_BLUE_TEXT_FOR_TTS_HINT" = "Pindutin ang asul na translation upang mapakinggan ito ulit";
+
+/* Message shown when voice input is not active (50 chars) */
+"TOUCH_MIC_TO_START_MESSAGE" = "Pindutin ang mic upang magsimulang magsalita";
+
+/* Caption of the tour screen describing to the user the button to tap to listen for a response. [CHAR LIMIT=80] */
+"TOUCH_OTHER_LANG_FOR_RESPONSE_HINT" = "Pindutin ang ibang wika upang pakinggan ang tugon";
+
+/* Caption of the tour screen describing to the user that tapping on the text box with red text will allow user to edit that text. [CHAR LIMIT=80] */
+"TOUCH_RED_TEXT_TO_EDIT_HINT" = "Pindutin ang pulang pinagmulang text upang i-edit ito";
+
+/* Title for a detected source language selection [CHAR LIMIT=50] */
+"TRANSLATE_FROM_TEXT_TITLE" = "Isalin mula sa";
+
+/* The localized full name the Google translate product including the 'Google' part. */
+"TRANSLATE_FULL_PRODUCT_NAME" = "Google Translate";
+
+/* The localized short name the Google Translate product, without the 'Google' part. */
+"TRANSLATE_PRODUCT_NAME" = "Isalin";
+
+/* The text that appears when a user performs a long-press copy on the full-screen translation. */
+"TRANSLATION_COPIED" = "Kinopya ang Translation";
+
+/* Accessibility hint for showing translation details. */
+"TRANSLATION_DETAILS_A11Y_HINT" = "Mag-double tap para sa mga detalye ng pagsasalin.";
+
+/* Accessibility label for translation details icon */
+"TRANSLATION_DETAILS_A11Y_LABEL" = "Ipakita ang mga detalye";
+
+/* The text that appears when a user performs a tap on a dictionary result entry. */
+"TRANSLATION_EDITED" = "Na-edit ang Pagsasalin";
+
+/* Accessibility description for the Latin transcription of non-Latin text. */
+"TRANSLITERATED_TEXT_LABEL_A11Y_HINT" = "Transkripsyon";
+
+/* The title of a button that will send the user to the Settings app to turn on microphone permissions. [CHAR LIMT=35] */
+"TURN_ON_MICROPHONE_BUTTON_LABEL" = "I-on ang microphone";
+
+/* An accessibility label for a downloadable languagepackage that supports translations in one directionfrom English to another language.  %%@ is a placeholder for a language name. */
+"UNIDIRECTIONAL_FROM_ENGLISH_LANGUAGE_PACK_A11Y_LABEL" = "%@, mula sa English.";
+
+/* Accessibility value for a translated item that has not been starred by the user.  Read by the screen reader as part of the item description. */
+"UNSTARRED_ITEM_A11Y_VALUE" = "Hindi naka-star";
+
+/* This value will be spoken by VoiceOver after the name of an offline translation package when there is an upgrade available for the package. [CHAR LIMIT=40] */
+"UPDATE_AVAILABLE_A11Y_VALUE" = "May available na update";
+
+/* Label on a button that will update an offline translation package from currently installed version, to the most recent version. [CHAR LIMIT=20] */
+"UPDATE_BUTTON_LABEL" = "I-update";
+
+/* Additional descriptive text on a button that will update an offline translation packagefrom currently installed version, to the most recent version. [CHAR LIMIT=45] */
+"UPDATE_BUTTON_SUBTITLE" = "May available na mas bagong bersyon";
+
+/* The text of a card shown on the home screen when newer offline translation files are available. (no limit) */
+"UPDATE_PROMO_CARD_BODY" = "Available na ang mga mas bagong file ng offline na pagsasalin. Suriin at i-update ang iyong nakaraang na-download na mga wika.";
+
+/* The label of a call to action button on a card sown on the home screen when newer offline translation files are avilable.  When tapped, the button will launch a download confirmation dialog.  [CHAR LIMIT=40] */
+"UPDATE_PROMO_CARD_BUTTON_LABEL" = "Suriin at i-update";
+
+/* Error message shown when a downloaded offline data package is obosolete and needs to be re-downloaded. [CHAR LIMIT=20] */
+"UPDATE_REQUIRED_ERROR_MESSAGE" = "Kailangang i-update";
+
+/* This value will be spoken by VoiceOver after the name of an offline translation package when there is an upgrade available for the package. [CHAR LIMIT=40] */
+"UPGRADE_AVAILABLE_A11Y_VALUE" = "May available na upgrade";
+
+/* Label on a button that will upgrade an offline translation package from the smaller, less accurate version, to the larger, more accurate version. [CHAR LIMIT=20] */
+"UPGRADE_BUTTON_LABEL" = "I-upgrade";
+
+/* Additional descriptive text on a button that will upgrade an offline translation package from the smaller, less accurate version, to the larger, more accurate version. [CHAR LIMIT=45] */
+"UPGRADE_BUTTON_SUBTITLE" = "Available ang mas de-kalidad na bersyon";
+
+/* The text of a card shown next to offline translations performed with low quality offline translation packages, to encourage users to download the high quality offline translation packages. */
+"UPGRADE_PROMO_CARD_BODY_OFFLINE" = "Kumuha ng mas mahuhusay na mga offline na pagsasalin sa pamamagitan ng pag-upgrade sa iyong offline na file na isasalin sa susunod na magkakaroon ka ng koneksyon.";
+
+/* The text of a card shown next to offline translations performed with low quality offline translation packages, to encourage users to download the high quality offline translation packages.  This is show whoen the user is online and looking at a translated item from translation history. */
+"UPGRADE_PROMO_CARD_BODY_ONLINE" = "Kumuha ng mas mahusay na mga offline na pagsasalin sa pamamagitan ng pag-upgrade ng iyong mga offline na file ng pagsasalin.";
+
+/* Title of a dialog box shown when the user is uploading a photo for OCR. */
+"UPLOAD_PHOTO_TITLE" = "Pumili ng Larawan";
+
+/* The version string format. The parameter is the version number. (30 chars) */
+"VERSION_FORMAT" = "%@ na Bersyon";
+
+/* Text to describe the larger of two options for a file to be downloaded for instant translation support which is displayed in a download dialog. [CHAR LIMIT=40] */
+"WORDLENS_DIALOG_LARGE_PACKAGE_SUBTITLE" = "Higit pang parirala, mas malaking file";
+
+/* Text to describe the larger and recommended of two options for a file to be downloaded for instant translation support which is displayed in a download dialog. PH_1: a placeholder for the size of the file in human readable units (eg: 20MB). [CHAR LIMIT=20] */
+"WORDLENS_DIALOG_LARGE_PACKAGE_TITLE" = "Inirerekomenda (%@)";
+
+/* Text to describe the smaller of two options for a file to be downloaded for instant translation support which is displayed in a download dialog. [CHAR LIMIT=40] */
+"WORDLENS_DIALOG_SMALL_PACKAGE_SUBTITLE" = "Mga kilalang salita sa maliit na file";
+
+/* Text to describe the smaller of two options for a file to be downloaded for instant translation support which is displayed in a download dialog. PH_1: a placeholder for the size of the file in human readable units (eg: 2MB). [CHAR LIMIT=20] */
+"WORDLENS_DIALOG_SMALL_PACKAGE_TITLE" = "Maliit (%@)";
+
+/* Text that appears in the main body of a dialog for downlading files necessary for instant camera translation.  [CHAR LIMIT=200] */
+"WORDLENS_DOWNLOAD_DIALOG_BODY" = "Kumuha ng mga agarang pagsasalin gamit ang iyong camera sa pamamagitan ng pag-download ng offline na file ng pagsasalin.";
+
+/* Subtitle of a dialog box for downloading files necessary for instant camera translation.  [CHAR LIMIT=40] */
+"WORDLENS_DOWNLOAD_DIALOG_SUBTITLE" = "Agarang pagsasalin";
+
+/* The text of a card shown to users to encourage them to download language packages necessary to use the instant camera translation feature */
+"WORDLENS_PROMO_CARD_BODY" = "Kumuha ng mga agarang pagsasalin gamit ang iyong camera sa pamamagitan ng pag-download ng offline na file ng pagsasalin.";
+

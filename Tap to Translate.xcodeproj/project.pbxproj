@@ -1,0 +1,571 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D919CE641E016BA900CAECA3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D919CE621E016BA900CAECA3 /* Main.storyboard */; };
+		D919CE6D1E0339B100CAECA3 /* TTTAdView.m in Sources */ = {isa = PBXBuildFile; fileRef = D919CE6C1E0339B100CAECA3 /* TTTAdView.m */; };
+		D92D99941E0153DE00DC0F4D /* TapToTranslate.m in Sources */ = {isa = PBXBuildFile; fileRef = D92D99931E0153DE00DC0F4D /* TapToTranslate.m */; };
+		D92D99971E01621B00DC0F4D /* TTTLanguageSelectionController.m in Sources */ = {isa = PBXBuildFile; fileRef = D92D99961E01621B00DC0F4D /* TTTLanguageSelectionController.m */; };
+		D964413F1E01678000E38560 /* UIScrollView+EmptyDataSet.m in Sources */ = {isa = PBXBuildFile; fileRef = D964413E1E01678000E38560 /* UIScrollView+EmptyDataSet.m */; };
+		D96809EF1E007CFD007DDC8A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D96809EE1E007CFD007DDC8A /* AppDelegate.m */; };
+		D96809F21E007CFD007DDC8A /* TTTViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D96809F11E007CFD007DDC8A /* TTTViewController.m */; };
+		D96809F71E007CFD007DDC8A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D96809F61E007CFD007DDC8A /* Assets.xcassets */; };
+		D96809FA1E007CFD007DDC8A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D96809F81E007CFD007DDC8A /* LaunchScreen.storyboard */; };
+		D9680A061E007E25007DDC8A /* TTTAudioButton.m in Sources */ = {isa = PBXBuildFile; fileRef = D9680A051E007E25007DDC8A /* TTTAudioButton.m */; };
+		D9680A091E007EEA007DDC8A /* TTTComms.mm in Sources */ = {isa = PBXBuildFile; fileRef = D9680A081E007EEA007DDC8A /* TTTComms.mm */; };
+		D9680A0F1E010654007DDC8A /* TTTAssets.m in Sources */ = {isa = PBXBuildFile; fileRef = D9680A0E1E010654007DDC8A /* TTTAssets.m */; };
+		D9680A1B1E010764007DDC8A /* Connection.m in Sources */ = {isa = PBXBuildFile; fileRef = D9680A121E010764007DDC8A /* Connection.m */; };
+		D9680A1C1E010764007DDC8A /* IPC.m in Sources */ = {isa = PBXBuildFile; fileRef = D9680A161E010764007DDC8A /* IPC.m */; };
+		D9680A1D1E010764007DDC8A /* Message.m in Sources */ = {isa = PBXBuildFile; fileRef = D9680A181E010764007DDC8A /* Message.m */; };
+		D9680A341E010C70007DDC8A /* TTTDeviceInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = D9680A331E010C70007DDC8A /* TTTDeviceInfo.m */; };
+		D9680A371E010D10007DDC8A /* TTTPrefs.m in Sources */ = {isa = PBXBuildFile; fileRef = D9680A361E010D10007DDC8A /* TTTPrefs.m */; };
+		D9680A3A1E010D78007DDC8A /* libsubstrate.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = D9680A391E010D78007DDC8A /* libsubstrate.dylib */; };
+		D9680A3E1E01103E007DDC8A /* TTTLanguageNameView.m in Sources */ = {isa = PBXBuildFile; fileRef = D9680A3D1E01103E007DDC8A /* TTTLanguageNameView.m */; };
+		D9680A411E0113E5007DDC8A /* TTTLocalizations.m in Sources */ = {isa = PBXBuildFile; fileRef = D9680A401E0113E5007DDC8A /* TTTLocalizations.m */; };
+		D9680A451E011404007DDC8A /* XMLDictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = D9680A441E011404007DDC8A /* XMLDictionary.m */; };
+		D9680A481E011518007DDC8A /* TTTGoogleStyleButton.m in Sources */ = {isa = PBXBuildFile; fileRef = D9680A471E011518007DDC8A /* TTTGoogleStyleButton.m */; };
+		D9680A4C1E011A57007DDC8A /* UIAlertController+TTT.m in Sources */ = {isa = PBXBuildFile; fileRef = D9680A4B1E011A57007DDC8A /* UIAlertController+TTT.m */; };
+		D9680A4F1E0122C1007DDC8A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D9680A4E1E0122C1007DDC8A /* main.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		D919CE631E016BA900CAECA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D919CE6B1E0339B100CAECA3 /* TTTAdView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTTAdView.h; sourceTree = "<group>"; };
+		D919CE6C1E0339B100CAECA3 /* TTTAdView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTTAdView.m; sourceTree = "<group>"; };
+		D92D99921E0153DE00DC0F4D /* TapToTranslate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TapToTranslate.h; sourceTree = "<group>"; };
+		D92D99931E0153DE00DC0F4D /* TapToTranslate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TapToTranslate.m; sourceTree = "<group>"; };
+		D92D99951E01621B00DC0F4D /* TTTLanguageSelectionController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTTLanguageSelectionController.h; sourceTree = "<group>"; };
+		D92D99961E01621B00DC0F4D /* TTTLanguageSelectionController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTTLanguageSelectionController.m; sourceTree = "<group>"; };
+		D964413D1E01678000E38560 /* UIScrollView+EmptyDataSet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIScrollView+EmptyDataSet.h"; path = "DZNEmptyDataSet/UIScrollView+EmptyDataSet.h"; sourceTree = "<group>"; };
+		D964413E1E01678000E38560 /* UIScrollView+EmptyDataSet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIScrollView+EmptyDataSet.m"; path = "DZNEmptyDataSet/UIScrollView+EmptyDataSet.m"; sourceTree = "<group>"; };
+		D96809E71E007CFD007DDC8A /* Tap to Translate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tap to Translate.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D96809ED1E007CFD007DDC8A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		D96809EE1E007CFD007DDC8A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		D96809F01E007CFD007DDC8A /* TTTViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TTTViewController.h; sourceTree = "<group>"; };
+		D96809F11E007CFD007DDC8A /* TTTViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TTTViewController.m; sourceTree = "<group>"; };
+		D96809F61E007CFD007DDC8A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D96809F91E007CFD007DDC8A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D96809FB1E007CFD007DDC8A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D9680A041E007E25007DDC8A /* TTTAudioButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTTAudioButton.h; sourceTree = "<group>"; };
+		D9680A051E007E25007DDC8A /* TTTAudioButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTTAudioButton.m; sourceTree = "<group>"; };
+		D9680A071E007EEA007DDC8A /* TTTComms.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTTComms.h; sourceTree = "<group>"; };
+		D9680A081E007EEA007DDC8A /* TTTComms.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = TTTComms.mm; sourceTree = "<group>"; };
+		D9680A0A1E010593007DDC8A /* Interfaces.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Interfaces.h; sourceTree = "<group>"; };
+		D9680A0C1E010614007DDC8A /* substrate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = substrate.h; sourceTree = "<group>"; };
+		D9680A0D1E010654007DDC8A /* TTTAssets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTTAssets.h; sourceTree = "<group>"; };
+		D9680A0E1E010654007DDC8A /* TTTAssets.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTTAssets.m; sourceTree = "<group>"; };
+		D9680A111E010764007DDC8A /* Connection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Connection.h; path = libobjcipc/Connection.h; sourceTree = "<group>"; };
+		D9680A121E010764007DDC8A /* Connection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Connection.m; path = libobjcipc/Connection.m; sourceTree = "<group>"; };
+		D9680A131E010764007DDC8A /* header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = header.h; path = libobjcipc/header.h; sourceTree = "<group>"; };
+		D9680A141E010764007DDC8A /* interface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = interface.h; path = libobjcipc/interface.h; sourceTree = "<group>"; };
+		D9680A151E010764007DDC8A /* IPC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = IPC.h; path = libobjcipc/IPC.h; sourceTree = "<group>"; };
+		D9680A161E010764007DDC8A /* IPC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = IPC.m; path = libobjcipc/IPC.m; sourceTree = "<group>"; };
+		D9680A171E010764007DDC8A /* Message.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Message.h; path = libobjcipc/Message.h; sourceTree = "<group>"; };
+		D9680A181E010764007DDC8A /* Message.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Message.m; path = libobjcipc/Message.m; sourceTree = "<group>"; };
+		D9680A191E010764007DDC8A /* objcipc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = objcipc.h; path = libobjcipc/objcipc.h; sourceTree = "<group>"; };
+		D9680A1A1E010764007DDC8A /* pid.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = pid.h; path = libobjcipc/pid.h; sourceTree = "<group>"; };
+		D9680A1E1E01081F007DDC8A /* ActionMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ActionMenu.h; sourceTree = "<group>"; };
+		D9680A1F1E01081F007DDC8A /* GTRTranslationRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTRTranslationRequest.h; sourceTree = "<group>"; };
+		D9680A201E01081F007DDC8A /* GTRTranslationRequestManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTRTranslationRequestManager.h; sourceTree = "<group>"; };
+		D9680A211E01081F007DDC8A /* LanguageInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LanguageInfo.h; sourceTree = "<group>"; };
+		D9680A221E01081F007DDC8A /* LanguageSelectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LanguageSelectionViewController.h; sourceTree = "<group>"; };
+		D9680A231E01081F007DDC8A /* libMobileGestalt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = libMobileGestalt.h; sourceTree = "<group>"; };
+		D9680A241E01081F007DDC8A /* TextToSpeechController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextToSpeechController.h; sourceTree = "<group>"; };
+		D9680A251E01081F007DDC8A /* TranslateAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TranslateAppDelegate.h; sourceTree = "<group>"; };
+		D9680A261E01081F007DDC8A /* TranslatedItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TranslatedItem.h; sourceTree = "<group>"; };
+		D9680A271E01081F007DDC8A /* TranslateViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TranslateViewController.h; sourceTree = "<group>"; };
+		D9680A281E01081F007DDC8A /* UIKit+TTT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIKit+TTT.h"; sourceTree = "<group>"; };
+		D9680A2A1E010AE8007DDC8A /* activity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = activity.h; path = xpc/activity.h; sourceTree = "<group>"; };
+		D9680A2B1E010AE8007DDC8A /* availability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = availability.h; path = xpc/availability.h; sourceTree = "<group>"; };
+		D9680A2C1E010AE8007DDC8A /* base.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = base.h; path = xpc/base.h; sourceTree = "<group>"; };
+		D9680A2D1E010AE8007DDC8A /* connection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = connection.h; path = xpc/connection.h; sourceTree = "<group>"; };
+		D9680A2E1E010AE8007DDC8A /* debug.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = debug.h; path = xpc/debug.h; sourceTree = "<group>"; };
+		D9680A2F1E010AE8007DDC8A /* endpoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = endpoint.h; path = xpc/endpoint.h; sourceTree = "<group>"; };
+		D9680A301E010AE8007DDC8A /* xpc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = xpc.h; path = xpc/xpc.h; sourceTree = "<group>"; };
+		D9680A311E010B8B007DDC8A /* launch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = launch.h; sourceTree = "<group>"; };
+		D9680A321E010C70007DDC8A /* TTTDeviceInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTTDeviceInfo.h; sourceTree = "<group>"; };
+		D9680A331E010C70007DDC8A /* TTTDeviceInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTTDeviceInfo.m; sourceTree = "<group>"; };
+		D9680A351E010D10007DDC8A /* TTTPrefs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTTPrefs.h; sourceTree = "<group>"; };
+		D9680A361E010D10007DDC8A /* TTTPrefs.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTTPrefs.m; sourceTree = "<group>"; };
+		D9680A391E010D78007DDC8A /* libsubstrate.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsubstrate.dylib; path = ../../../../../opt/theos/lib/libsubstrate.dylib; sourceTree = "<group>"; };
+		D9680A3C1E01103E007DDC8A /* TTTLanguageNameView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTTLanguageNameView.h; sourceTree = "<group>"; };
+		D9680A3D1E01103E007DDC8A /* TTTLanguageNameView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTTLanguageNameView.m; sourceTree = "<group>"; };
+		D9680A3F1E0113E5007DDC8A /* TTTLocalizations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTTLocalizations.h; sourceTree = "<group>"; };
+		D9680A401E0113E5007DDC8A /* TTTLocalizations.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTTLocalizations.m; sourceTree = "<group>"; };
+		D9680A431E011404007DDC8A /* XMLDictionary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XMLDictionary.h; path = XMLDictionary/XMLDictionary.h; sourceTree = "<group>"; };
+		D9680A441E011404007DDC8A /* XMLDictionary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XMLDictionary.m; path = XMLDictionary/XMLDictionary.m; sourceTree = "<group>"; };
+		D9680A461E011518007DDC8A /* TTTGoogleStyleButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTTGoogleStyleButton.h; sourceTree = "<group>"; };
+		D9680A471E011518007DDC8A /* TTTGoogleStyleButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTTGoogleStyleButton.m; sourceTree = "<group>"; };
+		D9680A4A1E011A57007DDC8A /* UIAlertController+TTT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIAlertController+TTT.h"; sourceTree = "<group>"; };
+		D9680A4B1E011A57007DDC8A /* UIAlertController+TTT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIAlertController+TTT.m"; sourceTree = "<group>"; };
+		D9680A4E1E0122C1007DDC8A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D96809E41E007CFD007DDC8A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D9680A3A1E010D78007DDC8A /* libsubstrate.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D964413C1E01677300E38560 /* DZNEmptyDataSet */ = {
+			isa = PBXGroup;
+			children = (
+				D964413D1E01678000E38560 /* UIScrollView+EmptyDataSet.h */,
+				D964413E1E01678000E38560 /* UIScrollView+EmptyDataSet.m */,
+			);
+			name = DZNEmptyDataSet;
+			sourceTree = "<group>";
+		};
+		D96809DE1E007CFD007DDC8A = {
+			isa = PBXGroup;
+			children = (
+				D96809E91E007CFD007DDC8A /* Tap to Translate */,
+				D96809E81E007CFD007DDC8A /* Products */,
+				D9680A381E010D78007DDC8A /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		D96809E81E007CFD007DDC8A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D96809E71E007CFD007DDC8A /* Tap to Translate.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D96809E91E007CFD007DDC8A /* Tap to Translate */ = {
+			isa = PBXGroup;
+			children = (
+				D964413C1E01677300E38560 /* DZNEmptyDataSet */,
+				D9680A4D1E0122B6007DDC8A /* Supporting Files */,
+				D9680A491E011A4C007DDC8A /* Categories */,
+				D9680A421E0113EC007DDC8A /* XMLDictionary */,
+				D9680A291E010ADB007DDC8A /* xpc */,
+				D9680A101E01073C007DDC8A /* libobjcipc */,
+				D9680A0B1E010609007DDC8A /* Headers */,
+				D9680A031E007DF8007DDC8A /* Models */,
+				D9680A021E007DEB007DDC8A /* Views */,
+				D9680A011E007DE5007DDC8A /* Controllers */,
+				D96809ED1E007CFD007DDC8A /* AppDelegate.h */,
+				D96809EE1E007CFD007DDC8A /* AppDelegate.m */,
+				D96809F61E007CFD007DDC8A /* Assets.xcassets */,
+				D96809F81E007CFD007DDC8A /* LaunchScreen.storyboard */,
+				D919CE621E016BA900CAECA3 /* Main.storyboard */,
+				D96809FB1E007CFD007DDC8A /* Info.plist */,
+			);
+			path = "Tap to Translate";
+			sourceTree = "<group>";
+		};
+		D9680A011E007DE5007DDC8A /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				D96809F01E007CFD007DDC8A /* TTTViewController.h */,
+				D96809F11E007CFD007DDC8A /* TTTViewController.m */,
+				D92D99951E01621B00DC0F4D /* TTTLanguageSelectionController.h */,
+				D92D99961E01621B00DC0F4D /* TTTLanguageSelectionController.m */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		D9680A021E007DEB007DDC8A /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D9680A041E007E25007DDC8A /* TTTAudioButton.h */,
+				D9680A051E007E25007DDC8A /* TTTAudioButton.m */,
+				D9680A3C1E01103E007DDC8A /* TTTLanguageNameView.h */,
+				D9680A3D1E01103E007DDC8A /* TTTLanguageNameView.m */,
+				D9680A461E011518007DDC8A /* TTTGoogleStyleButton.h */,
+				D9680A471E011518007DDC8A /* TTTGoogleStyleButton.m */,
+				D919CE6B1E0339B100CAECA3 /* TTTAdView.h */,
+				D919CE6C1E0339B100CAECA3 /* TTTAdView.m */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		D9680A031E007DF8007DDC8A /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				D9680A071E007EEA007DDC8A /* TTTComms.h */,
+				D9680A081E007EEA007DDC8A /* TTTComms.mm */,
+				D9680A0D1E010654007DDC8A /* TTTAssets.h */,
+				D9680A0E1E010654007DDC8A /* TTTAssets.m */,
+				D9680A321E010C70007DDC8A /* TTTDeviceInfo.h */,
+				D9680A331E010C70007DDC8A /* TTTDeviceInfo.m */,
+				D9680A351E010D10007DDC8A /* TTTPrefs.h */,
+				D9680A361E010D10007DDC8A /* TTTPrefs.m */,
+				D9680A3F1E0113E5007DDC8A /* TTTLocalizations.h */,
+				D9680A401E0113E5007DDC8A /* TTTLocalizations.m */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		D9680A0B1E010609007DDC8A /* Headers */ = {
+			isa = PBXGroup;
+			children = (
+				D9680A311E010B8B007DDC8A /* launch.h */,
+				D9680A1E1E01081F007DDC8A /* ActionMenu.h */,
+				D9680A1F1E01081F007DDC8A /* GTRTranslationRequest.h */,
+				D9680A201E01081F007DDC8A /* GTRTranslationRequestManager.h */,
+				D9680A211E01081F007DDC8A /* LanguageInfo.h */,
+				D9680A221E01081F007DDC8A /* LanguageSelectionViewController.h */,
+				D9680A231E01081F007DDC8A /* libMobileGestalt.h */,
+				D9680A241E01081F007DDC8A /* TextToSpeechController.h */,
+				D9680A251E01081F007DDC8A /* TranslateAppDelegate.h */,
+				D9680A261E01081F007DDC8A /* TranslatedItem.h */,
+				D9680A271E01081F007DDC8A /* TranslateViewController.h */,
+				D9680A281E01081F007DDC8A /* UIKit+TTT.h */,
+				D9680A0C1E010614007DDC8A /* substrate.h */,
+				D9680A0A1E010593007DDC8A /* Interfaces.h */,
+			);
+			name = Headers;
+			sourceTree = "<group>";
+		};
+		D9680A101E01073C007DDC8A /* libobjcipc */ = {
+			isa = PBXGroup;
+			children = (
+				D9680A111E010764007DDC8A /* Connection.h */,
+				D9680A121E010764007DDC8A /* Connection.m */,
+				D9680A131E010764007DDC8A /* header.h */,
+				D9680A141E010764007DDC8A /* interface.h */,
+				D9680A151E010764007DDC8A /* IPC.h */,
+				D9680A161E010764007DDC8A /* IPC.m */,
+				D9680A171E010764007DDC8A /* Message.h */,
+				D9680A181E010764007DDC8A /* Message.m */,
+				D9680A191E010764007DDC8A /* objcipc.h */,
+				D9680A1A1E010764007DDC8A /* pid.h */,
+			);
+			name = libobjcipc;
+			sourceTree = "<group>";
+		};
+		D9680A291E010ADB007DDC8A /* xpc */ = {
+			isa = PBXGroup;
+			children = (
+				D9680A2A1E010AE8007DDC8A /* activity.h */,
+				D9680A2B1E010AE8007DDC8A /* availability.h */,
+				D9680A2C1E010AE8007DDC8A /* base.h */,
+				D9680A2D1E010AE8007DDC8A /* connection.h */,
+				D9680A2E1E010AE8007DDC8A /* debug.h */,
+				D9680A2F1E010AE8007DDC8A /* endpoint.h */,
+				D9680A301E010AE8007DDC8A /* xpc.h */,
+			);
+			name = xpc;
+			sourceTree = "<group>";
+		};
+		D9680A381E010D78007DDC8A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D9680A391E010D78007DDC8A /* libsubstrate.dylib */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D9680A421E0113EC007DDC8A /* XMLDictionary */ = {
+			isa = PBXGroup;
+			children = (
+				D9680A431E011404007DDC8A /* XMLDictionary.h */,
+				D9680A441E011404007DDC8A /* XMLDictionary.m */,
+			);
+			name = XMLDictionary;
+			sourceTree = "<group>";
+		};
+		D9680A491E011A4C007DDC8A /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				D9680A4A1E011A57007DDC8A /* UIAlertController+TTT.h */,
+				D9680A4B1E011A57007DDC8A /* UIAlertController+TTT.m */,
+			);
+			name = Categories;
+			sourceTree = "<group>";
+		};
+		D9680A4D1E0122B6007DDC8A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D92D99921E0153DE00DC0F4D /* TapToTranslate.h */,
+				D92D99931E0153DE00DC0F4D /* TapToTranslate.m */,
+				D9680A4E1E0122C1007DDC8A /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D96809E61E007CFD007DDC8A /* Tap to Translate */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D96809FE1E007CFD007DDC8A /* Build configuration list for PBXNativeTarget "Tap to Translate" */;
+			buildPhases = (
+				D96809E31E007CFD007DDC8A /* Sources */,
+				D96809E41E007CFD007DDC8A /* Frameworks */,
+				D96809E51E007CFD007DDC8A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Tap to Translate";
+			productName = "Tap to Translate";
+			productReference = D96809E71E007CFD007DDC8A /* Tap to Translate.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D96809DF1E007CFD007DDC8A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = "Mohamed Marbouh";
+				TargetAttributes = {
+					D96809E61E007CFD007DDC8A = {
+						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 96Q463SJ29;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = D96809E21E007CFD007DDC8A /* Build configuration list for PBXProject "Tap to Translate" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D96809DE1E007CFD007DDC8A;
+			productRefGroup = D96809E81E007CFD007DDC8A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D96809E61E007CFD007DDC8A /* Tap to Translate */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D96809E51E007CFD007DDC8A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D919CE641E016BA900CAECA3 /* Main.storyboard in Resources */,
+				D96809FA1E007CFD007DDC8A /* LaunchScreen.storyboard in Resources */,
+				D96809F71E007CFD007DDC8A /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D96809E31E007CFD007DDC8A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D96809F21E007CFD007DDC8A /* TTTViewController.m in Sources */,
+				D92D99941E0153DE00DC0F4D /* TapToTranslate.m in Sources */,
+				D9680A1B1E010764007DDC8A /* Connection.m in Sources */,
+				D9680A061E007E25007DDC8A /* TTTAudioButton.m in Sources */,
+				D92D99971E01621B00DC0F4D /* TTTLanguageSelectionController.m in Sources */,
+				D9680A4C1E011A57007DDC8A /* UIAlertController+TTT.m in Sources */,
+				D964413F1E01678000E38560 /* UIScrollView+EmptyDataSet.m in Sources */,
+				D9680A451E011404007DDC8A /* XMLDictionary.m in Sources */,
+				D9680A411E0113E5007DDC8A /* TTTLocalizations.m in Sources */,
+				D9680A4F1E0122C1007DDC8A /* main.m in Sources */,
+				D9680A091E007EEA007DDC8A /* TTTComms.mm in Sources */,
+				D9680A3E1E01103E007DDC8A /* TTTLanguageNameView.m in Sources */,
+				D9680A481E011518007DDC8A /* TTTGoogleStyleButton.m in Sources */,
+				D9680A1C1E010764007DDC8A /* IPC.m in Sources */,
+				D919CE6D1E0339B100CAECA3 /* TTTAdView.m in Sources */,
+				D9680A371E010D10007DDC8A /* TTTPrefs.m in Sources */,
+				D9680A0F1E010654007DDC8A /* TTTAssets.m in Sources */,
+				D9680A341E010C70007DDC8A /* TTTDeviceInfo.m in Sources */,
+				D96809EF1E007CFD007DDC8A /* AppDelegate.m in Sources */,
+				D9680A1D1E010764007DDC8A /* Message.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		D919CE621E016BA900CAECA3 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D919CE631E016BA900CAECA3 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		D96809F81E007CFD007DDC8A /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D96809F91E007CFD007DDC8A /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		D96809FC1E007CFD007DDC8A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D96809FD1E007CFD007DDC8A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D96809FF1E007CFD007DDC8A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 96Q463SJ29;
+				INFOPLIST_FILE = "Tap to Translate/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_NO_PIE = NO;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/opt/theos/lib,
+				);
+				ONLY_ACTIVE_ARCH = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mootjeuh.Tap-to-Translate";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		D9680A001E007CFD007DDC8A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 96Q463SJ29;
+				INFOPLIST_FILE = "Tap to Translate/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_NO_PIE = NO;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/opt/theos/lib,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mootjeuh.Tap-to-Translate";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D96809E21E007CFD007DDC8A /* Build configuration list for PBXProject "Tap to Translate" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D96809FC1E007CFD007DDC8A /* Debug */,
+				D96809FD1E007CFD007DDC8A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D96809FE1E007CFD007DDC8A /* Build configuration list for PBXNativeTarget "Tap to Translate" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D96809FF1E007CFD007DDC8A /* Debug */,
+				D9680A001E007CFD007DDC8A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D96809DF1E007CFD007DDC8A /* Project object */;
+}

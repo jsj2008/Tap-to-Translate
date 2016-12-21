@@ -1,0 +1,774 @@
+/* Accessibility value spoken after the name of a language in the language menu when there is a downloadable package available for that language to enable offline translation.  [CHAR LIMIT=25] */
+"ACCESSIBILITY_OFFLINE_DOWNLOAD_AVAILABLE" = "Преузимање је доступно.";
+
+/* Inform the user the download has completed */
+"ACCESSIBILITY_OFFLINE_DOWNLOAD_COMPLETE" = "Преузимање је завршено";
+
+/* Accessibility value spoken after the name of a language in the language menu when the offline translation package for that language is downloaded and installed. [CHAR LIMIT=25] */
+"ACCESSIBILITY_OFFLINE_DOWNLOAD_INSTALLED" = "Преузето је.";
+
+/* The section title for showing the list of languages supported by Google Translate. (40 chars) */
+"ALL_SUPPORTED_LANGUAGES" = "Сви језици";
+
+/* Section title for list of languages that are available for downloading. [CHAR LIMIT=25] */
+"AVAILABLE_LANGUAGES" = "Доступни језици";
+
+/* Accessibility label for back button */
+"BACK_ARROW_ACCESSIBILITY_LABEL" = "Назад";
+
+/* An accessibility label for a downloadable languagepackage that supports translations in both directions between English and another language. %%@ is a placeholder for a language name. */
+"BIDIRECTION_WITH_ENGLISH_LANGUAGE_PACK_A11Y_LABEL" = "%@, на енглески и са енглеског.";
+
+/* Subtitle for an information dialog box when a user taps a link that would leave the Translate app, but fails due to parental controls. */
+"BROWSER_RESTRICTED_DIALOG_SUBTITLE" = "Изабрани линк не може да се отвори јер је приступ веб-прегледачу ограничен.";
+
+/* Title for an information dialog box when a user taps a link that would leave the Translate app, but fails due to parental controls.[CHAR LIMIT=50] */
+"BROWSER_RESTRICTED_DIALOG_TITLE" = "Отварање линка није успело";
+
+/* Label for a button that shows additional details about the application. (20 chars) */
+"BUTTON_ABOUT" = "Основни подаци";
+
+/* Label for a button that shows camera input settings. (30 chars) */
+"BUTTON_CAMERA_INPUT_SETTINGS" = "Унос помоћу камере";
+
+/* Button label to cancel an action. (10 chars) */
+"BUTTON_CANCEL" = "Откажи";
+
+/* Button label to cancel an action. (10 chars) */
+"BUTTON_CANCEL_UPPERCASE" = "ОТКАЖИ";
+
+/* Label for button to clear translation history. (30 chars) */
+"BUTTON_CLEAR_HISTORY" = "Избриши историју превода";
+
+/* Label for a button that shows the feedback page of the application. (20 chars) */
+"BUTTON_FEEDBACK" = "Повратне информације";
+
+/* Label for a button that shows handwriting recognition settings. (30 chars) */
+"BUTTON_HANDWRITING_SETTINGS" = "Писање руком";
+
+/* Label for a button that shows help page of the application. (20 chars) */
+"BUTTON_HELP" = "Помоћ";
+
+/* Label for a settings menu item that shows the offline translation languages management screen. (30 chars) */
+"BUTTON_OFFLINE_TRANSLATION_SETTINGS" = "Офлајн превођење";
+
+/* Select all word boxes [CHAR LIMIT=20] */
+"BUTTON_SELECT_ALL" = "Изабери све";
+
+/* Select all word boxes [CHAR LIMIT=20] */
+"BUTTON_SELECT_ALL_UPPERCASE" = "ИЗАБЕРИ СВЕ";
+
+/* Label for a button that sends feedback. (20 chars) */
+"BUTTON_SEND_FEEDBACK" = "Пошаљи повр. инфо.";
+
+/* Label for a button that shows voice settings. (20 chars) */
+"BUTTON_SPEECH_SETTINGS" = "Говорни унос";
+
+/* Button label to retry an action. [CHAR LIMIT=20] */
+"BUTTON_TRY_AGAIN" = "Покушај поново";
+
+/* A small toast label displayed in front of the camera image, indicating to the user that the orientation of this label is the same orientation as what the camera will try to read using OCR. (40 chars) */
+"CAMERA_ALIGN_TEXT" = "Поравнање текста";
+
+/* A small toast label displayed in front of the camera image, indicating to the user that the orientation of this label is the same orientation as what the camera will try to read using OCR. (40 chars) */
+"CAMERA_ALIGN_TEXT_LEFT_TO_RIGHT" = "Поравнавање текста слева у десно";
+
+/* Shown when the camera is used in Split View or Slide Over modes on newer iPads. Split View and Slide Over are features added in iOS9. [CHAR LIMIT=150] */
+"CAMERA_AVAILABLE_IN_FULL_SCREEN_ONLY" = "Камера није доступна.\nКористите режим целог екрана да бисте омогућили камеру.";
+
+/* Accessibility label for the button which will download support for instant translation when tapped.[CHAR LIMIT=20] */
+"CAMERA_DOWNLOAD" = "Преузми";
+
+/* Accessibility value for the button which is indicating that a download is in progress.[CHAR LIMIT=20] */
+"CAMERA_DOWNLOADING_A11Y_VALUE" = "Преузима се";
+
+/* Summary for camera privacy settings. (80 chars.) */
+"CAMERA_INPUT_LOGGING_DETAILS" = "Дозволите да Google задржи ваше слике које се односе на превод.";
+
+/* Accessibility label for translate camera input mode button */
+"CAMERA_INPUT_MODE_BUTTON_ACCESSIBILITY_LABEL" = "Преведи текст снимљен камером";
+
+/* Label below a 'instant' button.  Verb; will toggle instant translation mode.[CHAR LIMIT=12] */
+"CAMERA_INSTANT" = "ТРЕН. ПРЕВОД";
+
+/* Accessiblity hint for the instant translation download button.  When user activates the button, a download dialog prompt is displayed.[CHAR LIMIT=80] */
+"CAMERA_INSTANT_DOWNLOAD_A11Y_HINT" = "Двапут додирните да бисте видели тренутне преводе камером.";
+
+/* Dialog message to indicate that the user may incur data charges if they decide to download the file. [CHAR LIMIT=40] */
+"CAMERA_INSTANT_DOWNLOAD_BOTTOM_MESSAGE" = "Напомена: Важе тарифе за податке.";
+
+/* Button label.  Tapping on it will begin download. (20 chars) */
+"CAMERA_INSTANT_DOWNLOAD_BUTTON" = "Преузми";
+
+/* Accessiblity hint for the instant translation download cancel button.  When user activates the button, a download cancel dialog prompt is displayed.[CHAR LIMIT=50] */
+"CAMERA_INSTANT_DOWNLOAD_CANCEL_A11Y_HINT" = "Двапут додирните да бисте отказали преузимање.";
+
+/* Dialog message to explain to the user that this download will allow them to translate instantly between the two languages using their camera.[CHAR LIMIT=120] */
+"CAMERA_INSTANT_DOWNLOAD_CAPTION_MESSAGE" = "Да бисте одмах преводили овај језик помоћу камере, преузмите пакет за тренутни превод камером.";
+
+/* Tooltip above instant download icon.  When user taps icon, a download dialog prompt is displayed.[CHAR LIMIT=80] */
+"CAMERA_INSTANT_DOWNLOAD_TIP" = "Додирните да бисте видели тренутне преводе камером";
+
+/* Title of a dialog box that prompts user to download data that enables instant camera translation. (60 chars) */
+"CAMERA_INSTANT_DOWNLOAD_TOP_MESSAGE" = "Одмах преводите штампани текст";
+
+/* Title of a dialog box that prompts user to download a package that enables instant camera translation. (60 chars) */
+"CAMERA_INSTANT_DOWNLOAD_TOP_MESSAGE_FINAL" = "Преузмите пакет";
+
+/* Label that shows above button, indicating that instant mode is now turned off. (30 chars) */
+"CAMERA_INSTANT_OFF_HINT" = "Тренутни превод је ИСКЉУЧЕН";
+
+/* Label that shows above button, indicating that instant mode is now turned on. (30 chars) */
+"CAMERA_INSTANT_ON_HINT" = "Тренутни превод је УКЉУЧЕН";
+
+/* Message on a dialog box shown when a camera image is going to be sent to server for OCR for the first time. (100 chars) */
+"CAMERA_LOGGING_DIALOG_BOTTOM_MESSAGE" = "Подешавања можете да промените и касније у приказу Подешавања.";
+
+/* Message on a dialog box shown when a camera image is going to be sent to server for OCR for the first time. (120 chars) */
+"CAMERA_LOGGING_DIALOG_CHECKBOX_MESSAGE" = "Помозите нам да побољшамо услугу тако што ћете Google-у дозволити да задржи слике у вези са преводом";
+
+/* Message on a dialog box shown when a camera image is going to be sent to server for OCR for the first time. (100 chars) */
+"CAMERA_LOGGING_DIALOG_TOP_MESSAGE" = "Слаћете слике са камере Google-у како би препознао текст.";
+
+/* A toast label displayed in front of the camera image indicating to the user whether the app is in instant translation (Word Lens) mode or camera translation mode (30 chars) */
+"CAMERA_MODE_INSTANT_SUPPORTED" = "Режим тренутног превода";
+
+/* A toast label displayed in front of the camera image indicating to the user whether the app is in live translation (Word Lens) mode or camera translation mode (30 chars) */
+"CAMERA_MODE_LIVE_SUPPORTED" = "Режим превода уживо";
+
+/* A toast label to suggest a user action when live mode is supported (50 chars) */
+"CAMERA_MODE_LIVE_SUPPORTED_SUBLABEL" = "Усмерите камеру према тексту за превод";
+
+/* A toast label displayed in front of the camera image indicating to the user whether the app is in live translation (Word Lens) mode or camera translation mode (30 chars) */
+"CAMERA_MODE_LIVE_UNSUPPORTED" = "Режим превода помоћу камере";
+
+/* A toast label to suggest a user action when live mode is not supported [CHAR LIMIT=50] */
+"CAMERA_MODE_LIVE_UNSUPPORTED_SUBLABEL" = "Снимите слику за превођење";
+
+/* Shown if the user disables Camera permissions for the Translate app. The words 'Settings', 'Privacy', and 'Camera' refer to the iOS7 or iOS8 Settings app, and should match the system strings.  The wildcard represents our app name. */
+"CAMERA_NOT_AVAILABLE_WITH_HINT" = "Камера није доступна.\nОтворите Подешавања > Лично > Камера,\nпа омогућите %@.";
+
+/* Label below a 'pause' icon.  Verb; will freeze camera video.  [12 chars] */
+"CAMERA_PAUSE" = "ПАУЗИРАЈ";
+
+/* Label of the button to import photo. [CHAR LIMIT=12] */
+"CAMERA_PHOTO" = "СЛИКА";
+
+/* Label below a photo gallery icon.  Verb preferred, but could also refer to the user's system photo gallery. [12 chars] */
+"CAMERA_PHOTO_IMPORT" = "УВЕЗИ";
+
+/* Label below a 'play' icon.  Verb; will start camera video. [12 chars] */
+"CAMERA_PLAY" = "ПУСТИ";
+
+/* Label of the button that does redo of a camera input related action. [CHAR LIMIT=12] */
+"CAMERA_REDO" = "ПОНОВИ";
+
+/* Accessibility label for the camera rotation lock setting. */
+"CAMERA_ROTATION_LOCK_A11Y_LABEL" = "Закључај положај камере";
+
+/* Label below a 'scan' button.  Verb; will switch app into image scanning mode. [CHAR LIMIT=12] */
+"CAMERA_SCAN" = "СКЕНИРАЈ";
+
+/* Title for the list of supported languages that will follow. [CHAR LIMIT=50] */
+"CAMERA_SUPPORTED_LANGUAGES_HINT" = "Подржани језици";
+
+/* Accessibility label for the camera flashlight.  This label is used on an icon button that resembles a flashlight.  It is used to toggle the camera flash on or off as continuous lighting for the scene. */
+"CAMERA_TORCH_A11Y_LABEL" = "Батеријска лампа";
+
+/* Caption of the tour image pointing at the button that triggers higher-quality scanning of the image for text. [CHAR LIMIT=80] */
+"CAMERA_TOUCH_TO_ENHANCE_HINT" = "Додирните да бисте побољшали препознавање текста";
+
+/* Tooltip displayed on top of the pause button on instant camera input view. This is used when the source is a left-to-right (LTR) language, and the target is right-to-left (RTL), or vice-versa. Let the user know that when they touch the pause button to pause video, the lines of text will be reversed so that each line is properly right-to-left (or vice versa). [CHAR LIMIT=NONE] */
+"CAMERA_TOUCH_TO_REVERSE" = "Додирните да бисте променили смер речи";
+
+/* Call to action, referencing adjacent icon, which matches the SCAN button icon. SCAN is capitalized as the label of the referenced button is also capitalized. [CHAR LIMIT=50] */
+"CAMERA_TOUCH_TO_SEARCH_HINT" = "Додирните дугме СКЕНИРАЈ да бисте превели текст";
+
+/* Shown when the camera is used in Split View or Slide Over modes on newer iPads. Split View and Slide Over are features added in iOS9. [CHAR LIMIT=150] */
+"CAMERA_UNAVAILABLE_IN_SPLIT_VIEW" = "Камера није доступна.\nИзађите из режима подељеног приказа да бисте омогућили камеру.";
+
+/* Label of the button that does redo of a camera input related action. [CHAR LIMIT=12] */
+"CAMERA_UNDO" = "ОПОЗОВИ";
+
+/* Caption of the tour screen describing to the user that live translation mode works best on big text. [CHAR LIMIT=60] */
+"CAMERA_WORKS_BEST_HINT" = "Најефикасније је за знакове и текст великих димензија";
+
+/* Accessibility label for the camera zoom setting. */
+"CAMERA_ZOOM_A11Y_LABEL" = "Зумирај";
+
+/* Title to stop current download. [CHAR LIMIT=20] */
+"CANCEL_DOWNLOAD_TITLE" = "Откажи преузимање";
+
+/* Label for button to clear translation history. (30 chars) */
+"CLEAR_HISTORY_OK" = "Потврди";
+
+/* Sub-title for clear history alert. */
+"CLEAR_HISTORY_SUBTITLE" = "Сва историја превода ће бити избрисана из ове апликације.";
+
+/* Title for clear history alert. */
+"CLEAR_HISTORY_TITLE" = "Брисање историје превода";
+
+/* Accessibility label for the clear input button */
+"CLEAR_INPUT_BUTTON_ACCESSIBILITY_LABEL" = "Обриши текст";
+
+/* Accessibility label for the conversation mode button. When tapped, it turns on the microphone to listen for both languages simultaneously. [CHAR LIMIT=80] */
+"CONVERSATION_BUTTON_A11Y_HINT" = "Препознајe оба језика.";
+
+/* Accessibility label for the conversation mode button. When tapped, it turns on the microphone to listen for both languages simultaneously. [CHAR LIMIT=80] */
+"CONVERSATION_BUTTON_A11Y_LABEL" = "Препознај";
+
+/* Accessibility label for a button that copies translated text to the clipboard. */
+"COPY_TRANSLATED_TEXT_A11Y_LABEL" = "Копирај преведени текст";
+
+/* Title for alert popup that tells users a crash occurred recently (the last time they used the app). (50 chars) */
+"CRASH_ALERT_TITLE" = "О, не. Ова апликација је недавно отказала.";
+
+/* Settings option description for toggling the shake to send feedback (140 chars.) */
+"CRASH_REPORTS_DETAILS" = "Шаљите Google-у анонимне извештаје о отказивањима како бисмо могли да побољшамо кориснички доживљај.";
+
+/* Title for the dictionary card. (20 chars) */
+"DICTIONARY_TITLE" = "Речник";
+
+/* Title for a spelling correction suggestion [CHAR LIMIT=50] */
+"DID_YOU_MEAN_TEXT_TITLE" = "Да ли сте мислили";
+
+/* Label on a message that appears briefly at the bottom of the screen when an offline translation package download was cancelled by the user. [CHAR LIMIT=40] */
+"DOWNLOAD_CANCELLED_HUD_MESSAGE" = "Преузимање је отказано";
+
+/* Label on a message that appears briefly at the bottom of the screen when a offline translation package download completes. [CHAR LIMIT=40] */
+"DOWNLOAD_COMPLETED_HUD_MESSAGE" = "Преузимање је завршено";
+
+/* Text to describe the amount of storage space available on the device.PH_1: a placeholder for the amount of space available in human readable units (eg: 200MB). You may modify its position. [CHAR LIMIT=35] */
+"DOWNLOAD_DIALOG_PACKAGE_SUBTITLE" = "%@ доступног меморијског простора";
+
+/* Text to describe a file to be downloaded for offline translation support which is displayed in a download dialog.PH_1: a placeholder for the size of the file in human readable units (eg: 20MB). [CHAR LIMIT=25] */
+"DOWNLOAD_DIALOG_PACKAGE_TITLE" = "Датотека за превођење (%@)";
+
+/* Additional text that is displayed in the header of a download dialog when the user is updating an existing offline translation package to a newer version. [CHAR LIMIT=60] */
+"DOWNLOAD_DIALOG_UPDATE_BANNER_TEXT" = "Актуелна датотека за превођење је застарела";
+
+/* Additional text that is displayed in the header of a download dialog when the user is upgrading an existing offline translation package. [CHAR LIMIT=60] */
+"DOWNLOAD_DIALOG_UPGRADE_BANNER_TEXT" = "Надоградите да бисте добили боље офлајн преводе";
+
+/* Error message shown when download of offline packages failed. [CHAR LIMIT=20] */
+"DOWNLOAD_FAILED_ERROR_MESSAGE" = "Преузим. није успело";
+
+/* The body of an error dialog shown when a user-initiated download failed because there was a network failure or the network was unavailable. [CHAR LIMIT=100] */
+"DOWNLOAD_FAILED_OFFLINE_BODY" = "Проверите мрежну везу и покушајте поново.";
+
+/* The title of an error dialog shown when a user-initiated download failed because there was a network failure or the network was unavailable. [CHAR LIMIT=45] */
+"DOWNLOAD_FAILED_OFFLINE_TITLE" = "Преузимање језика није успело";
+
+/* Title to show failed language package download. [CHAR LIMIT=20] */
+"DOWNLOAD_FAILED_TITLE" = "Преузим. није успело";
+
+/* Accessibility hint to download the files necessary to offline translation. */
+"DOWNLOAD_LANGUAGE_HINT" = "Двапут додирните да бисте преузели.";
+
+/* Label for downloading languages [CHAR LIMIT=20] */
+"DOWNLOAD_LANGUAGE_TITLE" = "Преузми језик";
+
+/* Accessibility action name for the action to start the download of an offline translation file for currently selected langauge. This action name is spoken by the screen reader  as part of a list of actions that the user make take on language in the language menu. [CHAR LIMIT=25] */
+"DOWNLOAD_OFFLINE_FILE_A11Y_ACTION" = "Преузми";
+
+/* Title for a settings screen where users can configure whether or not to allow downloads over cellular networks. [CHAR LIMIT=40] */
+"DOWNLOAD_SETTINGS_ALLOW_CELLULAR_LABEL" = "Wi-Fi или мобилна мрежа";
+
+/* Title for a settings screen where users can configure whether or not to allow downloads over cellular networks. [CHAR LIMIT=25] */
+"DOWNLOAD_SETTINGS_ALWAYS_ASK_LABEL" = "Увек питај";
+
+/* Option in a dialog shown to users after they start a download, asking them to choose whether or not to allow downloads over cellular networks. [CHAR LIMIT=40] */
+"DOWNLOAD_SETTINGS_DIALOG_ALLOW_CELLULAR_LABEL" = "Користи Wi-Fi или мобилну мрежу";
+
+/* Title for a switch in a dialog shown to users after they start a download, asking them to choose whether or not to allow downloads over cellular networks. [CHAR LIMIT=25] */
+"DOWNLOAD_SETTINGS_DIALOG_REMEMBER_SETTINGS_LABEL" = "Запамти ово подешавање";
+
+/* Title for a dialog shown to users after they start a download, asking them to choose whether or not to allow downloads over cellular networks. [CHAR LIMIT=25] */
+"DOWNLOAD_SETTINGS_DIALOG_TITLE" = "Подешавања преузимања";
+
+/* Option in a dialog shown to users after they start a download, asking them to choose whether or not to allow downloads over cellular networks. [CHAR LIMIT=40] */
+"DOWNLOAD_SETTINGS_DIALOG_WIFI_ONLY_LABEL" = "Користи само Wi-Fi";
+
+/* Title for a settings screen where users can configure whether or not to allow downloads over cellular networks. [CHAR LIMIT=25] */
+"DOWNLOAD_SETTINGS_TITLE" = "Подешавања преузимања";
+
+/* Title for a settings screen where users can configure whether or not to allow downloads over cellular networks. [CHAR LIMIT=40] */
+"DOWNLOAD_SETTINGS_WIFI_ONLY_LABEL" = "Само Wi-Fi";
+
+/* Label on a message that appears briefly at the bottom of the screen when a user starts a download of an offline translation package. [CHAR LIMIT=40] */
+"DOWNLOAD_STARTED_HUD_MESSAGE" = "Покушава се преузимање";
+
+/* Description to inform the user that no language packages are available for download currently. [CHAR LIMIT=150] */
+"DOWNLOAD_UNAVAILABLE_DESCRIPTION" = "Ниједан језички пакет није тренутно доступан. Поново проверите касније.";
+
+/* Title to show download packages are unavailable.[CHAR LIMIT=20] */
+"DOWNLOAD_UNAVAILABLE_TITLE" = "Преузми пакет";
+
+/* Section header for downloaded languages.[CHAR LIMIT=20] */
+"DOWNLOADED_LANGUAGES_HEADER" = "Преузети језици";
+
+/* Section header for downloading languages.[CHAR LIMIT=20] */
+"DOWNLOADING_LANGUAGES_HEADER" = "Преузимање";
+
+/* Error dialog body for generic failure.  '%ld' is a placeholder for a numeric error code. (no limit) */
+"ERROR_MESSAGEBOX_BODY_GENERAL_FAILURE" = "Дошло је до грешке. Покушајте поново. Кôд грешке: %ld";
+
+/* Error message for a network error when sending a photo OCR request to server (80 chars) */
+"ERROR_MESSAGEBOX_CAMERA_INPUT_REQUEST_ERROR_MESSAGE" = "Дошло је до грешке при слању слике. Покушајте поново касније.";
+
+/* Error message for translation error. (no limit) */
+"ERROR_MESSAGEBOX_MESSAGE" = "Google преводилац није могао да успостави мрежну везу да би испунио ваш захтев. Проверите мрежну везу и покушајте поново.";
+
+/* Error dialog title for generic failure (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_GENERAL_FAILURE" = "Грешка";
+
+/* Error dialog title for a network error (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_NETWORK_ERROR" = "Грешка на мрежи";
+
+/* Error dialog title for an error when sending a photo image to server (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_S3REQUEST_ERROR" = "Није било могуће послати слику";
+
+/* Error dialog title when failing to save a translation (20 chars) */
+"ERROR_MESSAGEBOX_TITLE_STAR_TABLE_FULL_FAILURE" = "Грешка";
+
+/* Error dialog title for a timeout error (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_TIMEOUT_ERROR" = "Време је истекло";
+
+/* Error dialog title for translation failure (30 chars) */
+"ERROR_MESSAGEBOX_TITLE_TRANSLATION_FAILURE" = "Грешка на мрежи";
+
+/* Message shown when no text is found in a given photo. (50 chars) */
+"ERROR_NO_TEXT_FOUND" = "Није пронађен текст";
+
+/* Message shown when no text is found in a given photo. PH_1: a placeholder for language name (eg: French). You may modify its position in the final text, but it should be present in the final text. (50 chars) */
+"ERROR_NO_TEXT_FOUND_WITH_LANGNAME" = "Није пронађен %@ текст";
+
+/* Accessibility hint for a button that exits the full screen view. */
+"EXIT_FULL_SCREEN_A11Y_LABEL" = "Изађи из режима целог екрана";
+
+/* Label shown below the German to Arabic instant translation package in settings [CHAR LIMIT=40]. */
+"GERMAN_ARABIC_SETTINGS_SUBTITLE" = "Побољшава тренутни превод камером";
+
+/* Settings option description for toggling the automatic recognition result insertion feature for handwriting recognition (140 chars.) */
+"HANDWRITING_AUTOMATIC_INSERTION_DETAILS" = "Аутоматски потврдите текст написан руком уметањем у оквир са текстом. Када је онемогућен, руком писани текст потврдите помоћу тастера за размак.";
+
+/* Accessibility label for translate handwriting mode button */
+"HANDWRITING_INPUT_MODE_BUTTON_ACCESSIBILITY_LABEL" = "Преведи рукопис";
+
+/* The text prompt to instruct the user to write inside the textbox. (20 chars) */
+"HANDWRITING_INPUT_PLACEHOLDER" = "Пишите овде";
+
+/* Hint message shown on starred view when there is no starred translation yet (50 chars) */
+"HINT_STAR" = "Означите превод звездицом да бисте га видели овде.";
+
+/* The text prompt to instruct the user that they can swipe a history translation to remove it. (40 chars) */
+"HINT_SWIPE_TO_REMOVE" = "Превуците да бисте уклонили превод";
+
+/* Title of a table section that displays previous translations. (60 chars) */
+"HISTORY_SUGGESTION_SECTION_HEADER" = "Предлози из историје";
+
+/* Accessibility label for backspace button. */
+"HWR_BACKSPACE_A11Y_LABEL" = "Тастер за брисање уназад";
+
+/* Title of a dialog box that asks if the user allows Google to retain image data to improve quality (30 chars) */
+"IMPROVE_CAMERA_TITLE" = "Побољшајте унос камером";
+
+/* Hint text shown on the input card when there is no current input. This hint helps those users who cannot find a way to bring up virtual keyboard to type input text. (40 chars) */
+"INPUT_PLACEHOLDER" = "Додирните да бисте унели текст";
+
+/* The input view on the home page is colored grey and disabled and this message is shown when there is no network available and the currently selected langauges do not support offline translation. [CHAR LIMIT=50] */
+"INPUT_VIEW_OFFLINE_ERROR_MESSAGE" = "Ви сте офлајн";
+
+/* Label shown on the input view when there is no network connectivity and the user does not have offline translation support files installed for the currently selected languages. [CHAR LIMIT=25] */
+"INPUT_VIEW_OFFLINE_LABEL" = "Ви сте офлајн";
+
+/* Accessibility label for instant translate camera input mode button */
+"INSTANT_CAMERA_INPUT_MODE_BUTTON_A11Y_LABEL" = "Тренутни превод камером";
+
+/* The text of a card shown to user attempting text translation when the network is not available and the current selected languages do not support offline text translation. [CHAR LIMIT=100] */
+"INSTANT_TEXT_OFFLINE_ERROR_MESSAGE" = "Превођење није успело. Проверите мрежну везу и покушајте поново.";
+
+/* Dialog body on an error dialog shown to users when they attempt to download offline translation support files and there is not enough storage available on their device. [CHAR LIMIT=200] */
+"INSUFFICIENT_STORAGE_DIALOG_BODY" = "Дошло је до грешке при преузимању датотеке за офлајн превођење. Ослободите меморијски простор, па покушајте поново.";
+
+/* Title on an error dialog shown to users when they attempt to download offline translation support files and there is not enough storage available on their device. [CHAR LIMIT=30] */
+"INSUFFICIENT_STORAGE_DIALOG_TITLE" = "Недовољно меморијског простора";
+
+/* Accessibility label for translate keyboard input mode button */
+"KEYBOARD_INPUT_MODE_BUTTON_ACCESSIBILITY_LABEL" = "Преведи текст";
+
+/* Label for a sheet title that sends feedback. (20 chars) */
+"LABEL_SEND_FEEDBACK" = "Послати повр. инфо?";
+
+/* Settings option for toggling the shake to send feedback. (20 chars) */
+"LABEL_SHAKE_FEEDBACK_SETTINGS" = "Покрет протресања";
+
+/* Settings option label for the sub-page for toggling the shake to send feedback (40 chars.) */
+"LABEL_SHAKE_FEEDBACK_SETTINGS_VIEW" = "Протреси и пошаљи повратне информације";
+
+/* Settings option description for toggling the shake to send feedback (140 chars.) */
+"LABEL_SHAKE_GESTURE_DETAILS" = "Протресите уређај да бисте нашем тиму послали повратне информације о Google преводиоцу";
+
+/* Accessibility hint for a language button */
+"LANGUAGE_A11Y_HINT" = "Мења језик.";
+
+/* Accessibilty hint for a button labelled with a language name that when pressed, listens for just that single language. [CHAR LIMIT=80] */
+"LANGUAGE_VOICE_BUTTON_A11Y_HINT" = "Препознаје један језик.";
+
+/* Subtitle for a confirmation dialog when a user taps a link that leaves the Translate app.[CHAR LIMIT=160] */
+"LEAVE_APP_DIALOG_SUBTITLE" = "Ова радња отвара спољашњу апликацију. Да бисте се вратили, двапут кликните на дугме за почетни екран.";
+
+/* Title for a confirmation dialog when a user taps a link that leaves the Translate app.[CHAR LIMIT=50] */
+"LEAVE_APP_DIALOG_TITLE" = "Желите ли да изађите из апликације Преводилац?";
+
+/* Message shown when voice input is active and the app can recognize speech in either one of the two languages selected. (50 chars) */
+"LISTENING_BOTH_LANGS_MESSAGE" = "Препознавање оба језика";
+
+/* Accessibility hint for double-tap and hold gesture to copy the current item to the clipboard. */
+"LONG_PRESS_TO_COPY_A11Y_HINT" = "Двапут додирните и задржите да бисте копирали.";
+
+/* Message shown while waiting for the text in the photo to be recognized by the server; PH_1: a placeholder for language name (eg: French). You may modify its position in the final text, but it should be present in the final text. [CHAR LIMIT=50] */
+"LOOKING_FOR_TEXT_MESSAGE" = "Тражи се %@ текст…";
+
+/* Error message when failing to save a translation. (120 chars) */
+"MESSAGEBOX_STAR_TABLE_FULL_FAILED" = "Жао нам је, не можемо да сачувамо ваш превод. Достигли сте ограничење за преводе са звездицом.";
+
+/* Dialog title for Text To Speech network error (30 chars) */
+"MESSAGEBOX_TITLE_TTS_NETWORK_FAILED" = "Грешка на мрежи";
+
+/* Message box message to notify that Text To Speech failed to download audio data because of network error. (no Limit) */
+"MESSAGEBOX_TTS_NETWORK_FAILED" = "Ова функција захтева мрежну везу. Проверите мрежну везу и покушајте поново.";
+
+/* Message box message to notify that Text To Speech will not work because the input text is too long. (no Limit) The parameter is the max number of characters accepted. */
+"MESSAGEBOX_TTS_TEXT_TOO_LONG" = "Претварање текста у говор ограничено је на %d знак(ов)а. Скратите текст и покушајте поново";
+
+/* Message box message to notify that Text To Speech will not work because the volume on the device is off. (No limit) */
+"MESSAGEBOX_TTS_VOLUME_OFF" = "Звук је искључен на вашем уређају. Појачајте звук и покушајте поново.";
+
+/* Accessibility label for translate microphone input mode button */
+"MIC_INPUT_MODE_BUTTON_ACCESSIBILITY_LABEL" = "Преведи говор";
+
+/* The body of a model dialog shwown when the user tries to start voice input but we lack permission to use the mic.  The primary action button of this dialog will send the user to the Settings app to fix the permission problem.  '%@' is the name of the Translate application. [CHAR LIMIT=200] */
+"MIC_PERMISSIONS_HELP_SUBTITLE" = "%@ треба да има дозволу да користи микрофон.";
+
+/* Title of modal dialog shown when the user tries to start voice input but we lack permission to use the mic. The body of this dialog instructs the user how to change the permissions setting. [CHAR LIMIT=40] */
+"MIC_PERMISSIONS_HELP_TITLE" = "Не може да користи микрофон";
+
+/* Label on a message that appears briefly at the bottom of the screen when a user attempts an action that requires a network connection when the network is not available. [CHAR LIMIT=50] */
+"NETWORK_UNAVAILABLE_HUD_MESSAGE" = "Ова функција није доступна офлајн";
+
+/* Text that appears in the main body of a dialog for downlading files necessary for offline translation.  [CHAR LIMIT=200] */
+"OFFLINE_DOWNLOAD_DIALOG_BODY" = "Преводите овај језик чак и када сте офлајн тако што ћете преузети датотеке за офлајн превођење.";
+
+/* Subtitle of a dialog box for downloading files necessary for offline translation.  [CHAR LIMIT=40] */
+"OFFLINE_DOWNLOAD_DIALOG_SUBTITLE" = "Офлајн превођење";
+
+/* The text of a card shown to users when the network is unavailable to promote the use of the offline translation feature. */
+"OFFLINE_PROMO_CARD_BODY_OFFLINE" = "Преводите чак и када сте офлајн тако што ћете преузети датотеку за офлајн превођење следећи пут када сте повезани.";
+
+/* The text of a card shown to users when the network is available to promote the use of the offline translation feature. */
+"OFFLINE_PROMO_CARD_BODY_ONLINE" = "Преводите чак и када сте офлајн тако што ћете преузети датотеку за офлајн превођење.";
+
+/* Text that appears underneth translated text when when the translation was made with offline dictionaries. [CHAR LIMIT=25] */
+"OFFLINE_RESULT_LABEL" = "Офлајн";
+
+/* Label for a button to allow the app to perform an particular action. (30 chars) */
+"OK_BUTTON_LABEL" = "Потврди";
+
+/* Header text for an open source license. */
+"OPEN_SOURCE_LICENSE_HEADER_TEXT" = "Овај софтвер се делимично заснива на лиценци %@:";
+
+/* Header text for an open source license. 'Translate' in this message is the name of product Google Translate (80 chars) */
+"OPEN_SOURCE_LICENSE_HEADER_TEXT_TRANSLATE" = "Преводилац такође садржи материјал из %@:";
+
+/* The text that appears when a user performs a long-press copy on the original text of a translation result. */
+"ORIGINAL_TEXT_COPIED" = "Оригинални текст је копиран";
+
+/* There was an unexpected error when processing the image, so photo import was cancelled. */
+"PHOTO_IMPORT_ERR_PREPARING" = "Дошло је до грешке приликом припреме слике за увоз.";
+
+/* Message shown when the app is processing and the user needs to wait before taking a next action. For example this message is shown when the app is setting up a connection with the speech server and is not ready to recognize speech input from the user. (50 chars) */
+"PLEASE_WAIT_MESSAGE" = "Сачекајте…";
+
+/* Message shown when the app is preparing text-to-speech for translation text of a speech recognition result. (50 chars) */
+"PREPARING_TTS_MESSAGE" = "Припрема се говор...";
+
+/* The section title for showing a list of languages that are used recently. (40 chars) */
+"RECENT_USED_LANGUAGES" = "Недавно коришћени језици";
+
+/* Accessibility action name for action to remove a translated item.  This name is spoken by the screen reader as part of a list of actions the user may take on a translated item. */
+"REMOVE_A11Y_ACTION" = "Уклони";
+
+/* Title to remove language package. [CHAR LIMIT=20] */
+"REMOVE_PACKAGE_TITLE" = "Уклони пакет";
+
+/* Alert popup button to opt in to (yes, approve, agree) sending crash reports. (10 chars) */
+"REPORT_CRASHES_OPT_IN" = "Потврди";
+
+/* Alert popup button to opt out of (no, disapprove, deny) sending crash reports. (10 chars) */
+"REPORT_CRASHES_OPT_OUT" = "Не, хвала";
+
+/* Text to ask users to choose whether to send anonymous crash reports. (120 chars) */
+"REPORT_CRASHES_PROMPT" = "Желите ли да шаљете анонимне извештаје о отказивању да бисте помогли да се ова апликација побољша?";
+
+/* Label for search input text bar by which the user can enter text to search for a language. (15 chars) */
+"SEARCH_BAR_HINT" = "Претрага";
+
+/* Label for a yes/no switch that enables automatic crash reporting. (25 chars) */
+"SEND_CRASH_REPORTS" = "Шаљи извеш. о отказивању";
+
+/* Label for a feature in the settings page that has been disabled (8 chars.) */
+"SETTINGS_FEATURE_DISABLED" = "Искључи";
+
+/* Label for a feature in the settings page that has been enabled (8 chars.) */
+"SETTINGS_FEATURE_ENABLED" = "Укључено";
+
+/* Accessibility label for a button that opens a menu of options for sharing translated text, such as via Mail, SMS, or Facebook. */
+"SHARE_A11Y_LABEL" = "Дели";
+
+/* Message shown after the user takes the picture [CHAR LIMIT=50] */
+"SMUDGE_TO_READ_HINT" = "Истакните текст прстом";
+
+/* Accessibility label for the source language button. PH_1: a placeholder for language name (eg: French). You may modify its position in the final text, but it should be present in the final text. [CHAR LIMIT=50] */
+"SOURCE_LANGUAGE_A11Y_LABEL" = "Оригинални језик: %@";
+
+/* Text that labels the spacebar in a keyboard. (12 chars) */
+"SPACE" = "размак";
+
+/* Message shown when voice input is active (50 chars) */
+"SPEAK_NOW_MESSAGE" = "Говорите сада";
+
+/* Accessibility hint for a button that speaks the original text using Google's text-to-speech engine. */
+"SPEAK_ORIGINAL_TEXT_A11Y_LABEL" = "Изговори оригинални текст";
+
+/* Prompt message for when TTs is not available for a language. (100 chars) */
+"SPEAK_OUTPUT_NOT_AVAILABLE" = "Снимак говора није доступан за овај језик";
+
+/* Accessibility hint for a button that speaks text using Google's text-to-speech engine. */
+"SPEAK_TEXT_A11Y_HINT" = "Изговара помоћу Google система за претварање текста у говор.";
+
+/* Accessibility hint for a button that speaks the translated text using Google's text-to-speech engine. */
+"SPEAK_TRANSLATED_TEXT_A11Y_LABEL" = "Изговори преведени текст";
+
+/* Accessibility label for history item star button.  In This context 'star' is used as a verb.(40 chars) */
+"STAR_BUTTON_ACCESSIBILITY_LABEL" = "Додај звездицу преводу";
+
+/* Accessibility value for a translated item that has been starred by the user.  Read by the screen reader as part of the item description. */
+"STARRED_ITEM_A11Y_VALUE" = "Обележено звездицом";
+
+/* An error message for a downloadable file shown when the file could not be saved. [CHAR LIMIT=50] */
+"STORAGE_FAILURE_ERROR_MESSAGE" = "Чување датотеке није успело.";
+
+/* Summary for speech input settings for blocking offensive words. (80 chars.) */
+"SUMMARY_SPEECH_PROFANITY_FILTER_SETTINGS" = "Сакриј препознате увредљиве говорне резултате";
+
+/* Accessibility hint for a button that displays the current translation in a full screen view. */
+"SUPERSIZE_A11Y_HINT" = "Двапут додирните да бисте проширили превод на цео екран.";
+
+/* Accessibility label for a button that displays the current translation in a full screen view. */
+"SUPERSIZE_A11Y_LABEL" = "Цео екран";
+
+/* Short label for swap language button. [CHAR LIMIT=25] */
+"SWAP_LANG_HINT" = "Замени места језицима";
+
+/* The enumerated position of a tab in the tab bar for VoiceOver. */
+"TAB_1_OF_3" = "Картица, прва од три";
+
+/* The enumerated position of a tab in the tab bar for VoiceOver. */
+"TAB_2_OF_3" = "Картица, друга од три";
+
+/* The enumerated position of a tab in the tab bar for VoiceOver. */
+"TAB_3_OF_3" = "Картица, трећа од три";
+
+/* The tab title for the main application page where users input to translate texts. (noun). (10 chars) */
+"TAB_HOME" = "Почетна";
+
+/* Button label for the Settings section). (10 chars) */
+"TAB_SETTINGS" = "Подешавања";
+
+/* Button label for the starred results section. (noun) (10 chars) */
+"TAB_STARRED" = "Са звездицом";
+
+/* Accessibility label for the target language button. PH_1: a placeholder for language name (eg: French). You may modify its position in the final text, but it should be present in the final text. [CHAR LIMIT=50] */
+"TARGET_LANGUAGE_A11Y_LABEL" = "Језик превода: %@";
+
+/* The text that appears when a user performs a long-press copy on text.  (50 chars) */
+"TEXT_COPIED" = "Текст је копиран";
+
+/* Page title for about page of the application. (noun) (20 chars) */
+"TITLE_ABOUT" = "Основни подаци";
+
+/* Cell title for the automatic insertion setting. (noun) (25 chars) */
+"TITLE_AUTOMATIC_INSERTION_CELL" = "Аутоматска потврда";
+
+/* Page title for camera input settings page of the application. (noun) (30 chars) */
+"TITLE_CAMERA_INPUT_SETTINGS" = "Унос помоћу камере";
+
+/* Title for the button to open a page showing legal notices for dictionaries and other translation materials used by Google Translate. (noun)(30 chars) */
+"TITLE_CONTENT_LICENSES" = "Лиценце за садржај";
+
+/* Page title for crash reports settings. (noun) (20 chars) */
+"TITLE_CRASH_REPORTS" = "Слање извеш. о отк.";
+
+/* Cell title for the crash reports setting. (noun) (20 chars) */
+"TITLE_CRASH_REPORTS_CELL" = "Извештаји о отказив.";
+
+/* Page title for feedback settings. (noun) (20 chars) */
+"TITLE_FEEDBACK" = "Повратне информације";
+
+/* Page title for handwriting recognition settings page of the application. (noun) (30 chars) */
+"TITLE_HANDWRITING_SETTINGS" = "Писање руком";
+
+/* Title for the button to show the open source licenses page. (noun)(25 chars) */
+"TITLE_LICENSES" = "Лиценце отвор. кода";
+
+/* Title for a screen showing offline translationlanguage management.[CHAR LIMIT=35] */
+"TITLE_OFFLINE_TRANSLATION_SETTINGS" = "Офлајн превођење";
+
+/* Title of the button to open the privacy policy page. (noun)(25 chars) */
+"TITLE_PRIVACY_POLICY" = "Политика приватн.";
+
+/* Settings menu label for submitting an App Store Review.  (40 chars) */
+"TITLE_REVIEW_APP_CELL" = "Оцени у App Store-у";
+
+/* Page title for the settings page of the application. (noun) (20 chars) */
+"TITLE_SETTINGS" = "Подешавања";
+
+/* Label for source language selection navigation title (25 chars) */
+"TITLE_SOURCE_LANGUAGE" = "Превод са језика";
+
+/* Label for the speech input 'dialects' section. (30 chars.) */
+"TITLE_SPEECH_DIALECTS_SETTINGS" = "Дијалекти";
+
+/* Label for speech input settings for blocking offensive words. (30 chars) */
+"TITLE_SPEECH_PROFANITY_FILTER_SETTINGS" = "Блокирај увредљиве речи";
+
+/* Title for page containing items user has starred or favorited. (10 chars) */
+"TITLE_STAR" = "Са звездицом";
+
+/* Label for target langugage selection navigation title (25 chars) */
+"TITLE_TARGET_LANGUAGE" = "Превод на";
+
+/* Title for the button that shows the terms of service page. (noun)(25 chars) */
+"TITLE_TERMS_OF_SERVICE" = "Услови коришћења услуге";
+
+/* Accessibility hint for a setting that can be toggled on or off */
+"TOGGLE_SETTING_A11Y_HINT" = "Двапут додирните да бисте укључили/искључили подешавање.";
+
+/* Accessibility value for a toggle setting when the setting is turned off. */
+"TOGGLE_SETTING_A11Y_VALUE_OFF" = "Искључено";
+
+/* Accessibility value for a toggle setting when the setting is turned on. */
+"TOGGLE_SETTING_A11Y_VALUE_ON" = "Укључено";
+
+/* Accessibility action name for action to toggle the star on a translated item.  This name is spoken by the screen reader as part of a list of actions the user may take on a translated item. */
+"TOGGLE_STAR_A11Y_ACTION" = "Додај/уклони звездицу";
+
+/* Tooltip that hovers above the button to tap to send image to the server for improved translation (20 chars) */
+"TOOLTIP_ENHANCE" = "Побољшај";
+
+/* Caption of the tour screen describing to the user that tapping on the text box with blue text will read that text aloud. [CHAR LIMIT=80] */
+"TOUCH_BLUE_TEXT_FOR_TTS_HINT" = "Додирните плави превод да бисте га чули поново";
+
+/* Message shown when voice input is not active (50 chars) */
+"TOUCH_MIC_TO_START_MESSAGE" = "Додирните микрофон да бисте почели да говорите";
+
+/* Caption of the tour screen describing to the user the button to tap to listen for a response. [CHAR LIMIT=80] */
+"TOUCH_OTHER_LANG_FOR_RESPONSE_HINT" = "Додирните други језик да бисте чули одговор";
+
+/* Caption of the tour screen describing to the user that tapping on the text box with red text will allow user to edit that text. [CHAR LIMIT=80] */
+"TOUCH_RED_TEXT_TO_EDIT_HINT" = "Додирните црвени изворни текст да бисте га изменили";
+
+/* Title for a detected source language selection [CHAR LIMIT=50] */
+"TRANSLATE_FROM_TEXT_TITLE" = "Преведи са језика:";
+
+/* The localized full name the Google translate product including the 'Google' part. */
+"TRANSLATE_FULL_PRODUCT_NAME" = "Google преводилац";
+
+/* The localized short name the Google Translate product, without the 'Google' part. */
+"TRANSLATE_PRODUCT_NAME" = "Преводилац";
+
+/* The text that appears when a user performs a long-press copy on the full-screen translation. */
+"TRANSLATION_COPIED" = "Превод је копиран";
+
+/* Accessibility hint for showing translation details. */
+"TRANSLATION_DETAILS_A11Y_HINT" = "Двапут додирните да бисте видели детаље превода.";
+
+/* Accessibility label for translation details icon */
+"TRANSLATION_DETAILS_A11Y_LABEL" = "Прикажи детаље";
+
+/* The text that appears when a user performs a tap on a dictionary result entry. */
+"TRANSLATION_EDITED" = "Превод је измењен";
+
+/* Accessibility description for the Latin transcription of non-Latin text. */
+"TRANSLITERATED_TEXT_LABEL_A11Y_HINT" = "Транскрипција";
+
+/* The title of a button that will send the user to the Settings app to turn on microphone permissions. [CHAR LIMT=35] */
+"TURN_ON_MICROPHONE_BUTTON_LABEL" = "Укључи микрофон";
+
+/* An accessibility label for a downloadable languagepackage that supports translations in one directionfrom English to another language.  %%@ is a placeholder for a language name. */
+"UNIDIRECTIONAL_FROM_ENGLISH_LANGUAGE_PACK_A11Y_LABEL" = "%@, са енглеског.";
+
+/* Accessibility value for a translated item that has not been starred by the user.  Read by the screen reader as part of the item description. */
+"UNSTARRED_ITEM_A11Y_VALUE" = "Без звездице";
+
+/* This value will be spoken by VoiceOver after the name of an offline translation package when there is an upgrade available for the package. [CHAR LIMIT=40] */
+"UPDATE_AVAILABLE_A11Y_VALUE" = "Доступно је ажурирање";
+
+/* Label on a button that will update an offline translation package from currently installed version, to the most recent version. [CHAR LIMIT=20] */
+"UPDATE_BUTTON_LABEL" = "Ажурирај";
+
+/* Additional descriptive text on a button that will update an offline translation packagefrom currently installed version, to the most recent version. [CHAR LIMIT=45] */
+"UPDATE_BUTTON_SUBTITLE" = "Доступна је новија верзија";
+
+/* The text of a card shown on the home screen when newer offline translation files are available. (no limit) */
+"UPDATE_PROMO_CARD_BODY" = "Доступне су новије датотеке за офлајн превођење. Прегледајте и ажурирајте претходно преузете језике.";
+
+/* The label of a call to action button on a card sown on the home screen when newer offline translation files are avilable.  When tapped, the button will launch a download confirmation dialog.  [CHAR LIMIT=40] */
+"UPDATE_PROMO_CARD_BUTTON_LABEL" = "Прикажи и ажурирај";
+
+/* Error message shown when a downloaded offline data package is obosolete and needs to be re-downloaded. [CHAR LIMIT=20] */
+"UPDATE_REQUIRED_ERROR_MESSAGE" = "Морате да ажурирате";
+
+/* This value will be spoken by VoiceOver after the name of an offline translation package when there is an upgrade available for the package. [CHAR LIMIT=40] */
+"UPGRADE_AVAILABLE_A11Y_VALUE" = "Доступна је надоградња";
+
+/* Label on a button that will upgrade an offline translation package from the smaller, less accurate version, to the larger, more accurate version. [CHAR LIMIT=20] */
+"UPGRADE_BUTTON_LABEL" = "Надогради";
+
+/* Additional descriptive text on a button that will upgrade an offline translation package from the smaller, less accurate version, to the larger, more accurate version. [CHAR LIMIT=45] */
+"UPGRADE_BUTTON_SUBTITLE" = "Доступна је верзија бољег квалитета";
+
+/* The text of a card shown next to offline translations performed with low quality offline translation packages, to encourage users to download the high quality offline translation packages. */
+"UPGRADE_PROMO_CARD_BODY_OFFLINE" = "Побољшајте офлајн преводе тако што ћете надоградити датотеке за офлајн превођење следећи пут када сте повезани.";
+
+/* The text of a card shown next to offline translations performed with low quality offline translation packages, to encourage users to download the high quality offline translation packages.  This is show whoen the user is online and looking at a translated item from translation history. */
+"UPGRADE_PROMO_CARD_BODY_ONLINE" = "Побољшајте офлајн преводе тако што ћете надоградити датотеке за офлајн превођење.";
+
+/* Title of a dialog box shown when the user is uploading a photo for OCR. */
+"UPLOAD_PHOTO_TITLE" = "Изаберите слику";
+
+/* The version string format. The parameter is the version number. (30 chars) */
+"VERSION_FORMAT" = "Верзија %@";
+
+/* Text to describe the larger of two options for a file to be downloaded for instant translation support which is displayed in a download dialog. [CHAR LIMIT=40] */
+"WORDLENS_DIALOG_LARGE_PACKAGE_SUBTITLE" = "Више фраза, већа датотека";
+
+/* Text to describe the larger and recommended of two options for a file to be downloaded for instant translation support which is displayed in a download dialog. PH_1: a placeholder for the size of the file in human readable units (eg: 20MB). [CHAR LIMIT=20] */
+"WORDLENS_DIALOG_LARGE_PACKAGE_TITLE" = "Препоручена (%@)";
+
+/* Text to describe the smaller of two options for a file to be downloaded for instant translation support which is displayed in a download dialog. [CHAR LIMIT=40] */
+"WORDLENS_DIALOG_SMALL_PACKAGE_SUBTITLE" = "Популарне речи у малој датотеци";
+
+/* Text to describe the smaller of two options for a file to be downloaded for instant translation support which is displayed in a download dialog. PH_1: a placeholder for the size of the file in human readable units (eg: 2MB). [CHAR LIMIT=20] */
+"WORDLENS_DIALOG_SMALL_PACKAGE_TITLE" = "Мања (%@)";
+
+/* Text that appears in the main body of a dialog for downlading files necessary for instant camera translation.  [CHAR LIMIT=200] */
+"WORDLENS_DOWNLOAD_DIALOG_BODY" = "Добијајте тренутне преводе помоћу камере преузимањем датотеке за офлајн превођење.";
+
+/* Subtitle of a dialog box for downloading files necessary for instant camera translation.  [CHAR LIMIT=40] */
+"WORDLENS_DOWNLOAD_DIALOG_SUBTITLE" = "Тренутни превод";
+
+/* The text of a card shown to users to encourage them to download language packages necessary to use the instant camera translation feature */
+"WORDLENS_PROMO_CARD_BODY" = "Добијајте тренутне преводе помоћу камере преузимањем датотеке за офлајн превођење.";
+
