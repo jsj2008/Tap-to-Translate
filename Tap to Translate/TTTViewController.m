@@ -77,15 +77,6 @@
 	[self.moreButton setImage:[self.moreButton.imageView.image imageWithRenderingMode:UIImageRenderingModeAlwaysTemplate] forState:UIControlStateNormal];
 }
 
-- (void)viewWillDisappear:(BOOL)animated
-{
-	[super viewWillDisappear:animated];
-	
-	[UIView animateWithDuration:.5 animations:^{
-		self.view.alpha = 0;
-	}];
-}
-
 - (void)textViewDidBeginEditing:(UITextView*)textView
 {
 	if(!self.translationButton.hidden) {

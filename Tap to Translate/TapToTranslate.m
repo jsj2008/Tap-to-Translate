@@ -50,8 +50,12 @@ static BOOL hook = YES;
 
 + (void)closeWindow
 {
-	[viewController removeFromParentViewController];
-	[viewController.view removeFromSuperview];
+	[UIView animateWithDuration:.5 animations:^{
+		viewController.view.alpha = 0;
+	} completion:^(BOOL finished) {
+		[viewController.view removeFromSuperview];
+		[viewController removeFromParentViewController];
+	}];
 }
 
 + (void)updateLanguage:(NSString*)language isInput:(BOOL)input
